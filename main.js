@@ -1,4 +1,4 @@
-import path from "path";
+import fs from 'fs'
 import puppeteer from "puppeteer";
 
 async function Get_Gainers() {
@@ -34,6 +34,8 @@ async function Get_Gainers() {
         Volume: cells[5].textContent,
         // Add more properties as needed
       };
+
+
       //Push the object into the data again
       data.push(celldata);
     });
@@ -44,6 +46,14 @@ async function Get_Gainers() {
   console.log(extractedData);
 
   await browser.close();
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync('gainers_data.json', jsonData, 'utf8');
+    console.log('Data written to gainers_data.json');
+  } catch (error) {
+    console.error('Error:', error);
+  }
 }
 
 async function Get_Losers() {
@@ -89,6 +99,14 @@ async function Get_Losers() {
   console.log(extractedData);
 
   await browser.close();
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync('Losers_data.json', jsonData, 'utf8');
+    console.log('Data written to Losers_data.json');
+  } catch (error) {
+    console.error('Error:', error);
+  }
 }
 
 async function Get_Top_Performers() {
@@ -129,6 +147,14 @@ async function Get_Top_Performers() {
 
   console.log(extractedData);
   await browser.close();
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync('Top_Performers_data.json', jsonData, 'utf8');
+    console.log('Data written to Top_Performers_data.json');
+  } catch (error) {
+    console.error('Error:', error);
+  }
 }
 
 async function Get_Industries() {
@@ -174,6 +200,14 @@ async function Get_Industries() {
   console.log(extractedData);
 
   await browser.close();
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync('Industries_data.json', jsonData, 'utf8');
+    console.log('Data written to Industries_data.json');
+  } catch (error) {
+    console.error('Error:', error);
+  }
 }
 
 async function Get_Sectors() {
@@ -218,10 +252,21 @@ async function Get_Sectors() {
   console.log(extractedData);
 
   await browser.close();
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync('Sectors_data.json', jsonData, 'utf8');
+    console.log('Data written to Sectors_data.json');
+  } catch (error) {
+    console.error('Error:', error);
+  }
 }
 
+
+
+
 //Get_Sectors()
-//Get_Industries();
+//Get_Industries()
 //Get_Gainers()
 //Get_Losers()
 //Get_Top_Performers()
