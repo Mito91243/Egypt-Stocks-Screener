@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+  padding: 16px;
+  margin-bottom: 16px;
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  border-bottom: 1px solid #2a2e39;
+}
+
+.gainers-table {
+  border-collapse: collapse;
+  border: 2px solid white;
+  margin-left: 16px;
+  margin-top: 32px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9em;
+  min-width: 96vw;
+}
+
+.gainers-table thead tr {
+  border-bottom: 1px solid #2a2e39;
+  text-align: left;
+}
+
+.gainers-table th,
+.gainers-table td {
+  padding: 12px 15px;
+}
+.gainers-table th {
+  color: #f93;
+}
+.gainers-table tbody tr:hover {
+  background-color: #132042;
+}
+
+h3 {
+  margin: 16px;
+  color: white;
+  cursor: pointer;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
