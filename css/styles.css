@@ -20,8 +20,13 @@ header {
 }
 
 .gainers-table thead tr {
+  background-color: #2a2e39;
   border-bottom: 1px solid #2a2e39;
   text-align: left;
+}
+
+.gainers-table tbody tr {
+    border-bottom: 1px solid #2a2e39;
 }
 
 .gainers-table th,
@@ -41,7 +46,25 @@ h3 {
   cursor: pointer;
 }
 
+#logo {
+    cursor: pointer;
+}
+
 nav {
     display: flex;
-    justify-content: center;
+    justify-content:space-between;
+}
+
+.options {
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.screeners {
+    display: flex;
+    justify-content: left;
 }

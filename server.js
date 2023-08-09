@@ -43,13 +43,13 @@ async function Get_Gainers() {
     return data;
   });
 
-  console.log(extractedData);
+  //console.log(extractedData);
 
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('gainers_data.json', jsonData, 'utf8');
+    fs.writeFileSync('./data/gainers_data.json', jsonData, 'utf8');
     console.log('Data written to gainers_data.json');
   } catch (error) {
     console.error('Error:', error);
@@ -96,13 +96,13 @@ async function Get_Losers() {
     return data;
   });
 
-  console.log(extractedData);
+  //console.log(extractedData);
 
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('Losers_data.json', jsonData, 'utf8');
+    fs.writeFileSync('./data/Losers_data.json', jsonData, 'utf8');
     console.log('Data written to Losers_data.json');
   } catch (error) {
     console.error('Error:', error);
@@ -145,12 +145,12 @@ async function Get_Top_Performers() {
     return data;
   });
 
-  console.log(extractedData);
+  //console.log(extractedData);
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('Top_Performers_data.json', jsonData, 'utf8');
+    fs.writeFileSync('./data/Top_Performers_data.json', jsonData, 'utf8');
     console.log('Data written to Top_Performers_data.json');
   } catch (error) {
     console.error('Error:', error);
@@ -197,13 +197,13 @@ async function Get_Industries() {
     return data;
   });
 
-  console.log(extractedData);
+  //console.log(extractedData);
 
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('Industries_data.json', jsonData, 'utf8');
+    fs.writeFileSync('./data/Industries_data.json', jsonData, 'utf8');
     console.log('Data written to Industries_data.json');
   } catch (error) {
     console.error('Error:', error);
@@ -249,13 +249,13 @@ async function Get_Sectors() {
     return data;
   });
 
-  console.log(extractedData);
+  //console.log(extractedData);
 
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('Sectors_data.json', jsonData, 'utf8');
+    fs.writeFileSync('./data/Sectors_data.json', jsonData, 'utf8');
     console.log('Data written to Sectors_data.json');
   } catch (error) {
     console.error('Error:', error);
@@ -263,8 +263,8 @@ async function Get_Sectors() {
 }
 
 
-//Get_Sectors()
-//Get_Industries()
-//Get_Gainers()
-//Get_Losers()
+Get_Sectors()
+Get_Industries()
+Get_Gainers()
+Get_Losers()
 //Get_Top_Performers()

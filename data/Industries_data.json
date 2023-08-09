@@ -3,7 +3,7 @@
     "Industry": "Agricultural Commodities/Milling",
     "Market_cap": "15.07B EGP",
     "Dividend_Yield_FWD": "4.38%",
-    "Percent": "−1.15%",
+    "Percent": "−0.70%",
     "Volume": "2.114M",
     "Sector": "Process Industries"
   },
@@ -11,7 +11,7 @@
     "Industry": "Aluminum",
     "Market_cap": "18.661B EGP",
     "Dividend_Yield_FWD": "10.00%",
-    "Percent": "−0.44%",
+    "Percent": "−0.82%",
     "Volume": "62.408K",
     "Sector": "Non-Energy Minerals"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Industry": "Apparel/Footwear Retail",
-    "Market_cap": "1.103B EGP",
+    "Market_cap": "1.104B EGP",
     "Dividend_Yield_FWD": "—",
     "Percent": "4.17%",
     "Volume": "0",
@@ -33,9 +33,9 @@
   },
   {
     "Industry": "Broadcasting",
-    "Market_cap": "7.285B EGP",
+    "Market_cap": "7.287B EGP",
     "Dividend_Yield_FWD": "7.21%",
-    "Percent": "0.00%",
+    "Percent": "−1.60%",
     "Volume": "500",
     "Sector": "Consumer Services"
   },
@@ -43,7 +43,7 @@
     "Industry": "Building Products",
     "Market_cap": "2.942B EGP",
     "Dividend_Yield_FWD": "1.63%",
-    "Percent": "−0.54%",
+    "Percent": "−0.40%",
     "Volume": "632.903K",
     "Sector": "Producer Manufacturing"
   },
@@ -67,7 +67,7 @@
     "Industry": "Construction Materials",
     "Market_cap": "8.318B EGP",
     "Dividend_Yield_FWD": "2.14%",
-    "Percent": "0.55%",
+    "Percent": "−0.72%",
     "Volume": "111.623K",
     "Sector": "Non-Energy Minerals"
   },
@@ -75,13 +75,13 @@
     "Industry": "Containers/Packaging",
     "Market_cap": "1.415B EGP",
     "Dividend_Yield_FWD": "0.40%",
-    "Percent": "0.51%",
+    "Percent": "0.32%",
     "Volume": "3.231M",
     "Sector": "Process Industries"
   },
   {
     "Industry": "Contract Drilling",
-    "Market_cap": "733.5M EGP",
+    "Market_cap": "733.73M EGP",
     "Dividend_Yield_FWD": "—",
     "Percent": "0.00%",
     "Volume": "0",
@@ -121,9 +121,9 @@
   },
   {
     "Industry": "Engineering & Construction",
-    "Market_cap": "28.12B EGP",
+    "Market_cap": "28.128B EGP",
     "Dividend_Yield_FWD": "4.25%",
-    "Percent": "−0.25%",
+    "Percent": "−0.21%",
     "Volume": "2.13M",
     "Sector": "Industrial Services"
   },
@@ -131,16 +131,16 @@
     "Industry": "Finance/Rental/Leasing",
     "Market_cap": "10.411B EGP",
     "Dividend_Yield_FWD": "3.38%",
-    "Percent": "0.19%",
+    "Percent": "3.28%",
     "Volume": "954.552K",
     "Sector": "Finance"
   },
   {
     "Industry": "Financial Conglomerates",
-    "Market_cap": "53.354B EGP",
-    "Dividend_Yield_FWD": "9.14%",
-    "Percent": "−0.54%",
-    "Volume": "2.66M",
+    "Market_cap": "53.368B EGP",
+    "Dividend_Yield_FWD": "9.13%",
+    "Percent": "−0.78%",
+    "Volume": "2.659M",
     "Sector": "Finance"
   },
   {
@@ -155,7 +155,7 @@
     "Industry": "Food Retail",
     "Market_cap": "1.668B EGP",
     "Dividend_Yield_FWD": "1.39%",
-    "Percent": "−0.32%",
+    "Percent": "0.10%",
     "Volume": "19.659K",
     "Sector": "Retail Trade"
   },
@@ -163,7 +163,7 @@
     "Industry": "Food: Meat/Fish/Dairy",
     "Market_cap": "19.992B EGP",
     "Dividend_Yield_FWD": "3.31%",
-    "Percent": "−1.06%",
+    "Percent": "−1.34%",
     "Volume": "410.783K",
     "Sector": "Consumer Non-Durables"
   },
@@ -171,7 +171,7 @@
     "Industry": "Food: Specialty/Candy",
     "Market_cap": "15.911B EGP",
     "Dividend_Yield_FWD": "3.12%",
-    "Percent": "−0.92%",
+    "Percent": "−0.78%",
     "Volume": "43.892K",
     "Sector": "Consumer Non-Durables"
   },
@@ -187,7 +187,7 @@
     "Industry": "Home Furnishings",
     "Market_cap": "10.373B EGP",
     "Dividend_Yield_FWD": "3.85%",
-    "Percent": "3.82%",
+    "Percent": "3.74%",
     "Volume": "1.601M",
     "Sector": "Consumer Durables"
   },
@@ -201,25 +201,25 @@
   },
   {
     "Industry": "Hospital/Nursing Management",
-    "Market_cap": "19.189B EGP",
+    "Market_cap": "19.192B EGP",
     "Dividend_Yield_FWD": "10.09%",
-    "Percent": "5.33%",
-    "Volume": "143.274K",
+    "Percent": "1.73%",
+    "Volume": "143.249K",
     "Sector": "Health Services"
   },
   {
     "Industry": "Hotels/Resorts/Cruise lines",
-    "Market_cap": "10.754B EGP",
+    "Market_cap": "10.756B EGP",
     "Dividend_Yield_FWD": "1.30%",
-    "Percent": "−1.19%",
-    "Volume": "39.196K",
+    "Percent": "1.32%",
+    "Volume": "39.192K",
     "Sector": "Consumer Services"
   },
   {
     "Industry": "Household/Personal Care",
     "Market_cap": "577.98M EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "−1.21%",
+    "Percent": "−1.62%",
     "Volume": "13.3M",
     "Sector": "Consumer Non-Durables"
   },
@@ -235,7 +235,7 @@
     "Industry": "Industrial Specialties",
     "Market_cap": "958.08M EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "5.05%",
+    "Percent": "−1.05%",
     "Volume": "4.661K",
     "Sector": "Process Industries"
   },
@@ -251,15 +251,15 @@
     "Industry": "Investment Banks/Brokers",
     "Market_cap": "47.934B EGP",
     "Dividend_Yield_FWD": "0.02%",
-    "Percent": "−0.78%",
-    "Volume": "130.417M",
+    "Percent": "−1.08%",
+    "Volume": "130.416M",
     "Sector": "Finance"
   },
   {
     "Industry": "Investment Managers",
     "Market_cap": "4.637B EGP",
-    "Dividend_Yield_FWD": "13.93%",
-    "Percent": "0.09%",
+    "Dividend_Yield_FWD": "13.91%",
+    "Percent": "−0.35%",
     "Volume": "997.268K",
     "Sector": "Finance"
   },
@@ -299,7 +299,7 @@
     "Industry": "Medical Distributors",
     "Market_cap": "2.577B EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "−1.27%",
+    "Percent": "−1.31%",
     "Volume": "7.271M",
     "Sector": "Distribution Services"
   },
@@ -315,7 +315,7 @@
     "Industry": "Metal Fabrication",
     "Market_cap": "1.268B EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "−4.04%",
+    "Percent": "−3.25%",
     "Volume": "15",
     "Sector": "Producer Manufacturing"
   },
@@ -323,8 +323,8 @@
     "Industry": "Miscellaneous Commercial Services",
     "Market_cap": "6.265B EGP",
     "Dividend_Yield_FWD": "7.83%",
-    "Percent": "1.31%",
-    "Volume": "879.419K",
+    "Percent": "0.67%",
+    "Volume": "879.416K",
     "Sector": "Commercial Services"
   },
   {
@@ -339,7 +339,7 @@
     "Industry": "Multi-Line Insurance",
     "Market_cap": "1.47B EGP",
     "Dividend_Yield_FWD": "1.23%",
-    "Percent": "−3.64%",
+    "Percent": "−0.18%",
     "Volume": "2.775K",
     "Sector": "Finance"
   },
@@ -355,7 +355,7 @@
     "Industry": "Oilfield Services/Equipment",
     "Market_cap": "1.883B EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "−0.78%",
+    "Percent": "0.00%",
     "Volume": "135.343K",
     "Sector": "Industrial Services"
   },
@@ -363,7 +363,7 @@
     "Industry": "Other Consumer Services",
     "Market_cap": "8.941B EGP",
     "Dividend_Yield_FWD": "1.55%",
-    "Percent": "0.73%",
+    "Percent": "0.38%",
     "Volume": "316.232K",
     "Sector": "Consumer Services"
   },
@@ -387,7 +387,7 @@
     "Industry": "Pharmaceuticals: Major",
     "Market_cap": "12.724B EGP",
     "Dividend_Yield_FWD": "2.83%",
-    "Percent": "0.55%",
+    "Percent": "−0.87%",
     "Volume": "441.499K",
     "Sector": "Health Technology"
   },
@@ -403,7 +403,7 @@
     "Industry": "Property/Casualty Insurance",
     "Market_cap": "1.423B EGP",
     "Dividend_Yield_FWD": "6.40%",
-    "Percent": "−14.42%",
+    "Percent": "1.05%",
     "Volume": "127",
     "Sector": "Finance"
   },
@@ -411,31 +411,31 @@
     "Industry": "Pulp & Paper",
     "Market_cap": "732.66M EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "−0.61%",
+    "Percent": "0.27%",
     "Volume": "1.56M",
     "Sector": "Process Industries"
   },
   {
     "Industry": "Real Estate Development",
-    "Market_cap": "109.049B EGP",
+    "Market_cap": "109.057B EGP",
     "Dividend_Yield_FWD": "0.79%",
-    "Percent": "−0.19%",
+    "Percent": "−0.23%",
     "Volume": "2.158M",
     "Sector": "Finance"
   },
   {
     "Industry": "Regional Banks",
-    "Market_cap": "288.876B EGP",
-    "Dividend_Yield_FWD": "3.59%",
+    "Market_cap": "287.066B EGP",
+    "Dividend_Yield_FWD": "3.62%",
     "Percent": "−0.10%",
-    "Volume": "5.616M",
+    "Volume": "5.651M",
     "Sector": "Finance"
   },
   {
     "Industry": "Specialty Stores",
     "Market_cap": "1.649B EGP",
     "Dividend_Yield_FWD": "8.63%",
-    "Percent": "−15.84%",
+    "Percent": "0.96%",
     "Volume": "9.651K",
     "Sector": "Retail Trade"
   },
@@ -451,7 +451,7 @@
     "Industry": "Textiles",
     "Market_cap": "1.445B EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "−0.53%",
+    "Percent": "−1.33%",
     "Volume": "39.975K",
     "Sector": "Process Industries"
   },
@@ -467,7 +467,7 @@
     "Industry": "Wholesale Distributors",
     "Market_cap": "7.61B EGP",
     "Dividend_Yield_FWD": "0.00%",
-    "Percent": "2.51%",
+    "Percent": "2.27%",
     "Volume": "7.587M",
     "Sector": "Distribution Services"
   },

@@ -15,17 +15,21 @@
   </head>
   <body>
     <header>
-      <div>EGYPT STOCK SCREENER</div>
+      <div id="logo"><a href="index.html">EGYPT STOCK SCREENER</a></div>
     </header>
     <nav>
+      <div class="screeners">
         <h3 id="Gainers">Top Gainers</h3>
-        <h3 id="Losers"> Top Losers</h3>
-        <h3 id="Sectors"> Sectors </h3>
-        <h3 id="Industries"> Industries</h3>
+        <h3 id="Losers">Top Losers</h3>
+        <h3 id="Sectors">Sectors</h3>
+        <h3 id="Industries">Industries</h3>
+      </div>
+      <div class="options">
+        <h3><a href="./pages/calculate.html">News Feed </a></h3>
+        <h3><a href="./pages/news-feed.html">Calculate</a></h3>
+      </div>
     </nav>
     <main>
-
-      </div>
       <table class="gainers-table" id="table1">
         <thead>
           <tr>
@@ -39,9 +43,7 @@
         <tbody id="content-1"></tbody>
       </table>
     </main>
-    <footer>
-        Side Project Done by MITO
-    </footer>
+    <footer>Side Project Done by MITO</footer>
     <script src="main.js"></script>
   </body>
 </html>

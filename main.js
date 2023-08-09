@@ -1,11 +1,13 @@
 document.getElementById("Gainers").addEventListener("click", Push_Gainers);
 document.getElementById("Losers").addEventListener("click", Push_Losers);
-document.getElementById("Sectors").addEventListener("click", Push_Gainers);
+document.getElementById("Sectors").addEventListener("click", Push_Losers);
 document.getElementById("Industries").addEventListener("click", Push_Gainers);
-
+document.getElementById("Calculator").addEventListener("click", Calculate);
+// * MUST ADD COMMENTS
+// TODO: ADD Green color to text if Change is +
 function Push_Gainers() {
   ClearTable();
-  fetch("gainers_data.json") // Replace with the correct path to your JSON file
+  fetch("./data/gainers_data.json") // Replace with the correct path to your JSON file
     .then((response) => response.json())
     .then((data) => {
       const tablebody = document.getElementById("content-1");
@@ -42,9 +44,11 @@ function Push_Gainers() {
     });
 }
 
+// * MUST ADD COMMENTS
+// TODO: ADD Green color to text if Change is +
 function Push_Losers() {
   ClearTable();
-  fetch("Losers_data.json") // Replace with the correct path to your JSON file
+  fetch("./data/Losers_data.json") // Replace with the correct path to your JSON file
     .then((response) => response.json())
     .then((data) => {
       const tablebody = document.getElementById("content-1");
@@ -80,9 +84,39 @@ function Push_Losers() {
       console.error("Error fetching JSON data:", error);
     });
 }
+
+// TODO: IMPELEMNT THE SECTORS SCREENER
+function Push_Sectors() {}
+// TODO: IMPLEMENT THE INDUSTRIES SCREENR
+function Push_Industries() {}
 
 function ClearTable() {
   const table = document.getElementById("content-1");
   table.innerHTML = " ";
 }
 
+function Calculate() {
+    
+}
+/*    const tablebody = document.getElementById("table1");
+
+    const thead = document.createElement("thead");
+    tablebody.appendChild(thead)
+
+    const trh = document.createElement("tr")
+    const Sector = document.createElement("th")
+    Sector.textContent = "Sector"
+    const Market_cap = document.createElement("th")
+    Market_cap.textContent = "Market Cap"
+    const Dividend_Yield_FWD = document.createElement("th")
+    Dividend_Yield_FWD.textContent = "Dividend Yield FWD"
+    const Percent = document.createElement("th")
+    Percent.textContent = "Percent"
+    const Volume = document.createElement("th")
+    Volume.textContent = "Volume"
+    thead.appendChild(trh)
+    trh.appendChild(Sector)
+    trh.appendChild(Market_cap)
+    trh.appendChild(Dividend_Yield_FWD)
+    trh.appendChild(Percent)
+    trh.appendChild(Volume)*/
