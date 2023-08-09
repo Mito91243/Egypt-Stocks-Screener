@@ -1,4 +1,4 @@
-import fs from 'fs'
+import fs from "fs";
 import puppeteer from "puppeteer";
 
 async function Get_Gainers() {
@@ -35,7 +35,6 @@ async function Get_Gainers() {
         // Add more properties as needed
       };
 
-
       //Push the object into the data again
       data.push(celldata);
     });
@@ -49,10 +48,10 @@ async function Get_Gainers() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('./data/gainers_data.json', jsonData, 'utf8');
-    console.log('Data written to gainers_data.json');
+    fs.writeFileSync("./data/gainers_data.json", jsonData, "utf8");
+    console.log("Data written to gainers_data.json");
   } catch (error) {
-    console.error('Error:', error);
+    console.error("Error:", error);
   }
 }
 
@@ -102,10 +101,10 @@ async function Get_Losers() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('./data/Losers_data.json', jsonData, 'utf8');
-    console.log('Data written to Losers_data.json');
+    fs.writeFileSync("./data/Losers_data.json", jsonData, "utf8");
+    console.log("Data written to Losers_data.json");
   } catch (error) {
-    console.error('Error:', error);
+    console.error("Error:", error);
   }
 }
 
@@ -150,10 +149,10 @@ async function Get_Top_Performers() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('./data/Top_Performers_data.json', jsonData, 'utf8');
-    console.log('Data written to Top_Performers_data.json');
+    fs.writeFileSync("./data/Top_Performers_data.json", jsonData, "utf8");
+    console.log("Data written to Top_Performers_data.json");
   } catch (error) {
-    console.error('Error:', error);
+    console.error("Error:", error);
   }
 }
 
@@ -203,10 +202,10 @@ async function Get_Industries() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('./data/Industries_data.json', jsonData, 'utf8');
-    console.log('Data written to Industries_data.json');
+    fs.writeFileSync("./data/Industries_data.json", jsonData, "utf8");
+    console.log("Data written to Industries_data.json");
   } catch (error) {
-    console.error('Error:', error);
+    console.error("Error:", error);
   }
 }
 
@@ -255,18 +254,63 @@ async function Get_Sectors() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync('./data/Sectors_data.json', jsonData, 'utf8');
-    console.log('Data written to Sectors_data.json');
+    fs.writeFileSync("./data/Sectors_data.json", jsonData, "utf8");
+    console.log("Data written to Sectors_data.json");
   } catch (error) {
-    console.error('Error:', error);
+    console.error("Error:", error);
+  }
+}
+async function Get_News_TradingView() {
+  // Launch the browser and open a new blank page
+  const browser = await puppeteer.launch({
+    headless: "new",
+  });
+  const page = await browser.newPage();
+
+  // Navigate the page to a URL
+  await page.goto("https://www.tradingview.com/markets/stocks-egypt/news/");
+
+  const extractedData = await page.evaluate(() => {
+    //Create Empty Array to push Data into
+    const data = [];
+
+    //Get All Table ROWS
+    const news = document.querySelectorAll(".container-rY32JioV");
+
+    // Loop through each row and extract data from elements within <td> cells
+    news.forEach((el) => {
+      const cell_headline = el.querySelector(".title-rY32JioV").textContent;
+      const cell_source = el.querySelector(".block-TUPxzdRV").textContent;
+      const celldata = {
+        Headline: cell_headline,
+        Source: cell_source,
+      };
+      //Push the object into the data again
+      data.push(celldata);
+    });
+    //return the data
+    return data;
+  });
+  //console.log(extractedData);
+  await browser.close();
+
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync("./data/News.json", jsonData, "utf8");
+    console.log("Data written to News.json");
+  } catch (error) {
+    console.error("Error:", error);
   }
 }
 
+//async function run() {
+  //await Get_Sectors();
+  //await Get_Industries();
+  //await Get_Gainers();
+  //await Get_Losers();
+  //await Get_Top_Performers()
+  //await Get_News_TradingView();
+//}
 
-Get_Sectors()
-Get_Industries()
-Get_Gainers()
-Get_Losers()
-Get_News_Reuters()
-Get_News_BloomBerg()
-//Get_Top_Performers()
+//setInterval(run, 900000);

@@ -3,6 +3,10 @@ document.getElementById("Losers").addEventListener("click", Push_Losers);
 document.getElementById("Sectors").addEventListener("click", Push_Losers);
 document.getElementById("Industries").addEventListener("click", Push_Gainers);
 document.getElementById("Calculator").addEventListener("click", Calculate);
+document.getElementById("news").addEventListener("click", Push_News);
+
+
+
 // * MUST ADD COMMENTS
 // TODO: ADD Green color to text if Change is +
 function Push_Gainers() {
@@ -95,9 +99,8 @@ function ClearTable() {
   table.innerHTML = " ";
 }
 
-function Calculate() {
-    
-}
+function Calculate() {}
+
 /*    const tablebody = document.getElementById("table1");
 
     const thead = document.createElement("thead");

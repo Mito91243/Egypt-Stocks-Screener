@@ -1,0 +1,80 @@
+.calculator {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.container {
+  box-sizing: border-box;
+  padding: 16px;
+  margin: 12px 0px 0px;
+  min-width: 0px;
+  display: inline-flex;
+  position: relative;
+  -webkit-box-align: center;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 1.6;
+  border-radius: 4px;
+  width: 300px;
+  border: none;
+  background-color: rgb(43, 49, 57);
+  height: 40px;
+}
+
+.placeholder {
+  font-size: 14px;
+  color: rgb(132, 142, 156);
+}
+
+input {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  color: rgb(234, 236, 239);
+  font-size: 14px;
+  padding-left: 4px;
+  padding-right: 4px;
+  text-align: left;
+  width: 60%;
+}
+
+.currency_txt {
+  color: white;
+}
+
+button {
+  appearance: none;
+  user-select: none;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: inherit;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  padding: 10px 16px;
+  line-height: 20px;
+  min-width: 60px;
+  word-break: keep-all;
+  color: rgb(24, 26, 32);
+  border-radius: 4px;
+  min-height: 24px;
+  border: none;
+  background-image: none;
+  height: 40px;
+  background-color: rgb(252, 213, 53);
+  width: 300px;
+}
+
+.calc {
+  margin-top: 16px;
+}
