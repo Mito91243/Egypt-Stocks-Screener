@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+  padding: 16px;
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  border-bottom: 1px solid rgba(48, 52, 60, 0.6);
+  background-color: rgba(32, 35, 40, 0.5);
+}
+
+div > span {
+  margin: 16px;
+  color: #c2c4c9;
+}
+
+.news-row:hover {
+  cursor: pointer;
+  background-color: #132042;
+}
+
+div > span:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.news-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  border-bottom: 1px solid rgba(48,52,60,.75)
+}
+.news-cells {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+#time {
+    font-size: 10px;
+    white-space: nowrap;
+    -ms-flex-preferred-size: 50px;
+    flex-basis: 50px;
+    opacity: .8;
+}
+
+#headline {
+    font-size: 13px;
+    width: 100%;
+    line-height: 1.44;
+}
