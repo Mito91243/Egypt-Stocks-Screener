@@ -1,213 +1,219 @@
 [
   {
     "Name": "MISR HOTELS",
-    "Percent_Y": "529.84%",
-    "Price": "133.840 EGP",
-    "Market_cap": "5.229B EGP"
+    "Percent_Y": "560.15%",
+    "Price": "135.000 EGP",
+    "Market_cap": "5.3B EGP"
   },
   {
     "Name": "SIDI KERIR PETROCHEMICALS - SIDPEC",
-    "Percent_Y": "269.47%",
-    "Price": "23.400 EGP",
-    "Market_cap": "17.774B EGP"
-  },
-  {
-    "Name": "INTERNATIONAL CO FOR INVESTMENT & DEVELOPMENT",
-    "Percent_Y": "253.81%",
-    "Price": "7.430 EGP",
-    "Market_cap": "405.54M EGP"
+    "Percent_Y": "265.91%",
+    "Price": "22.900 EGP",
+    "Market_cap": "17.69B EGP"
   },
   {
     "Name": "PYRAMISA HOTELS",
-    "Percent_Y": "239.21%",
-    "Price": "77.170 EGP",
+    "Percent_Y": "260.48%",
+    "Price": "82.010 EGP",
     "Market_cap": "1.621B EGP"
   },
   {
     "Name": "EZZ STEEL",
-    "Percent_Y": "233.38%",
-    "Price": "43.140 EGP",
-    "Market_cap": "23.632B EGP"
+    "Percent_Y": "244.53%",
+    "Price": "45.030 EGP",
+    "Market_cap": "23.436B EGP"
   },
   {
-    "Name": "INTERNATIONAL COMPANY FOR FERTILIZERS & CHEMICALS",
-    "Percent_Y": "212.12%",
-    "Price": "10.300 EGP",
-    "Market_cap": "231.75M EGP"
-  },
-  {
-    "Name": "ISMAILIA DEVELOPMENT AND REAL ESTATE CO",
-    "Percent_Y": "211.94%",
-    "Price": "46.760 EGP",
-    "Market_cap": "1.723B EGP"
-  },
-  {
-    "Name": "ARAB ALUMINUM",
-    "Percent_Y": "207.25%",
-    "Price": "70.790 EGP",
-    "Market_cap": "399.995M EGP"
+    "Name": "INTERNATIONAL CO FOR INVESTMENT & DEVELOPMENT",
+    "Percent_Y": "219.28%",
+    "Price": "7.420 EGP",
+    "Market_cap": "401.22M EGP"
   },
   {
     "Name": "EL NASR CLOTHES & TEXTILES (KABO)",
-    "Percent_Y": "204.16%",
-    "Price": "2.120 EGP",
-    "Market_cap": "952.622M EGP"
+    "Percent_Y": "210.25%",
+    "Price": "2.150 EGP",
+    "Market_cap": "985.151M EGP"
   },
   {
-    "Name": "ALEXANDRIA CONTAINERS AND GOODS",
-    "Percent_Y": "183.50%",
-    "Price": "25.600 EGP",
-    "Market_cap": "38.421B EGP"
+    "Name": "ARAB ALUMINUM",
+    "Percent_Y": "209.46%",
+    "Price": "71.300 EGP",
+    "Market_cap": "400.108M EGP"
   },
   {
-    "Name": "DELTA SUGAR",
-    "Percent_Y": "182.44%",
-    "Price": "37.000 EGP",
-    "Market_cap": "5.251B EGP"
+    "Name": "ISMAILIA DEVELOPMENT AND REAL ESTATE CO",
+    "Percent_Y": "196.40%",
+    "Price": "44.430 EGP",
+    "Market_cap": "1.723B EGP"
+  },
+  {
+    "Name": "INTERNATIONAL COMPANY FOR FERTILIZERS & CHEMICALS",
+    "Percent_Y": "192.40%",
+    "Price": "10.000 EGP",
+    "Market_cap": "231.75M EGP"
   },
   {
     "Name": "MEDICAL PACKAGING COMPANY",
-    "Percent_Y": "181.38%",
-    "Price": "0.725 EGP",
-    "Market_cap": "471.6M EGP"
+    "Percent_Y": "189.13%",
+    "Price": "0.750 EGP",
+    "Market_cap": "474.875M EGP"
+  },
+  {
+    "Name": "ORASCOM DEVELOPMENT EGYPT",
+    "Percent_Y": "171.22%",
+    "Price": "10.930 EGP",
+    "Market_cap": "12.356B EGP"
+  },
+  {
+    "Name": "ELSWEDY ELECTRIC",
+    "Percent_Y": "171.21%",
+    "Price": "19.500 EGP",
+    "Market_cap": "42.157B EGP"
+  },
+  {
+    "Name": "ALEXANDRIA CONTAINERS AND GOODS",
+    "Percent_Y": "169.44%",
+    "Price": "25.300 EGP",
+    "Market_cap": "38.138B EGP"
   },
   {
     "Name": "KAFR EL ZAYAT PESTICIDES",
-    "Percent_Y": "176.73%",
+    "Percent_Y": "167.06%",
     "Price": "5.900 EGP",
     "Market_cap": "1.062B EGP"
   },
   {
-    "Name": "BELTON FINANCIAL HOLDING",
-    "Percent_Y": "169.20%",
-    "Price": "3.850 EGP",
-    "Market_cap": "21.581B EGP"
-  },
-  {
-    "Name": "ORASCOM DEVELOPMENT EGYPT",
-    "Percent_Y": "166.59%",
-    "Price": "10.930 EGP",
-    "Market_cap": "12.345B EGP"
-  },
-  {
-    "Name": "ELSWEDY ELECTRIC",
-    "Percent_Y": "166.03%",
-    "Price": "19.420 EGP",
-    "Market_cap": "42.569B EGP"
-  },
-  {
     "Name": "EL EZZ ALDEKHELA STEEL - ALEXANDRIA",
-    "Percent_Y": "163.56%",
-    "Price": "1200.000 EGP",
-    "Market_cap": "23.332B EGP"
+    "Percent_Y": "165.54%",
+    "Price": "1208.990 EGP",
+    "Market_cap": "23.414B EGP"
+  },
+  {
+    "Name": "DELTA SUGAR",
+    "Percent_Y": "164.35%",
+    "Price": "37.300 EGP",
+    "Market_cap": "5.261B EGP"
   },
   {
     "Name": "EGYPT ALUMINUM",
-    "Percent_Y": "159.08%",
-    "Price": "44.070 EGP",
-    "Market_cap": "18.261B EGP"
-  },
-  {
-    "Name": "PAINT & CHEMICALS INDUSTRIES (PACHIN)",
-    "Percent_Y": "146.42%",
-    "Price": "39.920 EGP",
-    "Market_cap": "958.08M EGP"
+    "Percent_Y": "154.99%",
+    "Price": "43.400 EGP",
+    "Market_cap": "18.179B EGP"
   },
   {
     "Name": "INTERNATIONAL AGRICULTURAL PRODUCTS",
-    "Percent_Y": "145.48%",
-    "Price": "7.900 EGP",
-    "Market_cap": "744.139M EGP"
+    "Percent_Y": "150.84%",
+    "Price": "7.890 EGP",
+    "Market_cap": "730.273M EGP"
   },
   {
-    "Name": "ORIENTAL WEAVERS",
-    "Percent_Y": "135.91%",
-    "Price": "15.900 EGP",
-    "Market_cap": "10.189B EGP"
+    "Name": "MISR DUTY FREE SHOPS",
+    "Percent_Y": "142.25%",
+    "Price": "21.100 EGP",
+    "Market_cap": "1.649B EGP"
   },
   {
-    "Name": "MISR CHEMICAL INDUSTRIES",
-    "Percent_Y": "133.79%",
-    "Price": "24.080 EGP",
-    "Market_cap": "1.759B EGP"
+    "Name": "BELTON FINANCIAL HOLDING",
+    "Percent_Y": "137.14%",
+    "Price": "3.670 EGP",
+    "Market_cap": "21.034B EGP"
   },
   {
     "Name": "ARAB COTTON GINNING",
-    "Percent_Y": "133.48%",
-    "Price": "4.310 EGP",
-    "Market_cap": "1.157B EGP"
-  },
-  {
-    "Name": "EGYPTIAN FINANCIAL & INDUSTRIAL",
-    "Percent_Y": "130.81%",
-    "Price": "45.470 EGP",
-    "Market_cap": "3.313B EGP"
-  },
-  {
-    "Name": "EGYPTIAN MEDIA PRODUCTION CITY",
-    "Percent_Y": "128.42%",
-    "Price": "10.530 EGP",
-    "Market_cap": "1.948B EGP"
+    "Percent_Y": "136.38%",
+    "Price": "4.340 EGP",
+    "Market_cap": "1.141B EGP"
   },
   {
     "Name": "MEMPHIS PHARMACEUTICALS",
-    "Percent_Y": "126.08%",
-    "Price": "31.290 EGP",
+    "Percent_Y": "131.21%",
+    "Price": "32.000 EGP",
     "Market_cap": "176.006M EGP"
   },
   {
+    "Name": "PAINT & CHEMICALS INDUSTRIES (PACHIN)",
+    "Percent_Y": "130.61%",
+    "Price": "38.350 EGP",
+    "Market_cap": "958.08M EGP"
+  },
+  {
     "Name": "CREDIT AGRICOLE EGYPT",
-    "Percent_Y": "124.49%",
-    "Price": "14.390 EGP",
-    "Market_cap": "17.75B EGP"
+    "Percent_Y": "130.18%",
+    "Price": "14.340 EGP",
+    "Market_cap": "17.988B EGP"
+  },
+  {
+    "Name": "MISR CHEMICAL INDUSTRIES",
+    "Percent_Y": "130.01%",
+    "Price": "24.450 EGP",
+    "Market_cap": "1.761B EGP"
+  },
+  {
+    "Name": "EGYPTIAN FINANCIAL & INDUSTRIAL",
+    "Percent_Y": "127.96%",
+    "Price": "45.500 EGP",
+    "Market_cap": "3.309B EGP"
+  },
+  {
+    "Name": "ORIENTAL WEAVERS",
+    "Percent_Y": "124.89%",
+    "Price": "15.900 EGP",
+    "Market_cap": "10.575B EGP"
+  },
+  {
+    "Name": "EGYPTIAN MEDIA PRODUCTION CITY",
+    "Percent_Y": "123.71%",
+    "Price": "10.380 EGP",
+    "Market_cap": "1.997B EGP"
   },
   {
     "Name": "EGYPTIAN CHEMICAL INDUSTRIES (KIMA)",
-    "Percent_Y": "124.13%",
-    "Price": "8.360 EGP",
-    "Market_cap": "9.932B EGP"
-  },
-  {
-    "Name": "ABU DHABI ISLAMIC BANK- EGYPT",
-    "Percent_Y": "123.99%",
-    "Price": "24.930 EGP",
-    "Market_cap": "12.4B EGP"
-  },
-  {
-    "Name": "CAIRO POULTRY",
-    "Percent_Y": "119.92%",
-    "Price": "5.300 EGP",
-    "Market_cap": "2.582B EGP"
-  },
-  {
-    "Name": "ISMAILIA NATIONAL FOOD INDUSTRIES",
-    "Percent_Y": "116.56%",
-    "Price": "44.720 EGP",
-    "Market_cap": "506M EGP"
+    "Percent_Y": "123.12%",
+    "Price": "8.300 EGP",
+    "Market_cap": "9.92B EGP"
   },
   {
     "Name": "EDITA FOOD INDUSTRIES S.A.E",
-    "Percent_Y": "114.55%",
-    "Price": "19.460 EGP",
-    "Market_cap": "14.23B EGP"
+    "Percent_Y": "118.89%",
+    "Price": "19.350 EGP",
+    "Market_cap": "14.071B EGP"
   },
   {
-    "Name": "MM GROUP FOR INDUSTRY AND INTERNATIONAL TRADE",
-    "Percent_Y": "113.33%",
-    "Price": "6.400 EGP",
-    "Market_cap": "6.1B EGP"
-  },
-  {
-    "Name": "MISR FRETILIZERS PRODUCTION COMPANY - MOPCO",
-    "Percent_Y": "113.19%",
-    "Price": "225.000 EGP",
-    "Market_cap": "52.456B EGP"
+    "Name": "ABU DHABI ISLAMIC BANK- EGYPT",
+    "Percent_Y": "118.00%",
+    "Price": "24.920 EGP",
+    "Market_cap": "12.465B EGP"
   },
   {
     "Name": "GB CORP",
-    "Percent_Y": "112.93%",
-    "Price": "6.750 EGP",
-    "Market_cap": "7.153B EGP"
+    "Percent_Y": "117.95%",
+    "Price": "6.800 EGP",
+    "Market_cap": "7.327B EGP"
+  },
+  {
+    "Name": "MM GROUP FOR INDUSTRY AND INTERNATIONAL TRADE",
+    "Percent_Y": "116.15%",
+    "Price": "6.290 EGP",
+    "Market_cap": "6.188B EGP"
+  },
+  {
+    "Name": "INDUSTRIAL & ENGINEERING ENTERPRISES CO.",
+    "Percent_Y": "114.96%",
+    "Price": "0.589 EGP",
+    "Market_cap": "276.534M EGP"
+  },
+  {
+    "Name": "ISMAILIA NATIONAL FOOD INDUSTRIES",
+    "Percent_Y": "113.95%",
+    "Price": "44.930 EGP",
+    "Market_cap": "514.28M EGP"
+  },
+  {
+    "Name": "MISR FRETILIZERS PRODUCTION COMPANY - MOPCO",
+    "Percent_Y": "111.80%",
+    "Price": "222.160 EGP",
+    "Market_cap": "51.551B EGP"
   },
   {
     "Name": "EGYPTIAN ARABIAN(THEMAR)COMP. FOR SECURITIES&BONDS BROK. EAC",
@@ -216,256 +222,256 @@
     "Market_cap": "462M EGP"
   },
   {
-    "Name": "ALEXANDRIA SPINNING & WEAVING (SPINALEX)",
-    "Percent_Y": "108.88%",
-    "Price": "3.010 EGP",
-    "Market_cap": "965.129M EGP"
-  },
-  {
-    "Name": "INDUSTRIAL & ENGINEERING ENTERPRISES CO.",
-    "Percent_Y": "103.94%",
-    "Price": "0.569 EGP",
-    "Market_cap": "277.992M EGP"
-  },
-  {
-    "Name": "ALEXANDRIA MINERAL OILS COMPANY",
-    "Percent_Y": "103.73%",
-    "Price": "8.190 EGP",
-    "Market_cap": "10.603B EGP"
-  },
-  {
-    "Name": "MISR DUTY FREE SHOPS",
-    "Percent_Y": "101.95%",
-    "Price": "17.590 EGP",
-    "Market_cap": "1.649B EGP"
-  },
-  {
-    "Name": "ABOU KIR FERTILIZERS",
-    "Percent_Y": "97.77%",
-    "Price": "47.840 EGP",
-    "Market_cap": "60.456B EGP"
+    "Name": "CAIRO POULTRY",
+    "Percent_Y": "107.97%",
+    "Price": "5.220 EGP",
+    "Market_cap": "2.539B EGP"
   },
   {
     "Name": "HELIOPOLIS HOUSING",
-    "Percent_Y": "97.32%",
-    "Price": "11.800 EGP",
-    "Market_cap": "16.288B EGP"
+    "Percent_Y": "107.09%",
+    "Price": "12.260 EGP",
+    "Market_cap": "15.754B EGP"
   },
   {
-    "Name": "CANAL SHIPPING AGENCIES",
-    "Percent_Y": "95.87%",
-    "Price": "23.700 EGP",
-    "Market_cap": "4.782B EGP"
+    "Name": "ABOU KIR FERTILIZERS",
+    "Percent_Y": "104.29%",
+    "Price": "48.600 EGP",
+    "Market_cap": "60.368B EGP"
   },
   {
-    "Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT)",
-    "Percent_Y": "95.86%",
-    "Price": "50.670 EGP",
-    "Market_cap": "151.872B EGP"
+    "Name": "ALEXANDRIA MINERAL OILS COMPANY",
+    "Percent_Y": "104.03%",
+    "Price": "8.100 EGP",
+    "Market_cap": "10.577B EGP"
   },
   {
-    "Name": "HOUSING & DEVELOPMENT BANK",
-    "Percent_Y": "95.82%",
-    "Price": "19.990 EGP",
-    "Market_cap": "10.642B EGP"
+    "Name": "ALEXANDRIA SPINNING & WEAVING (SPINALEX)",
+    "Percent_Y": "101.77%",
+    "Price": "2.970 EGP",
+    "Market_cap": "965.129M EGP"
   },
   {
     "Name": "FAISAL ISLAMIC BANK OF EGYPT - IN EGP",
-    "Percent_Y": "94.99%",
-    "Price": "25.290 EGP",
-    "Market_cap": "17.636B EGP"
+    "Percent_Y": "96.84%",
+    "Price": "25.510 EGP",
+    "Market_cap": "17.443B EGP"
+  },
+  {
+    "Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT)",
+    "Percent_Y": "95.88%",
+    "Price": "50.650 EGP",
+    "Market_cap": "151.962B EGP"
   },
   {
     "Name": "B INVESTMENTS HOLDING",
-    "Percent_Y": "93.99%",
-    "Price": "19.690 EGP",
-    "Market_cap": "3.16B EGP"
+    "Percent_Y": "95.22%",
+    "Price": "19.600 EGP",
+    "Market_cap": "3.151B EGP"
   },
   {
-    "Name": "ELECTRO CABLE EGYPT",
-    "Percent_Y": "93.24%",
-    "Price": "0.657 EGP",
-    "Market_cap": "2.337B EGP"
+    "Name": "JUHAYNA FOOD INDUSTRIES",
+    "Percent_Y": "94.03%",
+    "Price": "13.970 EGP",
+    "Market_cap": "13.142B EGP"
+  },
+  {
+    "Name": "TELECOM EGYPT",
+    "Percent_Y": "92.53%",
+    "Price": "27.070 EGP",
+    "Market_cap": "45.92B EGP"
+  },
+  {
+    "Name": "AL BARAKA BANK EGYPT",
+    "Percent_Y": "91.65%",
+    "Price": "8.350 EGP",
+    "Market_cap": "6.028B EGP"
+  },
+  {
+    "Name": "HOUSING & DEVELOPMENT BANK",
+    "Percent_Y": "91.32%",
+    "Price": "19.870 EGP",
+    "Market_cap": "10.621B EGP"
+  },
+  {
+    "Name": "CANAL SHIPPING AGENCIES",
+    "Percent_Y": "90.95%",
+    "Price": "23.620 EGP",
+    "Market_cap": "4.74B EGP"
   },
   {
     "Name": "EL EZZ PORCELAIN (GEMMA)",
-    "Percent_Y": "90.37%",
+    "Percent_Y": "88.26%",
     "Price": "17.000 EGP",
     "Market_cap": "906.823M EGP"
   },
   {
+    "Name": "ELECTRO CABLE EGYPT",
+    "Percent_Y": "88.25%",
+    "Price": "0.657 EGP",
+    "Market_cap": "2.337B EGP"
+  },
+  {
     "Name": "MISR NATIONAL STEEL - ATAQA",
-    "Percent_Y": "89.74%",
-    "Price": "1.757 EGP",
-    "Market_cap": "2.104B EGP"
+    "Percent_Y": "87.12%",
+    "Price": "1.787 EGP",
+    "Market_cap": "2.108B EGP"
   },
   {
-    "Name": "NORTH CAIRO MILLS",
-    "Percent_Y": "89.71%",
-    "Price": "36.140 EGP",
-    "Market_cap": "386.698M EGP"
-  },
-  {
-    "Name": "AL BARAKA BANK EGYPT",
-    "Percent_Y": "89.48%",
-    "Price": "8.290 EGP",
-    "Market_cap": "5.999B EGP"
-  },
-  {
-    "Name": "JUHAYNA FOOD INDUSTRIES",
-    "Percent_Y": "88.65%",
-    "Price": "13.960 EGP",
-    "Market_cap": "13.274B EGP"
-  },
-  {
-    "Name": "TELECOM EGYPT",
-    "Percent_Y": "87.59%",
-    "Price": "26.900 EGP",
-    "Market_cap": "46.535B EGP"
+    "Name": "AL MOASHER FOR PROGRAMMING AND INFORMATION DISSEMINATION",
+    "Percent_Y": "84.78%",
+    "Price": "1.497 EGP",
+    "Market_cap": "40.727M EGP"
   },
   {
     "Name": "SAMAD MISR -EGYFERT",
-    "Percent_Y": "85.34%",
-    "Price": "19.220 EGP",
+    "Percent_Y": "84.67%",
+    "Price": "19.150 EGP",
     "Market_cap": "184.512M EGP"
   },
   {
-    "Name": "EASTERN COMPANY",
-    "Percent_Y": "78.89%",
-    "Price": "17.800 EGP",
-    "Market_cap": "42.136B EGP"
+    "Name": "NORTH CAIRO MILLS",
+    "Percent_Y": "83.73%",
+    "Price": "35.000 EGP",
+    "Market_cap": "386.698M EGP"
   },
   {
-    "Name": "EGYPTIAN FOR TOURISM RESORTS",
-    "Percent_Y": "78.50%",
-    "Price": "2.740 EGP",
-    "Market_cap": "2.888B EGP"
+    "Name": "RAKTA PAPER MANUFACTURING",
+    "Percent_Y": "81.09%",
+    "Price": "12.260 EGP",
+    "Market_cap": "367.8M EGP"
+  },
+  {
+    "Name": "QALA FOR FINANCIAL INVESTMENTS",
+    "Percent_Y": "80.94%",
+    "Price": "2.260 EGP",
+    "Market_cap": "3.248B EGP"
+  },
+  {
+    "Name": "OBOUR LAND FOR FOOD INDUSTRIES",
+    "Percent_Y": "80.32%",
+    "Price": "9.070 EGP",
+    "Market_cap": "3.6B EGP"
+  },
+  {
+    "Name": "EASTERN COMPANY",
+    "Percent_Y": "78.43%",
+    "Price": "18.200 EGP",
+    "Market_cap": "40.94B EGP"
   },
   {
     "Name": "ARABIAN CEMENT COMPANY",
     "Percent_Y": "77.50%",
     "Price": "7.100 EGP",
-    "Market_cap": "2.746B EGP"
+    "Market_cap": "2.689B EGP"
   },
   {
-    "Name": "QALA FOR FINANCIAL INVESTMENTS",
-    "Percent_Y": "77.38%",
-    "Price": "2.290 EGP",
-    "Market_cap": "3.333B EGP"
-  },
-  {
-    "Name": "RAKTA PAPER MANUFACTURING",
-    "Percent_Y": "75.90%",
-    "Price": "12.260 EGP",
-    "Market_cap": "372.3M EGP"
-  },
-  {
-    "Name": "ASEK COMPANY FOR MINING - ASCOM",
-    "Percent_Y": "75.48%",
-    "Price": "11.880 EGP",
-    "Market_cap": "655.6M EGP"
-  },
-  {
-    "Name": "OBOUR LAND FOR FOOD INDUSTRIES",
-    "Percent_Y": "75.10%",
-    "Price": "9.000 EGP",
-    "Market_cap": "3.668B EGP"
+    "Name": "EGYPTIAN FOR TOURISM RESORTS",
+    "Percent_Y": "76.51%",
+    "Price": "2.750 EGP",
+    "Market_cap": "2.877B EGP"
   },
   {
     "Name": "ARABIAN FOOD INDUSTRIES DOMTY",
-    "Percent_Y": "73.53%",
-    "Price": "8.260 EGP",
+    "Percent_Y": "75.53%",
+    "Price": "8.250 EGP",
     "Market_cap": "2.334B EGP"
   },
   {
-    "Name": "GOLDEN TEXTILES & CLOTHES WOOL",
-    "Percent_Y": "73.27%",
-    "Price": "11.800 EGP",
-    "Market_cap": "168.544M EGP"
-  },
-  {
-    "Name": "ARAB DEVELOPERS HOLDING",
-    "Percent_Y": "72.24%",
-    "Price": "0.670 EGP",
-    "Market_cap": "771.217M EGP"
-  },
-  {
-    "Name": "ALEXANDRIA FLOUR MILLS",
-    "Percent_Y": "68.59%",
-    "Price": "17.230 EGP",
-    "Market_cap": "566.725M EGP"
-  },
-  {
-    "Name": "ORASCOM FINANCIAL HOLDING",
-    "Percent_Y": "68.42%",
-    "Price": "0.320 EGP",
-    "Market_cap": "1.736B EGP"
-  },
-  {
-    "Name": "AL MOASHER FOR PROGRAMMING AND INFORMATION DISSEMINATION",
-    "Percent_Y": "67.99%",
-    "Price": "1.361 EGP",
-    "Market_cap": "44.407M EGP"
+    "Name": "ASEK COMPANY FOR MINING - ASCOM",
+    "Percent_Y": "74.08%",
+    "Price": "11.820 EGP",
+    "Market_cap": "653.4M EGP"
   },
   {
     "Name": "EGYPTIAN IRON & STEEL",
-    "Percent_Y": "64.95%",
-    "Price": "6.400 EGP",
+    "Percent_Y": "73.20%",
+    "Price": "6.720 EGP",
     "Market_cap": "6.252B EGP"
   },
   {
-    "Name": "DICE SPORT & CASUAL WEAR",
-    "Percent_Y": "63.66%",
-    "Price": "0.545 EGP",
-    "Market_cap": "923.695M EGP"
+    "Name": "ORASCOM FINANCIAL HOLDING",
+    "Percent_Y": "69.68%",
+    "Price": "0.319 EGP",
+    "Market_cap": "1.679B EGP"
   },
   {
-    "Name": "EFG HOLDING",
-    "Percent_Y": "63.07%",
-    "Price": "16.150 EGP",
-    "Market_cap": "23.558B EGP"
+    "Name": "ALEXANDRIA FLOUR MILLS",
+    "Percent_Y": "64.59%",
+    "Price": "16.870 EGP",
+    "Market_cap": "566.725M EGP"
   },
   {
-    "Name": "CERAMIC & PORCELAIN",
-    "Percent_Y": "63.00%",
-    "Price": "4.890 EGP",
-    "Market_cap": "246.793M EGP"
+    "Name": "GOLDEN TEXTILES & CLOTHES WOOL",
+    "Percent_Y": "63.73%",
+    "Price": "11.150 EGP",
+    "Market_cap": "168.544M EGP"
   },
   {
     "Name": "EXPORT DEVELOPMENT BANK OF EGYPT (EDBE)",
-    "Percent_Y": "62.36%",
-    "Price": "11.820 EGP",
-    "Market_cap": "7.789B EGP"
+    "Percent_Y": "63.21%",
+    "Price": "12.000 EGP",
+    "Market_cap": "7.802B EGP"
+  },
+  {
+    "Name": "EFG HOLDING",
+    "Percent_Y": "61.40%",
+    "Price": "16.140 EGP",
+    "Market_cap": "23.573B EGP"
+  },
+  {
+    "Name": "DICE SPORT & CASUAL WEAR",
+    "Percent_Y": "59.52%",
+    "Price": "0.536 EGP",
+    "Market_cap": "973.721M EGP"
   },
   {
     "Name": "MIDDLE & WEST DELTA FLOUR MILLS",
-    "Percent_Y": "59.95%",
-    "Price": "163.200 EGP",
+    "Percent_Y": "59.27%",
+    "Price": "162.500 EGP",
     "Market_cap": "1.224B EGP"
   },
   {
-    "Name": "EGYPTIAN SATELLITES (NILESAT)",
-    "Percent_Y": "55.22%",
-    "Price": "6.240 USD",
-    "Market_cap": "7.285B EGP"
+    "Name": "CERAMIC & PORCELAIN",
+    "Percent_Y": "59.14%",
+    "Price": "4.790 EGP",
+    "Market_cap": "246.289M EGP"
   },
   {
-    "Name": "SUEZ CANAL BANK S.A.E",
-    "Percent_Y": "53.43%",
-    "Price": "10.150 EGP",
-    "Market_cap": "3.604B EGP"
+    "Name": "ARAB DEVELOPERS HOLDING",
+    "Percent_Y": "54.29%",
+    "Price": "0.611 EGP",
+    "Market_cap": "784.09M EGP"
   },
   {
     "Name": "SIX OF OCTOBER DEVELOPMENT & INVESTMENT (SODIC)",
-    "Percent_Y": "52.36%",
-    "Price": "18.740 EGP",
-    "Market_cap": "6.91B EGP"
+    "Percent_Y": "53.41%",
+    "Price": "18.870 EGP",
+    "Market_cap": "6.675B EGP"
   },
   {
-    "Name": "MARIDIVE & OIL SERVICES",
-    "Percent_Y": "51.19%",
-    "Price": "0.127 USD",
-    "Market_cap": "1.883B EGP"
+    "Name": "MIDDLE EGYPT FLOUR MILLS",
+    "Percent_Y": "52.25%",
+    "Price": "44.000 EGP",
+    "Market_cap": "612.18M EGP"
+  },
+  {
+    "Name": "EGYPTIAN SATELLITES (NILESAT)",
+    "Percent_Y": "51.74%",
+    "Price": "6.100 USD",
+    "Market_cap": "7.287B EGP"
+  },
+  {
+    "Name": "SUEZ CANAL BANK S.A.E",
+    "Percent_Y": "51.16%",
+    "Price": "10.000 EGP",
+    "Market_cap": "3.654B EGP"
+  },
+  {
+    "Name": "PALM HILLS DEVELOPMENT COMPANY",
+    "Percent_Y": "49.07%",
+    "Price": "2.008 EGP",
+    "Market_cap": "5.854B EGP"
   },
   {
     "Name": "THIQAH FOR BUSSINESS ADMINISTRATION AND DEVELOPMENT",
@@ -474,76 +480,64 @@
     "Market_cap": "30M EGP"
   },
   {
-    "Name": "PALM HILLS DEVELOPMENT COMPANY",
-    "Percent_Y": "47.52%",
-    "Price": "1.990 EGP",
-    "Market_cap": "5.895B EGP"
-  },
-  {
     "Name": "NOZHA INTERNATIONAL HOSPITAL",
     "Percent_Y": "46.67%",
     "Price": "6.600 EGP",
     "Market_cap": "1.16B EGP"
   },
   {
-    "Name": "ARAB PHARMACEUTICALS",
-    "Percent_Y": "45.83%",
-    "Price": "66.850 EGP",
-    "Market_cap": "401.1M EGP"
-  },
-  {
-    "Name": "EAST DELTA FLOUR MILLS",
-    "Percent_Y": "45.59%",
-    "Price": "130.780 EGP",
-    "Market_cap": "780M EGP"
-  },
-  {
-    "Name": "MIDDLE EGYPT FLOUR MILLS",
-    "Percent_Y": "43.88%",
-    "Price": "41.580 EGP",
-    "Market_cap": "612.18M EGP"
-  },
-  {
-    "Name": "ARAB CO. FOR ASSET MANAGEMENT AND DEVELOPMENT",
-    "Percent_Y": "43.05%",
-    "Price": "0.628 EGP",
-    "Market_cap": "834.17M EGP"
-  },
-  {
     "Name": "FAWRY FOR BANKING TECHNOLOGY AND ELECTRONIC PAYMENT",
-    "Percent_Y": "41.25%",
-    "Price": "5.650 EGP",
+    "Percent_Y": "46.21%",
+    "Price": "5.600 EGP",
     "Market_cap": "18.686B EGP"
   },
   {
-    "Name": "SUES CANAL COMPANY FOR TECHNOLOGY SETTLING",
-    "Percent_Y": "41.21%",
-    "Price": "60.000 EGP",
-    "Market_cap": "5.454B EGP"
+    "Name": "EAST DELTA FLOUR MILLS",
+    "Percent_Y": "45.89%",
+    "Price": "131.050 EGP",
+    "Market_cap": "784.68M EGP"
   },
   {
-    "Name": "EGYPTIAN TRANSPORT (EGYTRANS)",
-    "Percent_Y": "39.04%",
-    "Price": "2.600 EGP",
-    "Market_cap": "405.762M EGP"
+    "Name": "MARIDIVE & OIL SERVICES",
+    "Percent_Y": "45.88%",
+    "Price": "0.124 USD",
+    "Market_cap": "1.869B EGP"
   },
   {
     "Name": "AL KHAIR RIVER FOR DEVELOPMENT AGRICULTURAL INVESTMENT&ENVIR",
-    "Percent_Y": "38.64%",
-    "Price": "0.470 EGP",
-    "Market_cap": "94.2M EGP"
+    "Percent_Y": "44.79%",
+    "Price": "0.472 EGP",
+    "Market_cap": "94M EGP"
   },
   {
-    "Name": "DELTA CONSTRUCTION & REBUILDING",
-    "Percent_Y": "37.48%",
-    "Price": "23.110 EGP",
-    "Market_cap": "554.314M EGP"
+    "Name": "SUES CANAL COMPANY FOR TECHNOLOGY SETTLING",
+    "Percent_Y": "41.16%",
+    "Price": "59.980 EGP",
+    "Market_cap": "5.454B EGP"
   },
   {
-    "Name": "ALEXANDRIA PHARMACEUTICALS",
-    "Percent_Y": "37.30%",
-    "Price": "145.350 EGP",
-    "Market_cap": "709.9M EGP"
+    "Name": "NASR COMPANY FOR CIVIL WORKS",
+    "Percent_Y": "39.32%",
+    "Price": "4.110 EGP",
+    "Market_cap": "401M EGP"
+  },
+  {
+    "Name": "EGYPTIAN TRANSPORT (EGYTRANS)",
+    "Percent_Y": "37.98%",
+    "Price": "2.670 EGP",
+    "Market_cap": "405.762M EGP"
+  },
+  {
+    "Name": "AL TAWFEEK LEASING COMPANY-A.T.LEASE",
+    "Percent_Y": "37.68%",
+    "Price": "4.050 EGP",
+    "Market_cap": "692.729M EGP"
+  },
+  {
+    "Name": "ARAB CO. FOR ASSET MANAGEMENT AND DEVELOPMENT",
+    "Percent_Y": "37.25%",
+    "Price": "0.619 EGP",
+    "Market_cap": "831.522M EGP"
   },
   {
     "Name": "UPPER EGYPT FLOUR MILLS",
@@ -552,51 +546,57 @@
     "Market_cap": "867.86M EGP"
   },
   {
-    "Name": "AL TAWFEEK LEASING COMPANY-A.T.LEASE",
-    "Percent_Y": "36.81%",
-    "Price": "3.960 EGP",
-    "Market_cap": "699.727M EGP"
+    "Name": "BARBARY INVESTMENT GROUP ( BIG)",
+    "Percent_Y": "36.17%",
+    "Price": "0.128 EGP",
+    "Market_cap": "41.664M EGP"
   },
   {
-    "Name": "THE ARAB CERAMIC CO.- CERAMICA REMAS",
-    "Percent_Y": "35.63%",
-    "Price": "0.689 EGP",
-    "Market_cap": "492.344M EGP"
+    "Name": "ALEXANDRIA PHARMACEUTICALS",
+    "Percent_Y": "36.03%",
+    "Price": "144.000 EGP",
+    "Market_cap": "726.75M EGP"
+  },
+  {
+    "Name": "ARAB PHARMACEUTICALS",
+    "Percent_Y": "35.25%",
+    "Price": "62.000 EGP",
+    "Market_cap": "401.1M EGP"
   },
   {
     "Name": "GENERAL SILOS & STORAGE",
-    "Percent_Y": "35.45%",
-    "Price": "88.020 EGP",
-    "Market_cap": "1.102B EGP"
+    "Percent_Y": "34.40%",
+    "Price": "88.960 EGP",
+    "Market_cap": "1.1B EGP"
   },
   {
-    "Name": "NASR COMPANY FOR CIVIL WORKS",
-    "Percent_Y": "34.11%",
-    "Price": "4.010 EGP",
-    "Market_cap": "402M EGP"
+    "Name": "THE ARAB CERAMIC CO.- CERAMICA REMAS",
+    "Percent_Y": "34.26%",
+    "Price": "0.721 EGP",
+    "Market_cap": "495.219M EGP"
   },
   {
     "Name": "QATAR NATIONAL BANK ALAHLY",
-    "Percent_Y": "33.38%",
-    "Price": "21.340 EGP",
+    "Percent_Y": "34.13%",
+    "Price": "21.460 EGP",
     "Market_cap": "45.984B EGP"
   },
   {
-    "Name": "UNITED ARAB SHIPPING",
-    "Percent_Y": "33.33%",
-    "Price": "0.852 EGP",
-    "Market_cap": "167.4M EGP"
+    "Name": "MEDINET NASR HOUSING",
+    "Percent_Y": "33.85%",
+    "Price": "3.480 EGP",
+    "Market_cap": "7.161B EGP"
   },
   {
-    "Name": "BARBARY INVESTMENT GROUP ( BIG)",
-    "Percent_Y": "32.29%",
-    "Price": "0.127 EGP",
-    "Market_cap": "41.336M EGP"
+    "Name": "DELTA CONSTRUCTION & REBUILDING",
+    "Percent_Y": "33.14%",
+    "Price": "23.140 EGP",
+    "Market_cap": "533.981M EGP"
   },
   {
     "Name": "CI CAPITAL HOLDING FOR FINANCIAL INVESTMENTS",
-    "Percent_Y": "32.13%",
-    "Price": "5.470 EGP",
-    "Market_cap": "5.16B EGP"
+    "Percent_Y": "32.84%",
+    "Price": "5.380 EGP",
+    "Market_cap": "5.47B EGP"
   }
 ]

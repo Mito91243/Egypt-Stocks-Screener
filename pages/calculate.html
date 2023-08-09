@@ -18,13 +18,13 @@
     <title>Calculator</title>
   </head>
   <body>
-    <header>Middle East</header>
+    <header>Calculator</header>
     <main>
       <div class="calculator">
         <div class="stock"></div>
         <div class="main-area">
           <!-- Left Side-->
-          <div class="details">
+          <div class="left-side">
             <!--Entry Price Part-->
             <div class="entry container">
               <div class="placeholder">Entry Price</div>
@@ -33,24 +33,37 @@
             </div>
             <!--Exit Price Part-->
             <div class="exit container">
-                <div class="placeholder ">Exit Price</div>
-                <input type="text" name="eprice" id="entry_price" />
-                <div class="currency_txt">EGP</div>
+              <div class="placeholder">Exit Price</div>
+              <input type="text" name="eprice" id="exit_price" />
+              <div class="currency_txt">EGP</div>
             </div>
             <!--Quantity Part-->
             <div class="quantity container">
-                <div class="placeholder ">Quantity</div>
-                <input type="text" name="eprice" id="entry_price" />
-                <div class="currency_txt">EGP</div>
+              <div class="placeholder">Quantity</div>
+              <input type="text" name="eprice" id="quantity" />
+              <div class="currency_txt">EGP</div>
             </div>
             <div class="calc">
-                <button type="button">Calculate</button>
+              <button type="button" class="btn">Calculate</button>
             </div>
           </div>
           <!--Right Side-->
-          <div class="pnl"></div>
+          <div class="right-side">
+            <div class="result_txt r_txt">Results</div>
+            <div class="results">
+              <div class="container_r">
+                <div class="pnl_txt placeholder r_txt">PNL</div>
+                <div class="pnl_val pnl1"> - EGP</div>
+              </div>
+              <div class="container_r">
+                <div class="pnl_txt placeholder r_txt">ROE</div>
+                <div class="pnl_val pnl2"> - %</div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </main>
+    <script type="module" src="../calculator.js"></script>
   </body>
 </html>

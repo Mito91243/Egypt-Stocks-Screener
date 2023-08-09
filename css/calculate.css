@@ -1,6 +1,10 @@
 .calculator {
   margin-top: 50px;
   margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 15px;
+  background-color: rgb(30, 35, 41);
+  padding: 16px;
 }
 
 .container {
@@ -20,6 +24,14 @@
   background-color: rgb(43, 49, 57);
   height: 40px;
 }
+
+.result_txt {
+  color: white;
+  margin: 16px;
+  text-align: center;
+  font-size: 20px;
+}
+
 
 .placeholder {
   font-size: 14px;
@@ -74,7 +86,53 @@ button {
   background-color: rgb(252, 213, 53);
   width: 300px;
 }
-
+button:hover {
+background-color: rgb(149, 123, 22);
+}
 .calc {
   margin-top: 16px;
+}
+
+.main-area {
+  display: flex;
+}
+
+.left-side {
+  margin-right: 16px;
+  width: 50%;
+  border-right: 1px solid;
+}
+
+.right-side {
+  width: 50%;
+}
+
+.container_r {
+  display: flex;
+  margin: 16px;
+  margin-left: 40px;
+  margin-top:32px ;
+  justify-content: space-between;
+}
+
+.pnl_val {
+  color: white;
+}
+
+header {
+  text-align: center;
+  padding: 16px;
+  margin-bottom: 16px;
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  border-bottom: 1px solid #2a2e39;
+}
+
+.red_txt {
+  color: red;
+}
+
+.green_txt {
+  color: lightgreen;
 }
