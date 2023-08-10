@@ -48,3 +48,8 @@ div > span:hover {
     line-height: 1.44;
     color: #f93;
 }
+
+a {
+  color: #f93;
+  text-decoration: none;
+}

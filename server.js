@@ -4,7 +4,7 @@ import puppeteer from "puppeteer";
 async function Get_Gainers() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: "true",
   });
   const page = await browser.newPage();
 
@@ -58,7 +58,7 @@ async function Get_Gainers() {
 async function Get_Losers() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: "true",
   });
   const page = await browser.newPage();
 
@@ -110,7 +110,7 @@ async function Get_Losers() {
 
 async function Get_Top_Performers() {
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: "true",
   });
   const page = await browser.newPage();
 
@@ -159,7 +159,7 @@ async function Get_Top_Performers() {
 async function Get_Industries() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: "true",
   });
   const page = await browser.newPage();
 
@@ -212,7 +212,7 @@ async function Get_Industries() {
 async function Get_Sectors() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: "true",
   });
   const page = await browser.newPage();
 
@@ -260,30 +260,81 @@ async function Get_Sectors() {
     console.error("Error:", error);
   }
 }
+
 async function Get_News_TradingView() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
-    headless: "new",
+    headless: "true",
   });
   const page = await browser.newPage();
 
   // Navigate the page to a URL
-  await page.goto("https://www.tradingview.com/markets/stocks-egypt/news/");
+  await page.goto(
+    "https://www.tradingview.com/symbols/EGX-EGX30/news/"
+    //"https://www.tradingview.com/markets/stocks-egypt/news/"
+  );
 
   const extractedData = await page.evaluate(() => {
     //Create Empty Array to push Data into
     const data = [];
 
     //Get All Table ROWS
-    const news = document.querySelectorAll(".container-rY32JioV");
+    const news = document.querySelectorAll(".grid-ScDiRUwB > a");
 
     // Loop through each row and extract data from elements within <td> cells
     news.forEach((el) => {
       const cell_headline = el.querySelector(".title-rY32JioV").textContent;
       const cell_source = el.querySelector(".block-TUPxzdRV").textContent;
+      const cell_link = el.getAttribute('href')
+
       const celldata = {
         Headline: cell_headline,
         Source: cell_source,
+        Link: cell_link
+      };
+      //Push the object into the data again
+      data.push(celldata);
+    });
+    //return the data
+    return data;
+  });
+  //console.log(extractedData);
+  await browser.close();
+
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+  
+    fs.writeFileSync("./data/News.json", jsonData, "utf8");
+    console.log("Data written to News.json");
+  } catch (error) {
+    console.error("Error:", error);
+  }
+
+}
+
+async function Get_News_ArabNews() {
+  // Launch the browser and open a new blank page
+  const browser = await puppeteer.launch({
+    headless: "true",
+  });
+  const page = await browser.newPage();
+
+  // Navigate the page to a URL
+  await page.goto("https://economymiddleeast.com/newscategories/economy/");
+
+  const extractedData = await page.evaluate(() => {
+    //Create Empty Array to push Data into
+    const data = [];
+
+    //Get All Table ROWS
+    const news = document.querySelectorAll("div > h3 > a");
+
+    // Loop through each row and extract data from elements within <td> cells
+    news.forEach((el) => {
+      const cell_headline = el.textContent;
+      const celldata = {
+        Headline: cell_headline,
+        Source: "economymiddleeast",
       };
       //Push the object into the data again
       data.push(celldata);
@@ -297,20 +348,25 @@ async function Get_News_TradingView() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync("./data/News.json", jsonData, "utf8");
-    console.log("Data written to News.json");
+    fs.writeFileSync("./data/News2.json", jsonData, "utf8");
+    console.log("Data written to News2.json");
   } catch (error) {
     console.error("Error:", error);
   }
 }
 
 //async function run() {
-  //await Get_Sectors();
-  //await Get_Industries();
-  //await Get_Gainers();
-  //await Get_Losers();
-  //await Get_Top_Performers()
-  //await Get_News_TradingView();
+//await Get_Sectors();
+//await Get_Industries();
+//await Get_Gainers();
+//await Get_Losers();
+//await Get_Top_Performers()
+await Get_News_TradingView();
+//await Get_News_ArabNews();
 //}
 
 //setInterval(run, 900000);
+
+
+
+/*  */

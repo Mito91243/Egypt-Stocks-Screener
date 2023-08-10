@@ -1,87 +1,87 @@
 [
   {
     "Sector": "Commercial Services",
-    "Market_cap": "6.261B EGP",
+    "Market_cap": "6.259B EGP",
     "Dividend_Yield_FWD": "7.84%",
-    "Percent": "0.61%",
-    "Volume": "767.553K"
+    "Percent": "1.55%",
+    "Volume": "682.356K"
   },
   {
     "Sector": "Communications",
-    "Market_cap": "47.195B EGP",
-    "Dividend_Yield_FWD": "4.52%",
-    "Percent": "0.63%",
-    "Volume": "1.824M"
+    "Market_cap": "47.49B EGP",
+    "Dividend_Yield_FWD": "4.49%",
+    "Percent": "−2.00%",
+    "Volume": "2.001M"
   },
   {
     "Sector": "Consumer Durables",
-    "Market_cap": "26.637B EGP",
-    "Dividend_Yield_FWD": "2.61%",
-    "Percent": "2.40%",
-    "Volume": "12.63M"
+    "Market_cap": "27.267B EGP",
+    "Dividend_Yield_FWD": "2.55%",
+    "Percent": "−1.45%",
+    "Volume": "5.948M"
   },
   {
     "Sector": "Consumer Non-Durables",
-    "Market_cap": "79.024B EGP",
-    "Dividend_Yield_FWD": "6.12%",
-    "Percent": "1.24%",
-    "Volume": "1.48M"
+    "Market_cap": "79.965B EGP",
+    "Dividend_Yield_FWD": "6.05%",
+    "Percent": "−0.58%",
+    "Volume": "1.865M"
   },
   {
     "Sector": "Consumer Services",
-    "Market_cap": "29.086B EGP",
-    "Dividend_Yield_FWD": "3.09%",
-    "Percent": "0.13%",
-    "Volume": "1.359M"
+    "Market_cap": "30.066B EGP",
+    "Dividend_Yield_FWD": "2.99%",
+    "Percent": "3.36%",
+    "Volume": "101.529K"
   },
   {
     "Sector": "Distribution Services",
-    "Market_cap": "16.544B EGP",
+    "Market_cap": "16.469B EGP",
     "Dividend_Yield_FWD": "0.00%",
-    "Percent": "−0.33%",
-    "Volume": "4.956M"
+    "Percent": "−1.70%",
+    "Volume": "2.668M"
   },
   {
     "Sector": "Electronic Technology",
-    "Market_cap": "204.123M EGP",
+    "Market_cap": "204.346M EGP",
     "Dividend_Yield_FWD": "—",
-    "Percent": "0.11%",
-    "Volume": "2.677M"
+    "Percent": "−0.76%",
+    "Volume": "2.451M"
   },
   {
     "Sector": "Energy Minerals",
-    "Market_cap": "10.577B EGP",
-    "Dividend_Yield_FWD": "6.72%",
-    "Percent": "−1.10%",
-    "Volume": "2.252M"
+    "Market_cap": "10.461B EGP",
+    "Dividend_Yield_FWD": "6.79%",
+    "Percent": "0.00%",
+    "Volume": "1.811M"
   },
   {
     "Sector": "Finance",
-    "Market_cap": "534.106B EGP",
+    "Market_cap": "533.784B EGP",
     "Dividend_Yield_FWD": "3.23%",
-    "Percent": "−0.24%",
-    "Volume": "8.721M"
+    "Percent": "0.00%",
+    "Volume": "6.495M"
   },
   {
     "Sector": "Health Services",
-    "Market_cap": "20.172B EGP",
-    "Dividend_Yield_FWD": "9.85%",
-    "Percent": "3.51%",
-    "Volume": "841.271K"
+    "Market_cap": "19.911B EGP",
+    "Dividend_Yield_FWD": "9.72%",
+    "Percent": "2.87%",
+    "Volume": "2.978M"
   },
   {
     "Sector": "Health Technology",
-    "Market_cap": "16.642B EGP",
+    "Market_cap": "16.67B EGP",
     "Dividend_Yield_FWD": "3.95%",
-    "Percent": "1.29%",
-    "Volume": "499.066K"
+    "Percent": "−1.24%",
+    "Volume": "705.602K"
   },
   {
     "Sector": "Industrial Services",
-    "Market_cap": "30.693B EGP",
-    "Dividend_Yield_FWD": "3.91%",
-    "Percent": "−0.32%",
-    "Volume": "1.263M"
+    "Market_cap": "30.637B EGP",
+    "Dividend_Yield_FWD": "3.92%",
+    "Percent": "−0.47%",
+    "Volume": "1.004M"
   },
   {
     "Sector": "Miscellaneous",
@@ -92,51 +92,51 @@
   },
   {
     "Sector": "Non-Energy Minerals",
-    "Market_cap": "83.216B EGP",
-    "Dividend_Yield_FWD": "2.49%",
-    "Percent": "1.51%",
-    "Volume": "983.035K"
+    "Market_cap": "84.3B EGP",
+    "Dividend_Yield_FWD": "2.46%",
+    "Percent": "−0.44%",
+    "Volume": "631.691K"
   },
   {
     "Sector": "Process Industries",
-    "Market_cap": "165.732B EGP",
+    "Market_cap": "165.649B EGP",
     "Dividend_Yield_FWD": "3.26%",
-    "Percent": "−0.05%",
-    "Volume": "772.984K"
+    "Percent": "0.30%",
+    "Volume": "760.816K"
   },
   {
     "Sector": "Producer Manufacturing",
-    "Market_cap": "48.714B EGP",
-    "Dividend_Yield_FWD": "1.88%",
+    "Market_cap": "48.91B EGP",
+    "Dividend_Yield_FWD": "1.87%",
     "Percent": "0.37%",
-    "Volume": "2.168M"
+    "Volume": "635.034K"
   },
   {
     "Sector": "Retail Trade",
-    "Market_cap": "4.42B EGP",
-    "Dividend_Yield_FWD": "3.75%",
-    "Percent": "−6.33%",
-    "Volume": "10.381K"
+    "Market_cap": "4.421B EGP",
+    "Dividend_Yield_FWD": "3.74%",
+    "Percent": "−1.05%",
+    "Volume": "17.157K"
   },
   {
     "Sector": "Technology Services",
-    "Market_cap": "55.736B EGP",
-    "Dividend_Yield_FWD": "1.29%",
-    "Percent": "−0.72%",
-    "Volume": "5.563M"
+    "Market_cap": "55.336B EGP",
+    "Dividend_Yield_FWD": "1.30%",
+    "Percent": "−0.26%",
+    "Volume": "3.216M"
   },
   {
     "Sector": "Transportation",
-    "Market_cap": "43.454B EGP",
-    "Dividend_Yield_FWD": "4.22%",
-    "Percent": "−1.04%",
-    "Volume": "296.822K"
+    "Market_cap": "43.003B EGP",
+    "Dividend_Yield_FWD": "4.27%",
+    "Percent": "−1.96%",
+    "Volume": "296.593K"
   },
   {
     "Sector": "Utilities",
-    "Market_cap": "5.787B EGP",
+    "Market_cap": "5.783B EGP",
     "Dividend_Yield_FWD": "2.08%",
-    "Percent": "−0.07%",
-    "Volume": "101.656K"
+    "Percent": "0.54%",
+    "Volume": "918.095K"
   }
 ]
