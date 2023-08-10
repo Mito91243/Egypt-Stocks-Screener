@@ -332,9 +332,11 @@ async function Get_News_ArabNews() {
     // Loop through each row and extract data from elements within <td> cells
     news.forEach((el) => {
       const cell_headline = el.textContent;
+      const cell_link = el.getAttribute('href')
       const celldata = {
         Headline: cell_headline,
         Source: "economymiddleeast",
+        Link: cell_link
       };
       //Push the object into the data again
       data.push(celldata);
@@ -361,8 +363,8 @@ async function Get_News_ArabNews() {
 //await Get_Gainers();
 //await Get_Losers();
 //await Get_Top_Performers()
-await Get_News_TradingView();
-//await Get_News_ArabNews();
+//await Get_News_TradingView();
+await Get_News_ArabNews();
 //}
 
 //setInterval(run, 900000);
