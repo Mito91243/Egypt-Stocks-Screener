@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="css/normalize.css" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="//unpkg.com/alpinejs" defer></script>
-    <link rel="stylesheet" href="style.css" />
     <title>Egypt Stock Screener</title>
   </head>
   <body>
@@ -53,7 +52,8 @@
     </nav>
     <!-- Main Area -->
     <main>
-      <section class="container px-4  m-4 w-full">
+      <section class="container px-4 m-4 w-full mr-500">
+        <!-- Country & Search-->
         <div class="mt-6 md:flex md:items-center md:justify-between">
           <!-- Country Selection-->
           <div
@@ -61,6 +61,7 @@
           >
             <button
               class="px-5 py-2 text-xs font-medium text-gray-600 transition-colors duration-200 bg-gray-100 sm:text-sm dark:bg-gray-800 dark:text-gray-300"
+              id="eg"
             >
               Egypt
             </button>
@@ -105,6 +106,7 @@
           </div>
         </div>
 
+        <!-- Table -->
         <div class="flex flex-col mt-6">
           <div class="-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
             <div
@@ -164,138 +166,9 @@
                   </thead>
                   <!-- Table Data -->
                   <tbody
+                    id="stock-data"
                     class="bg-white divide-y divide-gray-200 dark:divide-gray-700 dark:bg-gray-900"
-                  >
-                    <tr class="hover:bg-gray-600">
-                      <td
-                        class="px-4 py-4 text-sm font-medium whitespace-nowrap"
-                      >
-                        <div>
-                          <h2 class="font-medium text-gray-800 dark:text-white">
-                            Quotient
-                          </h2>
-                          <p
-                            class="text-sm font-normal text-gray-600 dark:text-gray-400"
-                          >
-                            quotient.co
-                          </p>
-                        </div>
-                      </td>
-                      <td
-                        class="px-12 py-4 text-sm font-medium whitespace-nowrap"
-                      ></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                    </tr>
-
-                    <tr class="hover:bg-gray-600">
-                      <td
-                        class="px-4 py-4 text-sm font-medium whitespace-nowrap"
-                      >
-                        <div>
-                          <h2 class="font-medium text-gray-800 dark:text-white">
-                            Quotient
-                          </h2>
-                          <p
-                            class="text-sm font-normal text-gray-600 dark:text-gray-400"
-                          >
-                            quotient.co
-                          </p>
-                        </div>
-                      </td>
-                      <td
-                        class="px-12 py-4 text-sm font-medium whitespace-nowrap"
-                      ></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                    </tr>
-
-                    <tr class="hover:bg-gray-600">
-                      <td
-                        class="px-4 py-4 text-sm font-medium whitespace-nowrap"
-                      >
-                        <div>
-                          <h2 class="font-medium text-gray-800 dark:text-white">
-                            Quotient
-                          </h2>
-                          <p
-                            class="text-sm font-normal text-gray-600 dark:text-gray-400"
-                          >
-                            quotient.co
-                          </p>
-                        </div>
-                      </td>
-                      <td
-                        class="px-12 py-4 text-sm font-medium whitespace-nowrap"
-                      ></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                    </tr>
-
-                    <tr class="hover:bg-gray-600">
-                      <td
-                        class="px-4 py-4 text-sm font-medium whitespace-nowrap"
-                      >
-                        <div>
-                          <h2 class="font-medium text-gray-800 dark:text-white">
-                            Quotient
-                          </h2>
-                          <p
-                            class="text-sm font-normal text-gray-600 dark:text-gray-400"
-                          >
-                            quotient.co
-                          </p>
-                        </div>
-                      </td>
-                      <td
-                        class="px-12 py-4 text-sm font-medium whitespace-nowrap"
-                      ></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                    </tr>
-
-                    <tr class="hover:bg-gray-600">
-                      <td
-                        class="px-4 py-4 text-sm font-medium whitespace-nowrap"
-                      >
-                        <div>
-                          <h2 class="font-medium text-gray-800 dark:text-white">
-                            Quotient
-                          </h2>
-                          <p
-                            class="text-sm font-normal text-gray-600 dark:text-gray-400"
-                          >
-                            quotient.co
-                          </p>
-                        </div>
-                      </td>
-                      <td
-                        class="px-12 py-4 text-sm font-medium whitespace-nowrap"
-                      ></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-
-                      <td class="px-4 py-4 text-sm whitespace-nowrap"></td>
-                    </tr>
-                  </tbody>
+                  ></tbody>
                 </table>
               </div>
             </div>

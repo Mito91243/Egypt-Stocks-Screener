@@ -1,0 +1,2162 @@
+[
+  {
+    "Name": "GENERAL COMPANY FOR LAND RECLAMATION,DEVELOPMENT & RECONSTRU",
+    "Ticker": "AALR",
+    "Price": "25.690 EGP",
+    "Percent": "−0.43%",
+    "Price_Chg": "−0.110 EGP",
+    "Rating": "Neutral",
+    "Volume": "913"
+  },
+  {
+    "Name": "ABOU KIR FERTILIZERS",
+    "Ticker": "ABUK",
+    "Price": "48.610 EGP",
+    "Percent": "0.02%",
+    "Price_Chg": "0.010 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "1.184M"
+  },
+  {
+    "Name": "ARAB CO. FOR ASSET MANAGEMENT AND DEVELOPMENT",
+    "Ticker": "ACAMD",
+    "Price": "0.616 EGP",
+    "Percent": "−0.48%",
+    "Price_Chg": "−0.003 EGP",
+    "Rating": "Sell",
+    "Volume": "2.991M"
+  },
+  {
+    "Name": "A CAPITAL HOLDING",
+    "Ticker": "ACAP",
+    "Price": "0.336 EGP",
+    "Percent": "−1.47%",
+    "Price_Chg": "−0.005 EGP",
+    "Rating": "Sell",
+    "Volume": "562.007K"
+  },
+  {
+    "Name": "ARAB COTTON GINNING",
+    "Ticker": "ACGC",
+    "Price": "4.260 EGP",
+    "Percent": "−1.84%",
+    "Price_Chg": "−0.080 EGP",
+    "Rating": "Buy",
+    "Volume": "462.472K"
+  },
+  {
+    "Name": "ACROW MISR",
+    "Ticker": "ACRO",
+    "Price": "23.300 EGP",
+    "Percent": "0.30%",
+    "Price_Chg": "0.070 EGP",
+    "Rating": "Buy",
+    "Volume": "617"
+  },
+  {
+    "Name": "ARAB PHARMACEUTICALS",
+    "Ticker": "ADCI",
+    "Price": "62.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "3.721K"
+  },
+  {
+    "Name": "ABU DHABI ISLAMIC BANK- EGYPT",
+    "Ticker": "ADIB",
+    "Price": "24.800 EGP",
+    "Percent": "−0.48%",
+    "Price_Chg": "−0.120 EGP",
+    "Rating": "Buy",
+    "Volume": "32.908K"
+  },
+  {
+    "Name": "THE ARAB DAIRY PRODUCTS CO. ARAB DAIRY - PANDA",
+    "Ticker": "ADPC",
+    "Price": "1.420 EGP",
+    "Percent": "0.50%",
+    "Price_Chg": "0.007 EGP",
+    "Rating": "Neutral",
+    "Volume": "1.351M"
+  },
+  {
+    "Name": "ARAB DEVELOPMENT & REAL ESTATE INVESTMENT",
+    "Ticker": "ADRI",
+    "Price": "0.775 EGP",
+    "Percent": "−0.26%",
+    "Price_Chg": "−0.002 EGP",
+    "Rating": "Sell",
+    "Volume": "300.395K"
+  },
+  {
+    "Name": "EL AHLI INVESTMENT AND DEVELOPMENT",
+    "Ticker": "AFDI",
+    "Price": "15.320 EGP",
+    "Percent": "−0.07%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Sell",
+    "Volume": "37.679K"
+  },
+  {
+    "Name": "ALEXANDRIA FLOUR MILLS",
+    "Ticker": "AFMC",
+    "Price": "16.870 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "11.372K"
+  },
+  {
+    "Name": "ATLAS FOR INVESTMENT AND FOOD INDUSTRIES",
+    "Ticker": "AIFI",
+    "Price": "0.336 EGP",
+    "Percent": "0.60%",
+    "Price_Chg": "0.002 EGP",
+    "Rating": "Buy",
+    "Volume": "24.104M"
+  },
+  {
+    "Name": "ARABIA INVESTMENTS HOLDING",
+    "Ticker": "AIH",
+    "Price": "0.348 EGP",
+    "Percent": "−1.69%",
+    "Price_Chg": "−0.006 EGP",
+    "Rating": "Sell",
+    "Volume": "8.644M"
+  },
+  {
+    "Name": "AL ARAFA FOR INVESTMENT AND CONSULTANCIES",
+    "Ticker": "AIVC",
+    "Price": "0.072 USD",
+    "Percent": "−4.00%",
+    "Price_Chg": "−0.003 USD",
+    "Rating": "Sell",
+    "Volume": "47.353K"
+  },
+  {
+    "Name": "AJWA FOR FOOD INDUSTRIES COMPANY EGYPT",
+    "Ticker": "AJWA",
+    "Price": "19.520 EGP",
+    "Percent": "−0.91%",
+    "Price_Chg": "−0.180 EGP",
+    "Rating": "Sell",
+    "Volume": "55.803K"
+  },
+  {
+    "Name": "ALEXANDRIA CONTAINERS AND GOODS",
+    "Ticker": "ALCN",
+    "Price": "24.750 EGP",
+    "Percent": "−2.17%",
+    "Price_Chg": "−0.550 EGP",
+    "Rating": "Buy",
+    "Volume": "296.454K"
+  },
+  {
+    "Name": "ARAB ALUMINUM",
+    "Ticker": "ALUM",
+    "Price": "68.550 EGP",
+    "Percent": "−3.86%",
+    "Price_Chg": "−2.750 EGP",
+    "Rating": "Buy",
+    "Volume": "20.013K"
+  },
+  {
+    "Name": "AMER GROUP HOLDING",
+    "Ticker": "AMER",
+    "Price": "0.418 EGP",
+    "Percent": "−1.65%",
+    "Price_Chg": "−0.007 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "3.666M"
+  },
+  {
+    "Name": "ALEXANDRIA NEW MEDICAL CENTER",
+    "Ticker": "AMES",
+    "Price": "58.800 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "197"
+  },
+  {
+    "Name": "ARAB MOLTAKA INVESTMENTS CO",
+    "Ticker": "AMIA",
+    "Price": "1.667 EGP",
+    "Percent": "−1.36%",
+    "Price_Chg": "−0.023 EGP",
+    "Rating": "Sell",
+    "Volume": "350.035K"
+  },
+  {
+    "Name": "ALEXANDRIA MINERAL OILS COMPANY",
+    "Ticker": "AMOC",
+    "Price": "8.100 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "1.811M"
+  },
+  {
+    "Name": "AL MOASHER FOR PROGRAMMING AND INFORMATION DISSEMINATION",
+    "Ticker": "AMPI",
+    "Price": "1.520 EGP",
+    "Percent": "1.54%",
+    "Price_Chg": "0.023 EGP",
+    "Rating": "Buy",
+    "Volume": "41.094K"
+  },
+  {
+    "Name": "ALEXANDRIA NATIONAL COMPANY FOR FINANCIAL INVESTMENT",
+    "Ticker": "ANFI",
+    "Price": "7.170 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "314"
+  },
+  {
+    "Name": "ARAB POLVARA SPINNING & WEAVING CO.",
+    "Ticker": "APSW",
+    "Price": "3.390 EGP",
+    "Percent": "1.19%",
+    "Price_Chg": "0.040 EGP",
+    "Rating": "Buy",
+    "Volume": "97.867K"
+  },
+  {
+    "Name": "ARAB DEVELOPERS HOLDING",
+    "Ticker": "ARAB",
+    "Price": "0.610 EGP",
+    "Percent": "−0.16%",
+    "Price_Chg": "−0.001 EGP",
+    "Rating": "Buy",
+    "Volume": "9.917M"
+  },
+  {
+    "Name": "ARABIAN CEMENT COMPANY",
+    "Ticker": "ARCC",
+    "Price": "7.090 EGP",
+    "Percent": "−0.14%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "98.576K"
+  },
+  {
+    "Name": "EGYPTIAN REAL ESTATE GROUP",
+    "Ticker": "AREH",
+    "Price": "0.787 EGP",
+    "Percent": "0.25%",
+    "Price_Chg": "0.002 EGP",
+    "Rating": "Sell",
+    "Volume": "1.332M"
+  },
+  {
+    "Name": "ARABIAN ROCKS PLASTIC INDUSTRIES",
+    "Ticker": "ARPI",
+    "Price": "0.516 EGP",
+    "Percent": "4.67%",
+    "Price_Chg": "0.023 EGP",
+    "Rating": "Neutral",
+    "Volume": "14.4K"
+  },
+  {
+    "Name": "ARAB VALVES COMPANY",
+    "Ticker": "ARVA",
+    "Price": "1.384 EGP",
+    "Percent": "−1.91%",
+    "Price_Chg": "−0.027 EGP",
+    "Rating": "Sell",
+    "Volume": "470.707K"
+  },
+  {
+    "Name": "ASEK COMPANY FOR MINING - ASCOM",
+    "Ticker": "ASCM",
+    "Price": "11.610 EGP",
+    "Percent": "−1.78%",
+    "Price_Chg": "−0.210 EGP",
+    "Rating": "Neutral",
+    "Volume": "89.241K"
+  },
+  {
+    "Name": "ASPIRE CAPITAL HOLDING FOR FINANCIAL INVESTMENTS",
+    "Ticker": "ASPI",
+    "Price": "0.277 EGP",
+    "Percent": "−2.12%",
+    "Price_Chg": "−0.006 EGP",
+    "Rating": "Sell",
+    "Volume": "1.713M"
+  },
+  {
+    "Name": "AL TAWFEEK LEASING COMPANY-A.T.LEASE",
+    "Ticker": "ATLC",
+    "Price": "3.980 EGP",
+    "Percent": "−1.73%",
+    "Price_Chg": "−0.070 EGP",
+    "Rating": "Buy",
+    "Volume": "140.082K"
+  },
+  {
+    "Name": "MISR NATIONAL STEEL - ATAQA",
+    "Ticker": "ATQA",
+    "Price": "1.824 EGP",
+    "Percent": "2.07%",
+    "Price_Chg": "0.037 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "12M"
+  },
+  {
+    "Name": "ALEXANDRIA PHARMACEUTICALS",
+    "Ticker": "AXPH",
+    "Price": "144.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "206"
+  },
+  {
+    "Name": "EL BADR INVESTMENT AND DEVELOPMENT BID",
+    "Ticker": "BIDI",
+    "Price": "1.064 EGP",
+    "Percent": "9.92%",
+    "Price_Chg": "0.096 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "174.943K"
+  },
+  {
+    "Name": "BARBARY INVESTMENT GROUP ( BIG)",
+    "Ticker": "BIGP",
+    "Price": "0.129 EGP",
+    "Percent": "0.78%",
+    "Price_Chg": "0.001 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "7.673M"
+  },
+  {
+    "Name": "B INVESTMENTS HOLDING",
+    "Ticker": "BINV",
+    "Price": "19.280 EGP",
+    "Percent": "−1.63%",
+    "Price_Chg": "−0.320 EGP",
+    "Rating": "Sell",
+    "Volume": "678.853K"
+  },
+  {
+    "Name": "GLAXO SMITH KLINE",
+    "Ticker": "BIOC",
+    "Price": "30.950 EGP",
+    "Percent": "0.03%",
+    "Price_Chg": "0.010 EGP",
+    "Rating": "Sell",
+    "Volume": "23.219K"
+  },
+  {
+    "Name": "BELTON FINANCIAL HOLDING",
+    "Ticker": "BTFH",
+    "Price": "3.640 EGP",
+    "Percent": "−0.82%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Neutral",
+    "Volume": "139.714M"
+  },
+  {
+    "Name": "CAIRO EDUCATIONAL SERVICES",
+    "Ticker": "CAED",
+    "Price": "14.000 EGP",
+    "Percent": "−5.34%",
+    "Price_Chg": "−0.790 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "4.424K"
+  },
+  {
+    "Name": "SUEZ CANAL BANK S.A.E",
+    "Ticker": "CANA",
+    "Price": "10.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "3.037K"
+  },
+  {
+    "Name": "QALA FOR FINANCIAL INVESTMENTS",
+    "Ticker": "CCAP",
+    "Price": "2.220 EGP",
+    "Percent": "−1.77%",
+    "Price_Chg": "−0.040 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "26.02M"
+  },
+  {
+    "Name": "GULF CANADIAN REAL ESTATE INVESTMENT CO.",
+    "Ticker": "CCRS",
+    "Price": "12.950 EGP",
+    "Percent": "−2.70%",
+    "Price_Chg": "−0.360 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "1.736K"
+  },
+  {
+    "Name": "MIDDLE EGYPT FLOUR MILLS",
+    "Ticker": "CEFM",
+    "Price": "42.800 EGP",
+    "Percent": "−2.73%",
+    "Price_Chg": "−1.200 EGP",
+    "Rating": "Buy",
+    "Volume": "476"
+  },
+  {
+    "Name": "THE ARAB CERAMIC CO.- CERAMICA REMAS",
+    "Ticker": "CERA",
+    "Price": "0.714 EGP",
+    "Percent": "−0.97%",
+    "Price_Chg": "−0.007 EGP",
+    "Rating": "Buy",
+    "Volume": "10.068M"
+  },
+  {
+    "Name": "CI CAPITAL HOLDING FOR FINANCIAL INVESTMENTS",
+    "Ticker": "CICH",
+    "Price": "5.260 EGP",
+    "Percent": "−2.23%",
+    "Price_Chg": "−0.120 EGP",
+    "Rating": "Buy",
+    "Volume": "195.592K"
+  },
+  {
+    "Name": "CREDIT AGRICOLE EGYPT",
+    "Ticker": "CIEB",
+    "Price": "14.010 EGP",
+    "Percent": "−2.30%",
+    "Price_Chg": "−0.330 EGP",
+    "Rating": "Buy",
+    "Volume": "299.369K"
+  },
+  {
+    "Name": "CAIRO FOR INVESTMENT AND REAL ESTATE DEVELOPMENT",
+    "Ticker": "CIRA",
+    "Price": "10.550 EGP",
+    "Percent": "0.57%",
+    "Price_Chg": "0.060 EGP",
+    "Rating": "Buy",
+    "Volume": "327.512K"
+  },
+  {
+    "Name": "CLEOPATRA HOSPITAL COMPANY",
+    "Ticker": "CLHO",
+    "Price": "4.130 EGP",
+    "Percent": "−0.24%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Sell",
+    "Volume": "3.411M"
+  },
+  {
+    "Name": "CONTACT FINANCIAL HOLDING",
+    "Ticker": "CNFN",
+    "Price": "3.700 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT)",
+    "Ticker": "COMI",
+    "Price": "50.890 EGP",
+    "Percent": "0.47%",
+    "Price_Chg": "0.240 EGP",
+    "Rating": "Buy",
+    "Volume": "1.678M"
+  },
+  {
+    "Name": "COPPER FOR COMMERCIAL INVESTMENT & REAL ESTATE DEVELOPMENT",
+    "Ticker": "COPR",
+    "Price": "0.732 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "20.021K"
+  },
+  {
+    "Name": "CAIRO OILS & SOAP",
+    "Ticker": "COSG",
+    "Price": "0.252 EGP",
+    "Percent": "7.69%",
+    "Price_Chg": "0.018 EGP",
+    "Rating": "Buy",
+    "Volume": "70.787M"
+  },
+  {
+    "Name": "CAIRO PHARMACEUTICALS",
+    "Ticker": "CPCI",
+    "Price": "42.240 EGP",
+    "Percent": "4.17%",
+    "Price_Chg": "1.690 EGP",
+    "Rating": "Buy",
+    "Volume": "88"
+  },
+  {
+    "Name": "CANAL SHIPPING AGENCIES",
+    "Ticker": "CSAG",
+    "Price": "23.570 EGP",
+    "Percent": "−0.21%",
+    "Price_Chg": "−0.050 EGP",
+    "Rating": "Sell",
+    "Volume": "40.721K"
+  },
+  {
+    "Name": "DEVELOPMENT & ENGINEERING CONSULTANTS",
+    "Ticker": "DAPH",
+    "Price": "26.990 EGP",
+    "Percent": "−0.55%",
+    "Price_Chg": "−0.150 EGP",
+    "Rating": "Sell",
+    "Volume": "8.406K"
+  },
+  {
+    "Name": "DAMIETTA CONTAINER AND CARGO HANDLING",
+    "Ticker": "DCCC",
+    "Price": "10.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "DELTA CONSTRUCTION & REBUILDING",
+    "Ticker": "DCRC",
+    "Price": "22.270 EGP",
+    "Percent": "−3.76%",
+    "Price_Chg": "−0.870 EGP",
+    "Rating": "Buy",
+    "Volume": "127.98K"
+  },
+  {
+    "Name": "DELTA INSURANCE",
+    "Ticker": "DEIN",
+    "Price": "17.000 EGP",
+    "Percent": "−0.29%",
+    "Price_Chg": "−0.050 EGP",
+    "Rating": "Buy",
+    "Volume": "1.297K"
+  },
+  {
+    "Name": "ARABIAN FOOD INDUSTRIES DOMTY",
+    "Ticker": "DOMT",
+    "Price": "8.190 EGP",
+    "Percent": "−0.73%",
+    "Price_Chg": "−0.060 EGP",
+    "Rating": "Neutral",
+    "Volume": "143.066K"
+  },
+  {
+    "Name": "DICE SPORT & CASUAL WEAR",
+    "Ticker": "DSCW",
+    "Price": "0.530 EGP",
+    "Percent": "−1.12%",
+    "Price_Chg": "−0.006 EGP",
+    "Rating": "Buy",
+    "Volume": "25.574M"
+  },
+  {
+    "Name": "DELTA FOR PRINTING & PACKAGING",
+    "Ticker": "DTPP",
+    "Price": "20.890 EGP",
+    "Percent": "−0.29%",
+    "Price_Chg": "−0.060 EGP",
+    "Rating": "Buy",
+    "Volume": "1.35K"
+  },
+  {
+    "Name": "EL ARABIA FOR LAND RECLAMATION",
+    "Ticker": "EALR",
+    "Price": "16.730 EGP",
+    "Percent": "−1.01%",
+    "Price_Chg": "−0.170 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "37"
+  },
+  {
+    "Name": "EGYPTIAN ARABIAN(THEMAR)COMP. FOR SECURITIES&BONDS BROK. EAC",
+    "Ticker": "EASB",
+    "Price": "4.930 EGP",
+    "Percent": "−19.97%",
+    "Price_Chg": "−1.230 EGP",
+    "Rating": "Sell",
+    "Volume": "2.247K"
+  },
+  {
+    "Name": "EASTERN COMPANY",
+    "Ticker": "EAST",
+    "Price": "18.000 EGP",
+    "Percent": "−1.10%",
+    "Price_Chg": "−0.200 EGP",
+    "Rating": "Sell",
+    "Volume": "852.191K"
+  },
+  {
+    "Name": "OSOOL ESB SECURITIES BROKERAGE",
+    "Ticker": "EBSC",
+    "Price": "0.271 EGP",
+    "Percent": "−1.09%",
+    "Price_Chg": "−0.003 EGP",
+    "Rating": "Sell",
+    "Volume": "712.923K"
+  },
+  {
+    "Name": "EL EZZ PORCELAIN (GEMMA)",
+    "Ticker": "ECAP",
+    "Price": "17.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "3.946K"
+  },
+  {
+    "Name": "THE EGYPTIAN COMPANY FOR CONSTRUCTION DEVELOPMENT-LIFT SLAB",
+    "Ticker": "EDBM",
+    "Price": "0.255 EGP",
+    "Percent": "−0.78%",
+    "Price_Chg": "−0.002 EGP",
+    "Rating": "Buy",
+    "Volume": "7.063M"
+  },
+  {
+    "Name": "EAST DELTA FLOUR MILLS",
+    "Ticker": "EDFM",
+    "Price": "131.000 EGP",
+    "Percent": "−0.04%",
+    "Price_Chg": "−0.050 EGP",
+    "Rating": "Neutral",
+    "Volume": "177"
+  },
+  {
+    "Name": "EL ARABIA ENGINEERING INDUSTRIES",
+    "Ticker": "EEII",
+    "Price": "0.913 EGP",
+    "Percent": "−0.76%",
+    "Price_Chg": "−0.007 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "2.451M"
+  },
+  {
+    "Name": "EGYPTIAN FINANCIAL & INDUSTRIAL",
+    "Ticker": "EFIC",
+    "Price": "45.500 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "42.805K"
+  },
+  {
+    "Name": "EDITA FOOD INDUSTRIES S.A.E",
+    "Ticker": "EFID",
+    "Price": "19.400 EGP",
+    "Percent": "0.26%",
+    "Price_Chg": "0.050 EGP",
+    "Rating": "Buy",
+    "Volume": "899.503K"
+  },
+  {
+    "Name": "E-FINANCE FOR DIGITAL AND FINANCIAL INVESTMENTS",
+    "Ticker": "EFIH",
+    "Price": "17.170 EGP",
+    "Percent": "−0.17%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Sell",
+    "Volume": "65.319K"
+  },
+  {
+    "Name": "EGYPT ALUMINUM",
+    "Ticker": "EGAL",
+    "Price": "43.900 EGP",
+    "Percent": "1.15%",
+    "Price_Chg": "0.500 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "33.271K"
+  },
+  {
+    "Name": "NATURAL GAS & MINING PROJECT (EGYPT GAS)",
+    "Ticker": "EGAS",
+    "Price": "29.900 EGP",
+    "Percent": "−0.73%",
+    "Price_Chg": "−0.220 EGP",
+    "Rating": "Sell",
+    "Volume": "295.834K"
+  },
+  {
+    "Name": "EGYPTIAN GULF BANK",
+    "Ticker": "EGBE",
+    "Price": "0.360 USD",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 USD",
+    "Rating": "Sell",
+    "Volume": "2K"
+  },
+  {
+    "Name": "EGYPTIAN CHEMICAL INDUSTRIES (KIMA)",
+    "Ticker": "EGCH",
+    "Price": "8.200 EGP",
+    "Percent": "−1.20%",
+    "Price_Chg": "−0.100 EGP",
+    "Rating": "Sell",
+    "Volume": "1.354M"
+  },
+  {
+    "Name": "DIGITIZE FOR INVESTMENT AND TECHNOLOGY",
+    "Ticker": "EGS74F71C015",
+    "Price": "1.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "FITNESS PRIME",
+    "Ticker": "EGS774M1C017",
+    "Price": "0.500 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "RIGHTS ISSUE OF EXPORT DEVELOPMENT BANK OF EGYPT-3",
+    "Ticker": "EGS92381C010",
+    "Price": "1.780 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "EGYPTIAN SATELLITES (NILESAT)",
+    "Ticker": "EGSA",
+    "Price": "6.050 USD",
+    "Percent": "−0.82%",
+    "Price_Chg": "−0.050 USD",
+    "Rating": "Sell",
+    "Volume": "700"
+  },
+  {
+    "Name": "EGYPTIAN FOR TOURISM RESORTS",
+    "Ticker": "EGTS",
+    "Price": "2.800 EGP",
+    "Percent": "1.82%",
+    "Price_Chg": "0.050 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "1.542M"
+  },
+  {
+    "Name": "GENERAL WAREHOUSES OF EGYPT",
+    "Ticker": "EGWA",
+    "Price": "5.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "—",
+    "Volume": "0"
+  },
+  {
+    "Name": "EGYPTIANS HOUSING DEVELOPMENT & RECONSTRUCTION",
+    "Ticker": "EHDR",
+    "Price": "0.271 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "13.859M"
+  },
+  {
+    "Name": "EGYPTIANS FOR INVESTMENT & URBAN DEVELOPMENT",
+    "Ticker": "EIUD",
+    "Price": "7.860 EGP",
+    "Percent": "0.38%",
+    "Price_Chg": "0.030 EGP",
+    "Rating": "Buy",
+    "Volume": "1.419M"
+  },
+  {
+    "Name": "EGYPTIAN KUWAITI HOLDING",
+    "Ticker": "EKHO",
+    "Price": "0.969 USD",
+    "Percent": "0.73%",
+    "Price_Chg": "0.007 USD",
+    "Rating": "Sell",
+    "Volume": "180.236K"
+  },
+  {
+    "Name": "ELECTRO CABLE EGYPT",
+    "Ticker": "ELEC",
+    "Price": "0.649 EGP",
+    "Percent": "−1.22%",
+    "Price_Chg": "−0.008 EGP",
+    "Rating": "Sell",
+    "Volume": "634.644K"
+  },
+  {
+    "Name": "EL KAHERA HOUSING",
+    "Ticker": "ELKA",
+    "Price": "0.950 EGP",
+    "Percent": "−0.94%",
+    "Price_Chg": "−0.009 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "403.177K"
+  },
+  {
+    "Name": "EL NASR FOR MANUFACTURING AGRICULTURAL CROPS",
+    "Ticker": "ELNA",
+    "Price": "20.320 EGP",
+    "Percent": "5.23%",
+    "Price_Chg": "1.010 EGP",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "EL SHAMS HOUSING & URBANIZATION",
+    "Ticker": "ELSH",
+    "Price": "6.610 EGP",
+    "Percent": "−1.34%",
+    "Price_Chg": "−0.090 EGP",
+    "Rating": "Sell",
+    "Volume": "659.533K"
+  },
+  {
+    "Name": "EL WADI FOR INTERNATIONAL AND INVESTEMENT DEVELOPMENT",
+    "Ticker": "ELWA",
+    "Price": "0.430 EGP",
+    "Percent": "−2.05%",
+    "Price_Chg": "−0.009 EGP",
+    "Rating": "Buy",
+    "Volume": "580.838K"
+  },
+  {
+    "Name": "EMAAR MISR FOR DEVELOPMENT",
+    "Ticker": "EMFD",
+    "Price": "2.930 EGP",
+    "Percent": "−1.01%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Neutral",
+    "Volume": "857.693K"
+  },
+  {
+    "Name": "ENGINEERING INDUSTRIES (ICON)",
+    "Ticker": "ENGC",
+    "Price": "6.900 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "50.114K"
+  },
+  {
+    "Name": "EL OROUBA SECURITIES BROKERAGE",
+    "Ticker": "EOSB",
+    "Price": "0.835 EGP",
+    "Percent": "1.95%",
+    "Price_Chg": "0.016 EGP",
+    "Rating": "Buy",
+    "Volume": "113.418K"
+  },
+  {
+    "Name": "EGYPT FOR POULTRY",
+    "Ticker": "EPCO",
+    "Price": "2.640 EGP",
+    "Percent": "0.38%",
+    "Price_Chg": "0.010 EGP",
+    "Rating": "Sell",
+    "Volume": "86.8K"
+  },
+  {
+    "Name": "EL AHRAM CO. FOR PRINTING AND PACKING",
+    "Ticker": "EPPK",
+    "Price": "6.790 EGP",
+    "Percent": "−4.90%",
+    "Price_Chg": "−0.350 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "5"
+  },
+  {
+    "Name": "EZZ STEEL",
+    "Ticker": "ESRS",
+    "Price": "44.600 EGP",
+    "Percent": "−0.95%",
+    "Price_Chg": "−0.430 EGP",
+    "Rating": "Buy",
+    "Volume": "1.027M"
+  },
+  {
+    "Name": "TELECOM EGYPT",
+    "Ticker": "ETEL",
+    "Price": "26.520 EGP",
+    "Percent": "−2.03%",
+    "Price_Chg": "−0.550 EGP",
+    "Rating": "Buy",
+    "Volume": "1.482M"
+  },
+  {
+    "Name": "EGYPTIAN TRANSPORT (EGYTRANS)",
+    "Ticker": "ETRS",
+    "Price": "2.580 EGP",
+    "Percent": "−3.37%",
+    "Price_Chg": "−0.090 EGP",
+    "Rating": "Buy",
+    "Volume": "3.226M"
+  },
+  {
+    "Name": "EXPORT DEVELOPMENT BANK OF EGYPT (EDBE)",
+    "Ticker": "EXPA",
+    "Price": "12.410 EGP",
+    "Percent": "3.42%",
+    "Price_Chg": "0.410 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "146.344K"
+  },
+  {
+    "Name": "FAISAL ISLAMIC BANK OF EGYPT - IN EGP",
+    "Ticker": "FAIT",
+    "Price": "25.580 EGP",
+    "Percent": "0.27%",
+    "Price_Chg": "0.070 EGP",
+    "Rating": "Buy",
+    "Volume": "20.404K"
+  },
+  {
+    "Name": "FERCHEM MISR CO. FOR FERTILLIZERS & CHEMICALS",
+    "Ticker": "FERC",
+    "Price": "6.310 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "FIRST INVESTMENT COMPANY AND REAL ESTATE DEVELOPMENT",
+    "Ticker": "FIRE",
+    "Price": "1.940 EGP",
+    "Percent": "1.04%",
+    "Price_Chg": "0.020 EGP",
+    "Rating": "Sell",
+    "Volume": "124.024K"
+  },
+  {
+    "Name": "AL FANAR CONTRACTING CONSTRUCTION TRADE IMPORT AND EXPORT CO",
+    "Ticker": "FNAR",
+    "Price": "3.500 EGP",
+    "Percent": "1.45%",
+    "Price_Chg": "0.050 EGP",
+    "Rating": "Neutral",
+    "Volume": "23.201K"
+  },
+  {
+    "Name": "FAWRY FOR BANKING TECHNOLOGY AND ELECTRONIC PAYMENT",
+    "Ticker": "FWRY",
+    "Price": "5.580 EGP",
+    "Percent": "−0.36%",
+    "Price_Chg": "−0.020 EGP",
+    "Rating": "Sell",
+    "Volume": "9.327M"
+  },
+  {
+    "Name": "GB CORP",
+    "Ticker": "GBCO",
+    "Price": "6.720 EGP",
+    "Percent": "−1.18%",
+    "Price_Chg": "−0.080 EGP",
+    "Rating": "Buy",
+    "Volume": "1.531M"
+  },
+  {
+    "Name": "GADWA FOR INDUSTRIAL DEVELOPMENT",
+    "Ticker": "GDWA",
+    "Price": "1.585 EGP",
+    "Percent": "−2.76%",
+    "Price_Chg": "−0.045 EGP",
+    "Rating": "Buy",
+    "Volume": "1.045M"
+  },
+  {
+    "Name": "GIZA GENERAL CONTRACTING",
+    "Ticker": "GGCC",
+    "Price": "0.331 EGP",
+    "Percent": "4.42%",
+    "Price_Chg": "0.014 EGP",
+    "Rating": "Buy",
+    "Volume": "31.175M"
+  },
+  {
+    "Name": "GHARBIA ISLAMIC HOUSING DEVELOPMENT",
+    "Ticker": "GIHD",
+    "Price": "16.840 EGP",
+    "Percent": "−1.29%",
+    "Price_Chg": "−0.220 EGP",
+    "Rating": "Buy",
+    "Volume": "40.66K"
+  },
+  {
+    "Name": "GMC GROUP FOR INDUSTRIAL COMMERCIAL & FINANCIAL INVESTMENTS",
+    "Ticker": "GMCI",
+    "Price": "1.517 EGP",
+    "Percent": "−4.95%",
+    "Price_Chg": "−0.079 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "3.5K"
+  },
+  {
+    "Name": "GOLDEN COAST COMPANY",
+    "Ticker": "GOCO",
+    "Price": "0.426 EGP",
+    "Percent": "−0.93%",
+    "Price_Chg": "−0.004 EGP",
+    "Rating": "Buy",
+    "Volume": "643.901K"
+  },
+  {
+    "Name": "GOLDEN PYRAMIDS PLAZA",
+    "Ticker": "GPPL",
+    "Price": "1.443 USD",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 USD",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "GRAND INVESTMENT CAPITAL",
+    "Ticker": "GRCA",
+    "Price": "6.950 EGP",
+    "Percent": "1.76%",
+    "Price_Chg": "0.120 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "7.257K"
+  },
+  {
+    "Name": "GENERAL SILOS & STORAGE",
+    "Ticker": "GSSC",
+    "Price": "88.790 EGP",
+    "Percent": "−0.19%",
+    "Price_Chg": "−0.170 EGP",
+    "Rating": "Sell",
+    "Volume": "7.559K"
+  },
+  {
+    "Name": "GOLDEN TEXTILES & CLOTHES WOOL",
+    "Ticker": "GTWL",
+    "Price": "12.120 EGP",
+    "Percent": "8.70%",
+    "Price_Chg": "0.970 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "100.683K"
+  },
+  {
+    "Name": "HOUSING & DEVELOPMENT BANK",
+    "Ticker": "HDBK",
+    "Price": "22.000 EGP",
+    "Percent": "10.72%",
+    "Price_Chg": "2.130 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "650.738K"
+  },
+  {
+    "Name": "HELIOPOLIS HOUSING",
+    "Ticker": "HELI",
+    "Price": "12.060 EGP",
+    "Percent": "−1.63%",
+    "Price_Chg": "−0.200 EGP",
+    "Rating": "Buy",
+    "Volume": "9.298M"
+  },
+  {
+    "Name": "EFG HOLDING",
+    "Ticker": "HRHO",
+    "Price": "16.100 EGP",
+    "Percent": "−0.25%",
+    "Price_Chg": "−0.040 EGP",
+    "Rating": "Buy",
+    "Volume": "3.688M"
+  },
+  {
+    "Name": "INTERNATIONAL BUSINESS CORPORATION FOR TRADING AND AGENCIES",
+    "Ticker": "IBCT",
+    "Price": "1.260 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "28.25K"
+  },
+  {
+    "Name": "INTERNATIONAL COMPANY FOR FERTILIZERS & CHEMICALS",
+    "Ticker": "ICFC",
+    "Price": "9.950 EGP",
+    "Percent": "−0.50%",
+    "Price_Chg": "−0.050 EGP",
+    "Rating": "Buy",
+    "Volume": "42.991K"
+  },
+  {
+    "Name": "INTERNATIONAL CO FOR INVESTMENT & DEVELOPMENT",
+    "Ticker": "ICID",
+    "Price": "7.350 EGP",
+    "Percent": "−0.94%",
+    "Price_Chg": "−0.070 EGP",
+    "Rating": "Buy",
+    "Volume": "122.606K"
+  },
+  {
+    "Name": "INTERNATIONAL COMPANY FOR LEASING (INCOLEASE)",
+    "Ticker": "ICLE",
+    "Price": "33.400 EGP",
+    "Percent": "−18.72%",
+    "Price_Chg": "−7.690 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "125"
+  },
+  {
+    "Name": "INTERNATIONAL COMPANY FOR MEDICAL INDUSTRIES -ICMI",
+    "Ticker": "ICMI",
+    "Price": "1.200 EGP",
+    "Percent": "−3.07%",
+    "Price_Chg": "−0.038 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "54.003K"
+  },
+  {
+    "Name": "ISMAILIA DEVELOPMENT AND REAL ESTATE CO",
+    "Ticker": "IDRE",
+    "Price": "46.760 EGP",
+    "Percent": "5.24%",
+    "Price_Chg": "2.330 EGP",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "INDUSTRIAL & ENGINEERING ENTERPRISES CO.",
+    "Ticker": "IEEC",
+    "Price": "0.577 EGP",
+    "Percent": "−2.04%",
+    "Price_Chg": "−0.012 EGP",
+    "Rating": "Buy",
+    "Volume": "31M"
+  },
+  {
+    "Name": "INTERNATIONAL AGRICULTURAL PRODUCTS",
+    "Ticker": "IFAP",
+    "Price": "7.870 EGP",
+    "Percent": "−0.25%",
+    "Price_Chg": "−0.020 EGP",
+    "Rating": "Buy",
+    "Volume": "13.128K"
+  },
+  {
+    "Name": "INTEGRATED ENGINEERING GROUP S.A.E",
+    "Ticker": "INEG",
+    "Price": "0.170 EGP",
+    "Percent": "−0.58%",
+    "Price_Chg": "−0.001 EGP",
+    "Rating": "Neutral",
+    "Volume": "4.51M"
+  },
+  {
+    "Name": "ISMAILIA NATIONAL FOOD INDUSTRIES",
+    "Ticker": "INFI",
+    "Price": "44.930 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "6.103K"
+  },
+  {
+    "Name": "EL EZZ ALDEKHELA STEEL - ALEXANDRIA",
+    "Ticker": "IRAX",
+    "Price": "1192.930 EGP",
+    "Percent": "−1.33%",
+    "Price_Chg": "−16.060 EGP",
+    "Rating": "Buy",
+    "Volume": "1.227K"
+  },
+  {
+    "Name": "EGYPTIAN IRON & STEEL",
+    "Ticker": "IRON",
+    "Price": "6.720 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "ISMAILIA MISR POULTRY",
+    "Ticker": "ISMA",
+    "Price": "6.020 EGP",
+    "Percent": "−0.66%",
+    "Price_Chg": "−0.040 EGP",
+    "Rating": "Buy",
+    "Volume": "293.525K"
+  },
+  {
+    "Name": "IRON AND STEEL FOR MINES AND QUARRIES",
+    "Ticker": "ISMQ",
+    "Price": "1.212 EGP",
+    "Percent": "−1.38%",
+    "Price_Chg": "−0.017 EGP",
+    "Rating": "Sell",
+    "Volume": "938.874K"
+  },
+  {
+    "Name": "IBNSINA PHARMA",
+    "Ticker": "ISPH",
+    "Price": "2.150 EGP",
+    "Percent": "−0.92%",
+    "Price_Chg": "−0.020 EGP",
+    "Rating": "Sell",
+    "Volume": "9.593M"
+  },
+  {
+    "Name": "JUHAYNA FOOD INDUSTRIES",
+    "Ticker": "JUFO",
+    "Price": "13.970 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "2.332M"
+  },
+  {
+    "Name": "EL NASR CLOTHES & TEXTILES (KABO)",
+    "Ticker": "KABO",
+    "Price": "2.100 EGP",
+    "Percent": "−2.33%",
+    "Price_Chg": "−0.050 EGP",
+    "Rating": "Buy",
+    "Volume": "3.255M"
+  },
+  {
+    "Name": "CERTIFICATES OF ODIN EGYPTIAN EQUITY INVESTMENT FUND-KASAB",
+    "Ticker": "KASABF",
+    "Price": "1.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "AL KHAIR RIVER FOR DEVELOPMENT AGRICULTURAL INVESTMENT&ENVIR",
+    "Ticker": "KRDI",
+    "Price": "0.476 EGP",
+    "Percent": "0.85%",
+    "Price_Chg": "0.004 EGP",
+    "Rating": "Buy",
+    "Volume": "1.098M"
+  },
+  {
+    "Name": "EL KAHERA EL WATANIA INVESTMENT",
+    "Ticker": "KWIN",
+    "Price": "10.000 EGP",
+    "Percent": "−0.99%",
+    "Price_Chg": "−0.100 EGP",
+    "Rating": "Buy",
+    "Volume": "1K"
+  },
+  {
+    "Name": "KAFR EL ZAYAT PESTICIDES",
+    "Ticker": "KZPC",
+    "Price": "6.000 EGP",
+    "Percent": "1.69%",
+    "Price_Chg": "0.100 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "1.271M"
+  },
+  {
+    "Name": "LECICO EGYPT",
+    "Ticker": "LCSW",
+    "Price": "7.320 EGP",
+    "Percent": "−1.08%",
+    "Price_Chg": "−0.080 EGP",
+    "Rating": "Buy",
+    "Volume": "229.168K"
+  },
+  {
+    "Name": "LOTUS FOR AGRICULTURAL INVESTMENTS AND DEVELOPMENT",
+    "Ticker": "LUTS",
+    "Price": "0.484 EGP",
+    "Percent": "2.98%",
+    "Price_Chg": "0.014 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "130.107K"
+  },
+  {
+    "Name": "EGYPTIAN GULF MARSEILIA FOR REAL ESTATE INVESTMENT",
+    "Ticker": "MAAL",
+    "Price": "0.613 EGP",
+    "Percent": "5.87%",
+    "Price_Chg": "0.034 EGP",
+    "Rating": "Buy",
+    "Volume": "82.461K"
+  },
+  {
+    "Name": "M.B ENGINEERING",
+    "Ticker": "MBEN",
+    "Price": "1.980 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "49.05K"
+  },
+  {
+    "Name": "MISR BENI SUEF CEMENT",
+    "Ticker": "MBSC",
+    "Price": "27.390 EGP",
+    "Percent": "−0.40%",
+    "Price_Chg": "−0.110 EGP",
+    "Rating": "Neutral",
+    "Volume": "687"
+  },
+  {
+    "Name": "MISR CEMENT (QENA)",
+    "Ticker": "MCQE",
+    "Price": "17.880 EGP",
+    "Percent": "−1.27%",
+    "Price_Chg": "−0.230 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "98.794K"
+  },
+  {
+    "Name": "MACRO GROUP PHARMACEUTICALS -MACRO CAPITAL",
+    "Ticker": "MCRO",
+    "Price": "2.630 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "70.87K"
+  },
+  {
+    "Name": "MIDDLE EAST GLASS MANUFACTURING",
+    "Ticker": "MEGM",
+    "Price": "12.540 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "MENA TOURISTIC & REAL ESTATE INVESTMENT",
+    "Ticker": "MENA",
+    "Price": "0.867 EGP",
+    "Percent": "−1.14%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Sell",
+    "Volume": "288.689K"
+  },
+  {
+    "Name": "MEDICAL PACKAGING COMPANY",
+    "Ticker": "MEPA",
+    "Price": "0.746 EGP",
+    "Percent": "−0.53%",
+    "Price_Chg": "−0.004 EGP",
+    "Rating": "Buy",
+    "Volume": "6.338M"
+  },
+  {
+    "Name": "MISR FRETILIZERS PRODUCTION COMPANY - MOPCO",
+    "Ticker": "MFPC",
+    "Price": "225.600 EGP",
+    "Percent": "1.55%",
+    "Price_Chg": "3.440 EGP",
+    "Rating": "Buy",
+    "Volume": "39.903K"
+  },
+  {
+    "Name": "MISR DUTY FREE SHOPS",
+    "Ticker": "MFSC",
+    "Price": "21.100 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "5.378K"
+  },
+  {
+    "Name": "MISR HOTELS",
+    "Ticker": "MHOT",
+    "Price": "132.000 EGP",
+    "Percent": "−2.22%",
+    "Price_Chg": "−3.000 EGP",
+    "Rating": "Buy",
+    "Volume": "5.85K"
+  },
+  {
+    "Name": "MISR CHEMICAL INDUSTRIES",
+    "Ticker": "MICH",
+    "Price": "24.480 EGP",
+    "Percent": "0.12%",
+    "Price_Chg": "0.030 EGP",
+    "Rating": "Buy",
+    "Volume": "74.804K"
+  },
+  {
+    "Name": "NORTH CAIRO MILLS",
+    "Ticker": "MILS",
+    "Price": "35.560 EGP",
+    "Percent": "1.60%",
+    "Price_Chg": "0.560 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "3.074K"
+  },
+  {
+    "Name": "MINAPHARM PHARMACEUTICALS",
+    "Ticker": "MIPH",
+    "Price": "210.000 EGP",
+    "Percent": "−1.41%",
+    "Price_Chg": "−3.000 EGP",
+    "Rating": "Sell",
+    "Volume": "477"
+  },
+  {
+    "Name": "MISR INTERCONTINENTAL FOR GRANITE & MARBLE (EGY-STON)",
+    "Ticker": "MISR",
+    "Price": "5.250 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "MISR KUWAIT INVESTMENT & TRADING CO.",
+    "Ticker": "MKIT",
+    "Price": "1.392 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "MARSA MARSA ALAM FOR TOURISM DEVELOPMENT",
+    "Ticker": "MMAT",
+    "Price": "1.880 EGP",
+    "Percent": "5.26%",
+    "Price_Chg": "0.094 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "MEDINET NASR HOUSING",
+    "Ticker": "MNHD",
+    "Price": "3.440 EGP",
+    "Percent": "−1.15%",
+    "Price_Chg": "−0.040 EGP",
+    "Rating": "Buy",
+    "Volume": "5.354M"
+  },
+  {
+    "Name": "THE EGYPTIAN MODERN EDUCATION SYSTEMS",
+    "Ticker": "MOED",
+    "Price": "0.157 EGP",
+    "Percent": "−1.88%",
+    "Price_Chg": "−0.003 EGP",
+    "Rating": "Neutral",
+    "Volume": "24.047M"
+  },
+  {
+    "Name": "MARIDIVE & OIL SERVICES",
+    "Ticker": "MOIL",
+    "Price": "0.126 USD",
+    "Percent": "1.61%",
+    "Price_Chg": "0.002 USD",
+    "Rating": "Buy",
+    "Volume": "61.448K"
+  },
+  {
+    "Name": "MOHANDES INSURANCE",
+    "Ticker": "MOIN",
+    "Price": "15.200 EGP",
+    "Percent": "−5.00%",
+    "Price_Chg": "−0.800 EGP",
+    "Rating": "Buy",
+    "Volume": "576"
+  },
+  {
+    "Name": "MISR OILS & SOAP",
+    "Ticker": "MOSC",
+    "Price": "27.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "MEMPHIS PHARMACEUTICALS",
+    "Ticker": "MPCI",
+    "Price": "33.340 EGP",
+    "Percent": "4.19%",
+    "Price_Chg": "1.340 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "111.974K"
+  },
+  {
+    "Name": "MANSOURAH POULTRY",
+    "Ticker": "MPCO",
+    "Price": "0.854 EGP",
+    "Percent": "−1.16%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Neutral",
+    "Volume": "1.852M"
+  },
+  {
+    "Name": "EGYPTIAN MEDIA PRODUCTION CITY",
+    "Ticker": "MPRC",
+    "Price": "10.370 EGP",
+    "Percent": "−0.10%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Buy",
+    "Volume": "290.903K"
+  },
+  {
+    "Name": "MM GROUP FOR INDUSTRY AND INTERNATIONAL TRADE",
+    "Ticker": "MTIE",
+    "Price": "6.120 EGP",
+    "Percent": "−2.70%",
+    "Price_Chg": "−0.170 EGP",
+    "Rating": "Sell",
+    "Volume": "1.478M"
+  },
+  {
+    "Name": "NAEEM HOLDING",
+    "Ticker": "NAHO",
+    "Price": "0.120 USD",
+    "Percent": "0.84%",
+    "Price_Chg": "0.001 USD",
+    "Rating": "Buy",
+    "Volume": "52.75K"
+  },
+  {
+    "Name": "NASR COMPANY FOR CIVIL WORKS",
+    "Ticker": "NCCW",
+    "Price": "4.130 EGP",
+    "Percent": "0.49%",
+    "Price_Chg": "0.020 EGP",
+    "Rating": "Buy",
+    "Volume": "597.419K"
+  },
+  {
+    "Name": "NATIONAL DRILLING",
+    "Ticker": "NDRL",
+    "Price": "4.690 USD",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 USD",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "NORTHERN UPPER EGYPT DEVELOPMENT & AGRICULTURAL PRODUCTION",
+    "Ticker": "NEDA",
+    "Price": "1.524 EGP",
+    "Percent": "1.26%",
+    "Price_Chg": "0.019 EGP",
+    "Rating": "Buy",
+    "Volume": "329.524K"
+  },
+  {
+    "Name": "NATIONAL HOUSING FOR PROFESSIONAL SYNDICATES",
+    "Ticker": "NHPS",
+    "Price": "23.840 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "NOZHA INTERNATIONAL HOSPITAL",
+    "Ticker": "NINH",
+    "Price": "6.600 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "8.018K"
+  },
+  {
+    "Name": "EL-NILE CO. FOR PHARMACEUTICALS AND CHEMICAL INDUSTRIES",
+    "Ticker": "NIPH",
+    "Price": "40.710 EGP",
+    "Percent": "7.90%",
+    "Price_Chg": "2.980 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "515"
+  },
+  {
+    "Name": "EL OBOUR REAL ESTATE INVESTMENT",
+    "Ticker": "OBRI",
+    "Price": "8.670 EGP",
+    "Percent": "−2.47%",
+    "Price_Chg": "−0.220 EGP",
+    "Rating": "Buy",
+    "Volume": "196.307K"
+  },
+  {
+    "Name": "SIX OF OCTOBER DEVELOPMENT & INVESTMENT (SODIC)",
+    "Ticker": "OCDI",
+    "Price": "18.870 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "13.32K"
+  },
+  {
+    "Name": "OCTOBER PHARMA",
+    "Ticker": "OCPH",
+    "Price": "86.000 EGP",
+    "Percent": "−14.00%",
+    "Price_Chg": "−14.000 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "1.073K"
+  },
+  {
+    "Name": "ODIN INVESTMENTS",
+    "Ticker": "ODIN",
+    "Price": "1.500 EGP",
+    "Percent": "0.60%",
+    "Price_Chg": "0.009 EGP",
+    "Rating": "Sell",
+    "Volume": "369.321K"
+  },
+  {
+    "Name": "ORASCOM FINANCIAL HOLDING",
+    "Ticker": "OFH",
+    "Price": "0.319 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "24.61M"
+  },
+  {
+    "Name": "ORASCOM INVESTMENT HOLDING",
+    "Ticker": "OIH",
+    "Price": "0.242 EGP",
+    "Percent": "−0.82%",
+    "Price_Chg": "−0.002 EGP",
+    "Rating": "Buy",
+    "Volume": "20.726M"
+  },
+  {
+    "Name": "OBOUR LAND FOR FOOD INDUSTRIES",
+    "Ticker": "OLFI",
+    "Price": "9.000 EGP",
+    "Percent": "−0.77%",
+    "Price_Chg": "−0.070 EGP",
+    "Rating": "Sell",
+    "Volume": "575.187K"
+  },
+  {
+    "Name": "ORASCOM DEVELOPMENT EGYPT",
+    "Ticker": "ORHD",
+    "Price": "10.830 EGP",
+    "Percent": "−0.91%",
+    "Price_Chg": "−0.100 EGP",
+    "Rating": "Buy",
+    "Volume": "128.564K"
+  },
+  {
+    "Name": "ORIENTAL WEAVERS",
+    "Ticker": "ORWE",
+    "Price": "15.710 EGP",
+    "Percent": "−1.19%",
+    "Price_Chg": "−0.190 EGP",
+    "Rating": "Buy",
+    "Volume": "940.522K"
+  },
+  {
+    "Name": "PAINT & CHEMICALS INDUSTRIES (PACHIN)",
+    "Ticker": "PACH",
+    "Price": "38.000 EGP",
+    "Percent": "−0.91%",
+    "Price_Chg": "−0.350 EGP",
+    "Rating": "Sell",
+    "Volume": "874"
+  },
+  {
+    "Name": "EGYPTIAN INTERNATIONAL PHARMACEUTICALS (EIPICO)",
+    "Ticker": "PHAR",
+    "Price": "26.130 EGP",
+    "Percent": "−1.51%",
+    "Price_Chg": "−0.400 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "79.054K"
+  },
+  {
+    "Name": "PALM HILLS DEVELOPMENT COMPANY",
+    "Ticker": "PHDC",
+    "Price": "1.975 EGP",
+    "Percent": "−1.64%",
+    "Price_Chg": "−0.033 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "6.13M"
+  },
+  {
+    "Name": "PYRAMISA HOTELS",
+    "Ticker": "PHTV",
+    "Price": "89.950 EGP",
+    "Percent": "9.68%",
+    "Price_Chg": "7.940 EGP",
+    "Rating": "Buy",
+    "Volume": "49"
+  },
+  {
+    "Name": "PORT SAID CONTAINERS AND CARGO HANDLING CO.",
+    "Ticker": "POCO",
+    "Price": "5.000 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Neutral",
+    "Volume": "0"
+  },
+  {
+    "Name": "CAIRO POULTRY",
+    "Ticker": "POUL",
+    "Price": "5.200 EGP",
+    "Percent": "−0.38%",
+    "Price_Chg": "−0.020 EGP",
+    "Rating": "Buy",
+    "Volume": "690.718K"
+  },
+  {
+    "Name": "CERAMIC & PORCELAIN",
+    "Ticker": "PRCL",
+    "Price": "4.750 EGP",
+    "Percent": "−0.84%",
+    "Price_Chg": "−0.040 EGP",
+    "Rating": "Buy",
+    "Volume": "144.27K"
+  },
+  {
+    "Name": "PIONEERS PROPERTIES FOR URBAN DEVELOPMENT(PREDCO)",
+    "Ticker": "PRDC",
+    "Price": "2.170 EGP",
+    "Percent": "−3.13%",
+    "Price_Chg": "−0.070 EGP",
+    "Rating": "Buy",
+    "Volume": "1.553M"
+  },
+  {
+    "Name": "PRIME HOLDING",
+    "Ticker": "PRMH",
+    "Price": "0.554 EGP",
+    "Percent": "−2.12%",
+    "Price_Chg": "−0.012 EGP",
+    "Rating": "Sell",
+    "Volume": "3.324M"
+  },
+  {
+    "Name": "PHARAOH TECH FOR CONTROL AND COMMUNICATION SYSTEMS",
+    "Ticker": "PTCC",
+    "Price": "15.310 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "QATAR NATIONAL BANK ALAHLY",
+    "Ticker": "QNBA",
+    "Price": "21.300 EGP",
+    "Percent": "−0.75%",
+    "Price_Chg": "−0.160 EGP",
+    "Rating": "Buy",
+    "Volume": "4.042K"
+  },
+  {
+    "Name": "RAYA CONTACT CENTER",
+    "Ticker": "RACC",
+    "Price": "2.530 EGP",
+    "Percent": "0.80%",
+    "Price_Chg": "0.020 EGP",
+    "Rating": "Buy",
+    "Volume": "695.613K"
+  },
+  {
+    "Name": "RAKTA PAPER MANUFACTURING",
+    "Ticker": "RAKT",
+    "Price": "12.260 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "20.697K"
+  },
+  {
+    "Name": "RAYA HOLDING FOR FINANCIAL INVESTMENTS",
+    "Ticker": "RAYA",
+    "Price": "2.300 EGP",
+    "Percent": "−0.43%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Neutral",
+    "Volume": "634.592K"
+  },
+  {
+    "Name": "REACAP FINANCIAL INVESTMENTS",
+    "Ticker": "REAC",
+    "Price": "2.930 EGP",
+    "Percent": "−0.68%",
+    "Price_Chg": "−0.020 EGP",
+    "Rating": "Sell",
+    "Volume": "14K"
+  },
+  {
+    "Name": "REKAZ FINANCIAL HOLDING",
+    "Ticker": "RKAZ",
+    "Price": "3.530 EGP",
+    "Percent": "11.01%",
+    "Price_Chg": "0.350 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "TENTH OF RAMADAN PHARMACEUTICAL INDUSTRIES&DIAGNOSTIC-RAMEDA",
+    "Ticker": "RMDA",
+    "Price": "2.130 EGP",
+    "Percent": "−0.47%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Sell",
+    "Volume": "5.253M"
+  },
+  {
+    "Name": "ROWAD TOURISM (AL ROWAD)",
+    "Ticker": "ROTO",
+    "Price": "14.150 EGP",
+    "Percent": "0.71%",
+    "Price_Chg": "0.100 EGP",
+    "Rating": "Sell",
+    "Volume": "25.615K"
+  },
+  {
+    "Name": "ARAB REAL ESTATE INVESTMENT CO.-ALICO",
+    "Ticker": "RREI",
+    "Price": "0.746 EGP",
+    "Percent": "−1.58%",
+    "Price_Chg": "−0.012 EGP",
+    "Rating": "Neutral",
+    "Volume": "395.695K"
+  },
+  {
+    "Name": "REMCO FOR TOURISTIC VILLAGES CONSTRUCTION",
+    "Ticker": "RTVC",
+    "Price": "1.916 EGP",
+    "Percent": "0.31%",
+    "Price_Chg": "0.006 EGP",
+    "Rating": "Buy",
+    "Volume": "1.622M"
+  },
+  {
+    "Name": "RUBEX INTERNATIONAL FOR PLASTIC AND ACRYLIC MANUFACTURING",
+    "Ticker": "RUBX",
+    "Price": "3.110 EGP",
+    "Percent": "−0.96%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Neutral",
+    "Volume": "77.928K"
+  },
+  {
+    "Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE S.A.E.",
+    "Ticker": "SAIB",
+    "Price": "3.690 USD",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 USD",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "AL BARAKA BANK EGYPT",
+    "Ticker": "SAUD",
+    "Price": "8.220 EGP",
+    "Percent": "−1.56%",
+    "Price_Chg": "−0.130 EGP",
+    "Rating": "Buy",
+    "Volume": "960.245K"
+  },
+  {
+    "Name": "SINAI CEMENT",
+    "Ticker": "SCEM",
+    "Price": "5.290 EGP",
+    "Percent": "−0.19%",
+    "Price_Chg": "−0.010 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "1.261K"
+  },
+  {
+    "Name": "SOUTH CAIRO & GIZA MILLS & BAKERIES",
+    "Ticker": "SCFM",
+    "Price": "19.950 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Sell",
+    "Volume": "104"
+  },
+  {
+    "Name": "SUES CANAL COMPANY FOR TECHNOLOGY SETTLING",
+    "Ticker": "SCTS",
+    "Price": "61.000 EGP",
+    "Percent": "1.70%",
+    "Price_Chg": "1.020 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "1.304K"
+  },
+  {
+    "Name": "SHARM DREAMS CO. FOR TOURISM INVESTMENT",
+    "Ticker": "SDTI",
+    "Price": "6.590 EGP",
+    "Percent": "−2.23%",
+    "Price_Chg": "−0.150 EGP",
+    "Rating": "Sell",
+    "Volume": "716.533K"
+  },
+  {
+    "Name": "SAUDI EGYPTIAN INVESTMENT & FINANCE",
+    "Ticker": "SEIG",
+    "Price": "47.860 EGP",
+    "Percent": "−0.35%",
+    "Price_Chg": "−0.170 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "118"
+  },
+  {
+    "Name": "SABAA INTERNATIONAL COMPANY FOR PHARMACEUTICAL AND CHEMICAL",
+    "Ticker": "SIPC",
+    "Price": "0.867 EGP",
+    "Percent": "−0.34%",
+    "Price_Chg": "−0.003 EGP",
+    "Rating": "Sell",
+    "Volume": "73.827K"
+  },
+  {
+    "Name": "SIDI KERIR PETROCHEMICALS - SIDPEC",
+    "Ticker": "SKPC",
+    "Price": "22.700 EGP",
+    "Percent": "−0.87%",
+    "Price_Chg": "−0.200 EGP",
+    "Rating": "Sell",
+    "Volume": "1.347M"
+  },
+  {
+    "Name": "SAMAD MISR -EGYFERT",
+    "Ticker": "SMFR",
+    "Price": "19.050 EGP",
+    "Percent": "−0.52%",
+    "Price_Chg": "−0.100 EGP",
+    "Rating": "Sell",
+    "Volume": "10.797K"
+  },
+  {
+    "Name": "SHARKIA NATIONAL FOOD",
+    "Ticker": "SNFC",
+    "Price": "0.760 EGP",
+    "Percent": "−1.43%",
+    "Price_Chg": "−0.011 EGP",
+    "Rating": "Sell",
+    "Volume": "484.657K"
+  },
+  {
+    "Name": "EL SHAMS PYRAMIDS FOR HOTELS& TOURISTIC PROJECTS",
+    "Ticker": "SPHT",
+    "Price": "2.550 USD",
+    "Percent": "25.00%",
+    "Price_Chg": "0.510 USD",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "ALEXANDRIA SPINNING & WEAVING (SPINALEX)",
+    "Ticker": "SPIN",
+    "Price": "2.940 EGP",
+    "Percent": "−1.01%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Neutral",
+    "Volume": "45.685K"
+  },
+  {
+    "Name": "SPEED MEDICAL",
+    "Ticker": "SPMD",
+    "Price": "0.457 EGP",
+    "Percent": "3.63%",
+    "Price_Chg": "0.016 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "43.886M"
+  },
+  {
+    "Name": "DELTA SUGAR",
+    "Ticker": "SUGR",
+    "Price": "37.170 EGP",
+    "Percent": "−0.35%",
+    "Price_Chg": "−0.130 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "148.371K"
+  },
+  {
+    "Name": "SOUTH VALLEY CEMENT",
+    "Ticker": "SVCE",
+    "Price": "1.420 EGP",
+    "Percent": "−0.35%",
+    "Price_Chg": "−0.005 EGP",
+    "Rating": "Neutral",
+    "Volume": "197.677K"
+  },
+  {
+    "Name": "ELSWEDY ELECTRIC",
+    "Ticker": "SWDY",
+    "Price": "19.600 EGP",
+    "Percent": "0.51%",
+    "Price_Chg": "0.100 EGP",
+    "Rating": "Buy",
+    "Volume": "569.966K"
+  },
+  {
+    "Name": "TAALEEM MANAGEMENT SERVICES",
+    "Ticker": "TALM",
+    "Price": "3.710 EGP",
+    "Percent": "−0.80%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Sell",
+    "Volume": "33.437K"
+  },
+  {
+    "Name": "TANMIYA FOR REAL ESTATE INVESTMENT",
+    "Ticker": "TANM",
+    "Price": "1.690 EGP",
+    "Percent": "−3.59%",
+    "Price_Chg": "−0.063 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "40.727K"
+  },
+  {
+    "Name": "TAQA ARABIA",
+    "Ticker": "TAQA",
+    "Price": "8.610 EGP",
+    "Percent": "−1.71%",
+    "Price_Chg": "−0.150 EGP",
+    "Rating": "Sell",
+    "Volume": "227.825K"
+  },
+  {
+    "Name": "T M G HOLDING",
+    "Ticker": "TMGH",
+    "Price": "9.420 EGP",
+    "Percent": "−0.53%",
+    "Price_Chg": "−0.050 EGP",
+    "Rating": "Buy",
+    "Volume": "459.022K"
+  },
+  {
+    "Name": "THIQAH FOR BUSSINESS ADMINISTRATION AND DEVELOPMENT",
+    "Ticker": "TRST",
+    "Price": "0.750 EGP",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 EGP",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "TRANSOCEANS TOURS",
+    "Ticker": "TRTO",
+    "Price": "0.032 USD",
+    "Percent": "3.23%",
+    "Price_Chg": "0.001 USD",
+    "Rating": "Buy",
+    "Volume": "150.412K"
+  },
+  {
+    "Name": "UNITED ARAB SHIPPING",
+    "Ticker": "UASG",
+    "Price": "0.846 EGP",
+    "Percent": "0.24%",
+    "Price_Chg": "0.002 EGP",
+    "Rating": "Buy",
+    "Volume": "257.079K"
+  },
+  {
+    "Name": "UPPER EGYPT FLOUR MILLS",
+    "Ticker": "UEFM",
+    "Price": "125.010 EGP",
+    "Percent": "0.83%",
+    "Price_Chg": "1.030 EGP",
+    "Rating": "Sell",
+    "Volume": "5"
+  },
+  {
+    "Name": "ELSAEED CONTRACTING& REAL ESTATE INVESTMENT COMPANY SCCD",
+    "Ticker": "UEGC",
+    "Price": "0.619 EGP",
+    "Percent": "−0.32%",
+    "Price_Chg": "−0.002 EGP",
+    "Rating": "Buy",
+    "Volume": "3.633M"
+  },
+  {
+    "Name": "UNIVERSAL FOR PAPER AND PACKAGING MATERIALS (UNIPACK",
+    "Ticker": "UNIP",
+    "Price": "0.465 EGP",
+    "Percent": "−2.52%",
+    "Price_Chg": "−0.012 EGP",
+    "Rating": "Buy",
+    "Volume": "1.341M"
+  },
+  {
+    "Name": "UNITED HOUSING & DEVELOPMENT",
+    "Ticker": "UNIT",
+    "Price": "4.170 EGP",
+    "Percent": "−1.88%",
+    "Price_Chg": "−0.080 EGP",
+    "Rating": "Sell",
+    "Volume": "847.513K"
+  },
+  {
+    "Name": "UNION PHARMACIST COMPANY FOR MEDICAL SERVICES AND INVESTMENT",
+    "Ticker": "UPMS",
+    "Price": "1.297 EGP",
+    "Percent": "11.81%",
+    "Price_Chg": "0.137 EGP",
+    "Rating": "Buy",
+    "Volume": "2K"
+  },
+  {
+    "Name": "UTOPIA",
+    "Ticker": "UTOP",
+    "Price": "9.310 EGP",
+    "Percent": "9.92%",
+    "Price_Chg": "0.840 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "25.124K"
+  },
+  {
+    "Name": "VERTIKA FOR INDUSTRY & TRADE",
+    "Ticker": "VERT",
+    "Price": "6.100 EGP",
+    "Percent": "1.67%",
+    "Price_Chg": "0.100 EGP",
+    "Rating": "Strong Buy",
+    "Volume": "9.853K"
+  },
+  {
+    "Name": "MIDDLE & WEST DELTA FLOUR MILLS",
+    "Ticker": "WCDF",
+    "Price": "163.000 EGP",
+    "Percent": "0.31%",
+    "Price_Chg": "0.500 EGP",
+    "Rating": "Buy",
+    "Volume": "31"
+  },
+  {
+    "Name": "WADI KOM OMBO LAND RECLAMATION",
+    "Ticker": "WKOL",
+    "Price": "33.840 EGP",
+    "Percent": "−3.04%",
+    "Price_Chg": "−1.060 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "3.129K"
+  },
+  {
+    "Name": "EXTRACTED OILS",
+    "Ticker": "ZEOT",
+    "Price": "1.770 EGP",
+    "Percent": "−1.67%",
+    "Price_Chg": "−0.030 EGP",
+    "Rating": "Strong Sell",
+    "Volume": "113.432K"
+  },
+  {
+    "Name": "ZAHRAA MAADI INVESTMENT & DEVELOPMENT",
+    "Ticker": "ZMID",
+    "Price": "5.480 EGP",
+    "Percent": "0.37%",
+    "Price_Chg": "0.020 EGP",
+    "Rating": "Sell",
+    "Volume": "13.815M"
+  }
+]
