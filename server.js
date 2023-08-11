@@ -62,7 +62,6 @@ async function Get_Stocks() {
   }
 }
 
-Get_Stocks();
 
 /*async function Get_Gainers() {
   // Launch the browser and open a new blank page
@@ -421,8 +420,9 @@ async function Get_News_ArabNews() {
 
 //async function run() {
 
-//await Get_News_TradingView();
+await Get_News_TradingView();
 //await Get_News_ArabNews();
+//await Get_Stocks();
 //}
 
 //setInterval(run, 900000);
