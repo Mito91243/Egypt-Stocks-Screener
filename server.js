@@ -358,12 +358,12 @@ async function Get_News_ArabNews() {
 }
 
 //async function run() {
-//await Get_Sectors();
-//await Get_Industries();
-//await Get_Gainers();
-//await Get_Losers();
-//await Get_Top_Performers()
-//await Get_News_TradingView();
+await Get_Sectors();
+await Get_Industries();
+await Get_Gainers();
+await Get_Losers();
+await Get_Top_Performers()
+await Get_News_TradingView();
 await Get_News_ArabNews();
 //}
 

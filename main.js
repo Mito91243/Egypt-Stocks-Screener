@@ -123,3 +123,6 @@ function Calculate() {}
     trh.appendChild(Dividend_Yield_FWD)
     trh.appendChild(Percent)
     trh.appendChild(Volume)*/
+
+//#00a97f for green color
+//#ff173e for red color
