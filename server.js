@@ -1,10 +1,10 @@
 import fs from "fs";
 import puppeteer from "puppeteer";
 
-async function Get_Stocks() {
+async function Get_Stocks_EG() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
-    headless: "false",
+    headless: "true",
   });
   const page = await browser.newPage();
 
@@ -55,15 +55,14 @@ async function Get_Stocks() {
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync("./data/Stock_Data.json", jsonData, "utf8");
-    console.log("Data written to Stock_Data.json");
+    fs.writeFileSync("./data/Stocks_EG.json", jsonData, "utf8");
+    console.log("Data written to Stocks_EG.json");
   } catch (error) {
     console.error("Error:", error);
   }
 }
 
-
-/*async function Get_Gainers() {
+async function Get_Stocks_KSA() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
     headless: "true",
@@ -72,8 +71,15 @@ async function Get_Stocks() {
 
   // Navigate the page to a URL
   await page.goto(
-    "https://www.tradingview.com/markets/stocks-egypt/market-movers-gainers/"
+    "https://www.tradingview.com/markets/stocks-ksa/market-movers-all-stocks/"
   );
+
+  // Wait and click on first result
+  // Click the button to load more content
+  await page.click(".loadButton-SFwfC2e0");
+  await page.waitForTimeout(4000);
+  await page.click(".loadButton-SFwfC2e0");
+  await page.waitForTimeout(4000);
 
   const extractedData = await page.evaluate(() => {
     //Create Empty Array to push Data into
@@ -89,10 +95,11 @@ async function Get_Stocks() {
       //Query each td as you like in celldata object
       const celldata = {
         Name: cells[0].querySelector("span > sup").textContent,
-        Percent: cells[1].querySelector("span").textContent,
-        Price: cells[2].textContent,
+        Ticker: cells[0].querySelector("span > a").textContent,
+        Price: cells[1].textContent,
+        Percent: cells[2].textContent,
         Price_Chg: cells[3].querySelector("span").textContent,
-        Rating: cells[4].querySelector("div").textContent,
+        Rating: cells[4].textContent,
         Volume: cells[5].textContent,
         // Add more properties as needed
       };
@@ -105,19 +112,18 @@ async function Get_Stocks() {
   });
 
   //console.log(extractedData);
-
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync("./data/gainers_data.json", jsonData, "utf8");
-    console.log("Data written to gainers_data.json");
+    fs.writeFileSync("./data/Stocks_KSA.json", jsonData, "utf8");
+    console.log("Data written to Stock_KSA.json");
   } catch (error) {
     console.error("Error:", error);
   }
 }
 
-async function Get_Losers() {
+async function Get_Stocks_UAE() {
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch({
     headless: "true",
@@ -126,8 +132,14 @@ async function Get_Losers() {
 
   // Navigate the page to a URL
   await page.goto(
-    "https://www.tradingview.com/markets/stocks-egypt/market-movers-losers/"
+    "https://www.tradingview.com/markets/stocks-uae/market-movers-all-stocks/"
   );
+
+  // Wait and click on first result
+  // Click the button to load more content
+  await page.click(".loadButton-SFwfC2e0");
+  await page.waitForTimeout(4000);
+
 
   const extractedData = await page.evaluate(() => {
     //Create Empty Array to push Data into
@@ -143,13 +155,15 @@ async function Get_Losers() {
       //Query each td as you like in celldata object
       const celldata = {
         Name: cells[0].querySelector("span > sup").textContent,
-        Percent: cells[1].querySelector("span").textContent,
-        Price: cells[2].textContent,
+        Ticker: cells[0].querySelector("span > a").textContent,
+        Price: cells[1].textContent,
+        Percent: cells[2].textContent,
         Price_Chg: cells[3].querySelector("span").textContent,
-        Rating: cells[4].querySelector("div").textContent,
+        Rating: cells[4].textContent,
         Volume: cells[5].textContent,
         // Add more properties as needed
       };
+
       //Push the object into the data again
       data.push(celldata);
     });
@@ -158,170 +172,29 @@ async function Get_Losers() {
   });
 
   //console.log(extractedData);
-
   await browser.close();
   try {
     const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync("./data/Losers_data.json", jsonData, "utf8");
-    console.log("Data written to Losers_data.json");
+    fs.writeFileSync("./data/Stocks_UAE.json", jsonData, "utf8");
+    console.log("Data written to Stock_UAE.json");
   } catch (error) {
     console.error("Error:", error);
   }
 }
 
-async function Get_Top_Performers() {
-  const browser = await puppeteer.launch({
-    headless: "true",
-  });
-  const page = await browser.newPage();
 
-  await page.goto(
-    "https://www.tradingview.com/markets/stocks-egypt/market-movers-best-performing/"
-  );
 
-  const extractedData = await page.evaluate(() => {
-    //Create Empty Array to push Data into
-    const data = [];
 
-    //Get All Table ROWS
-    const tableRows = document.querySelectorAll("tbody > tr");
 
-    // Loop through each row and extract data from elements within <td> cells
-    tableRows.forEach((row) => {
-      //Get all TD cells inside each row
-      const cells = row.querySelectorAll("td");
-      //Query each td as you like in celldata object
-      const celldata = {
-        Name: cells[0].querySelector("span > sup").textContent,
-        Percent_Y: cells[1].querySelector("span").textContent,
-        Price: cells[2].textContent,
-        Market_cap: cells[8].textContent,
-        // Add more properties as needed
-      };
-      //Push the object into the data again
-      data.push(celldata);
-    });
-    //return the data
-    return data;
-  });
 
-  //console.log(extractedData);
-  await browser.close();
-  try {
-    const jsonData = JSON.stringify(extractedData, null, 2);
 
-    fs.writeFileSync("./data/Top_Performers_data.json", jsonData, "utf8");
-    console.log("Data written to Top_Performers_data.json");
-  } catch (error) {
-    console.error("Error:", error);
-  }
-}
 
-async function Get_Industries() {
-  // Launch the browser and open a new blank page
-  const browser = await puppeteer.launch({
-    headless: "true",
-  });
-  const page = await browser.newPage();
 
-  // Navigate the page to a URL
-  await page.goto(
-    "https://www.tradingview.com/markets/stocks-egypt/sectorandindustry-industry/"
-  );
 
-  const extractedData = await page.evaluate(() => {
-    //Create Empty Array to push Data into
-    const data = [];
 
-    //Get All Table ROWS
-    const tableRows = document.querySelectorAll("tbody > tr");
 
-    // Loop through each row and extract data from elements within <td> cells
-    tableRows.forEach((row) => {
-      //Get all TD cells inside each row
-      const cells = row.querySelectorAll("td");
-      //Query each td as you like in celldata object
-      const celldata = {
-        Industry: cells[0].querySelector("a").textContent,
-        Market_cap: cells[1].textContent,
-        Dividend_Yield_FWD: cells[2].textContent,
-        Percent: cells[3].textContent,
-        Volume: cells[4].textContent,
-        Sector: cells[5].textContent,
-        //Add more properties as needed
-      };
-      //Push the object into the data again
-      data.push(celldata);
-    });
-    //return the data
-    return data;
-  });
 
-  //console.log(extractedData);
-
-  await browser.close();
-  try {
-    const jsonData = JSON.stringify(extractedData, null, 2);
-
-    fs.writeFileSync("./data/Industries_data.json", jsonData, "utf8");
-    console.log("Data written to Industries_data.json");
-  } catch (error) {
-    console.error("Error:", error);
-  }
-}
-
-async function Get_Sectors() {
-  // Launch the browser and open a new blank page
-  const browser = await puppeteer.launch({
-    headless: "true",
-  });
-  const page = await browser.newPage();
-
-  // Navigate the page to a URL
-  await page.goto(
-    "https://www.tradingview.com/markets/stocks-egypt/sectorandindustry-sector/"
-  );
-
-  const extractedData = await page.evaluate(() => {
-    //Create Empty Array to push Data into
-    const data = [];
-
-    //Get All Table ROWS
-    const tableRows = document.querySelectorAll("tbody > tr");
-
-    // Loop through each row and extract data from elements within <td> cells
-    tableRows.forEach((row) => {
-      //Get all TD cells inside each row
-      const cells = row.querySelectorAll("td");
-      //Query each td as you like in celldata object
-      const celldata = {
-        Sector: cells[0].querySelector("a").textContent,
-        Market_cap: cells[1].textContent,
-        Dividend_Yield_FWD: cells[2].textContent,
-        Percent: cells[3].textContent,
-        Volume: cells[4].textContent,
-        //Add more properties as needed
-      };
-      //Push the object into the data again
-      data.push(celldata);
-    });
-    //return the data
-    return data;
-  });
-
-  //console.log(extractedData);
-
-  await browser.close();
-  try {
-    const jsonData = JSON.stringify(extractedData, null, 2);
-
-    fs.writeFileSync("./data/Sectors_data.json", jsonData, "utf8");
-    console.log("Data written to Sectors_data.json");
-  } catch (error) {
-    console.error("Error:", error);
-  }
-}*/
 
 async function Get_News_TradingView() {
   // Launch the browser and open a new blank page
@@ -420,9 +293,11 @@ async function Get_News_ArabNews() {
 
 //async function run() {
 
-await Get_News_TradingView();
+//await Get_News_TradingView();
 //await Get_News_ArabNews();
-//await Get_Stocks();
+//await Get_Stocks_KSA();
+//await Get_Stocks_UAE();
+await Get_Stocks_EG();
 //}
 
-//setInterval(run, 900000);
+//setInterval(run, 20000);

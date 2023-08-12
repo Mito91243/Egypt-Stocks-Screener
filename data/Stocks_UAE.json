@@ -1,0 +1,920 @@
+[
+  {
+    "Name": "Abu Dhabi Aviation Co.",
+    "Ticker": "ADAVIATION",
+    "Price": "7.67 AED",
+    "Percent": "3.65%",
+    "Price_Chg": "0.27 AED",
+    "Rating": "Strong Buy",
+    "Volume": "549.116K"
+  },
+  {
+    "Name": "Abu Dhabi Commercial Bank",
+    "Ticker": "ADCB",
+    "Price": "8.76 AED",
+    "Percent": "−0.90%",
+    "Price_Chg": "−0.08 AED",
+    "Rating": "Buy",
+    "Volume": "1.356M"
+  },
+  {
+    "Name": "Abu Dhabi Islamic Bank",
+    "Ticker": "ADIB",
+    "Price": "10.92 AED",
+    "Percent": "1.11%",
+    "Price_Chg": "0.12 AED",
+    "Rating": "Neutral",
+    "Volume": "1.227M"
+  },
+  {
+    "Name": "Abu Dhabi National Hotels Co.",
+    "Ticker": "ADNH",
+    "Price": "8.99 AED",
+    "Percent": "0.56%",
+    "Price_Chg": "0.05 AED",
+    "Rating": "Buy",
+    "Volume": "526.599K"
+  },
+  {
+    "Name": "Abu Dhabi National Insurance Company",
+    "Ticker": "ADNIC",
+    "Price": "5.82 AED",
+    "Percent": "1.04%",
+    "Price_Chg": "0.06 AED",
+    "Rating": "Buy",
+    "Volume": "13.437K"
+  },
+  {
+    "Name": "Abu Dhabi National Oil Company For Distribution",
+    "Ticker": "ADNOCDIST",
+    "Price": "3.93 AED",
+    "Percent": "0.77%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Neutral",
+    "Volume": "6.26M"
+  },
+  {
+    "Name": "ADNOC Drilling Company PJSC",
+    "Ticker": "ADNOCDRILL",
+    "Price": "3.94 AED",
+    "Percent": "−0.76%",
+    "Price_Chg": "−0.03 AED",
+    "Rating": "Buy",
+    "Volume": "1.15M"
+  },
+  {
+    "Name": "ADNOC Gas plc",
+    "Ticker": "ADNOCGAS",
+    "Price": "3.53 AED",
+    "Percent": "−1.40%",
+    "Price_Chg": "−0.05 AED",
+    "Rating": "Buy",
+    "Volume": "8.969M"
+  },
+  {
+    "Name": "ADNOC Logistics & Services plc",
+    "Ticker": "ADNOCLS",
+    "Price": "3.75 AED",
+    "Percent": "0.27%",
+    "Price_Chg": "0.01 AED",
+    "Rating": "Buy",
+    "Volume": "2.778M"
+  },
+  {
+    "Name": "Abu Dhabi Ship Building Co.",
+    "Ticker": "ADSB",
+    "Price": "4.46 AED",
+    "Percent": "1.83%",
+    "Price_Chg": "0.08 AED",
+    "Rating": "Strong Buy",
+    "Volume": "1.062M"
+  },
+  {
+    "Name": "AGTHIA Group",
+    "Ticker": "AGTHIA",
+    "Price": "5.04 AED",
+    "Percent": "0.60%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Neutral",
+    "Volume": "170.99K"
+  },
+  {
+    "Name": "AIR ARABIA",
+    "Ticker": "AIRARABIA",
+    "Price": "2.78 AED",
+    "Percent": "0.36%",
+    "Price_Chg": "0.01 AED",
+    "Rating": "Buy",
+    "Volume": "2.456M"
+  },
+  {
+    "Name": "AJMAN BANK",
+    "Ticker": "AJMANBANK",
+    "Price": "2.23 AED",
+    "Percent": "−0.45%",
+    "Price_Chg": "−0.01 AED",
+    "Rating": "Buy",
+    "Volume": "11.291M"
+  },
+  {
+    "Name": "AL ANSARI FINANCIA",
+    "Ticker": "ALANSARI",
+    "Price": "1.230 AED",
+    "Percent": "−1.60%",
+    "Price_Chg": "−0.020 AED",
+    "Rating": "Buy",
+    "Volume": "5.427M"
+  },
+  {
+    "Name": "Al Dar Properties",
+    "Ticker": "ALDAR",
+    "Price": "5.24 AED",
+    "Percent": "0.38%",
+    "Price_Chg": "0.02 AED",
+    "Rating": "Sell",
+    "Volume": "4.538M"
+  },
+  {
+    "Name": "AL FIRDOUS HOLDING",
+    "Ticker": "ALFIRDOUS",
+    "Price": "0.609 AED",
+    "Percent": "2.18%",
+    "Price_Chg": "0.013 AED",
+    "Rating": "Buy",
+    "Volume": "704.446K"
+  },
+  {
+    "Name": "Alpha Dhabi Holding PJSC",
+    "Ticker": "ALPHADHABI",
+    "Price": "21.10 AED",
+    "Percent": "−1.59%",
+    "Price_Chg": "−0.34 AED",
+    "Rating": "Buy",
+    "Volume": "5.613M"
+  },
+  {
+    "Name": "AL RAMZ CORPORATIO",
+    "Ticker": "ALRAMZ",
+    "Price": "1.42 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "AMAN (DUBAI ISL IN",
+    "Ticker": "AMAN",
+    "Price": "0.672 AED",
+    "Percent": "−1.18%",
+    "Price_Chg": "−0.008 AED",
+    "Rating": "Strong Sell",
+    "Volume": "763.367K"
+  },
+  {
+    "Name": "AMANAT HLDGS",
+    "Ticker": "AMANAT",
+    "Price": "1.06 AED",
+    "Percent": "−1.85%",
+    "Price_Chg": "−0.02 AED",
+    "Rating": "Buy",
+    "Volume": "2.01M"
+  },
+  {
+    "Name": "AMLAK FINANCE",
+    "Ticker": "AMLAK",
+    "Price": "0.898 AED",
+    "Percent": "1.47%",
+    "Price_Chg": "0.013 AED",
+    "Rating": "Buy",
+    "Volume": "2.167M"
+  },
+  {
+    "Name": "Americana Restaurants International PLC",
+    "Ticker": "AMR",
+    "Price": "4.07 AED",
+    "Percent": "−0.97%",
+    "Price_Chg": "−0.04 AED",
+    "Rating": "Buy",
+    "Volume": "2.626M"
+  },
+  {
+    "Name": "APEX INVESTMENT P.S.C",
+    "Ticker": "APEX",
+    "Price": "2.48 AED",
+    "Percent": "0.81%",
+    "Price_Chg": "0.02 AED",
+    "Rating": "Buy",
+    "Volume": "15.357M"
+  },
+  {
+    "Name": "Aram Group",
+    "Ticker": "ARAM",
+    "Price": "1.76 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "1.363K"
+  },
+  {
+    "Name": "ARAMEX COMPANY",
+    "Ticker": "ARMX",
+    "Price": "2.77 AED",
+    "Percent": "−0.72%",
+    "Price_Chg": "−0.02 AED",
+    "Rating": "Sell",
+    "Volume": "729.138K"
+  },
+  {
+    "Name": "ARABIAN SCANDINAVI",
+    "Ticker": "ASCANA",
+    "Price": "1.97 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "Al  Seer Marine Supplies & Equipment Company P.J.S.C",
+    "Ticker": "ASM",
+    "Price": "7.97 AED",
+    "Percent": "−2.21%",
+    "Price_Chg": "−0.18 AED",
+    "Rating": "Neutral",
+    "Volume": "909.898K"
+  },
+  {
+    "Name": "Bayanat AI PLC",
+    "Ticker": "BAYANAT",
+    "Price": "4.25 AED",
+    "Percent": "0.95%",
+    "Price_Chg": "0.04 AED",
+    "Rating": "Buy",
+    "Volume": "2.208M"
+  },
+  {
+    "Name": "BHM CAPITAL",
+    "Ticker": "BHMCAPITAL",
+    "Price": "1.39 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "Abu Dhabi National Co. for Building Materials",
+    "Ticker": "BILDCO",
+    "Price": "0.4250 AED",
+    "Percent": "2.16%",
+    "Price_Chg": "0.0090 AED",
+    "Rating": "Buy",
+    "Volume": "6.147M"
+  },
+  {
+    "Name": "Borouge PLC",
+    "Ticker": "BOROUGE",
+    "Price": "2.75 AED",
+    "Percent": "−1.79%",
+    "Price_Chg": "−0.05 AED",
+    "Rating": "Buy",
+    "Volume": "7.343M"
+  },
+  {
+    "Name": "BURJEEL HOLDINGS PLC",
+    "Ticker": "BURJEEL",
+    "Price": "2.71 AED",
+    "Percent": "−1.45%",
+    "Price_Chg": "−0.04 AED",
+    "Rating": "Buy",
+    "Volume": "5.944M"
+  },
+  {
+    "Name": "DANA GAS PJSC",
+    "Ticker": "DANA",
+    "Price": "0.9370 AED",
+    "Percent": "1.08%",
+    "Price_Chg": "0.0100 AED",
+    "Rating": "Buy",
+    "Volume": "28.628M"
+  },
+  {
+    "Name": "DEPA PLC",
+    "Ticker": "DEPA",
+    "Price": "0.270 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 AED",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "DUBAI ELECTRICITY",
+    "Ticker": "DEWA",
+    "Price": "2.61 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Neutral",
+    "Volume": "3.98M"
+  },
+  {
+    "Name": "DEYAAR DEVELOPMENT",
+    "Ticker": "DEYAAR",
+    "Price": "0.742 AED",
+    "Percent": "1.23%",
+    "Price_Chg": "0.009 AED",
+    "Rating": "Buy",
+    "Volume": "16.532M"
+  },
+  {
+    "Name": "DUBAI FINANCIAL",
+    "Ticker": "DFM",
+    "Price": "1.64 AED",
+    "Percent": "1.86%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Buy",
+    "Volume": "9.807M"
+  },
+  {
+    "Name": "DUBAI ISLAMIC BANK",
+    "Ticker": "DIB",
+    "Price": "5.69 AED",
+    "Percent": "−1.22%",
+    "Price_Chg": "−0.07 AED",
+    "Rating": "Sell",
+    "Volume": "3.897M"
+  },
+  {
+    "Name": "DUBAI INVESTMENTS",
+    "Ticker": "DIC",
+    "Price": "2.48 AED",
+    "Percent": "0.81%",
+    "Price_Chg": "0.02 AED",
+    "Rating": "Buy",
+    "Volume": "1.439M"
+  },
+  {
+    "Name": "DUBAI NATL INSURAN",
+    "Ticker": "DNIR",
+    "Price": "4.50 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "DUBAI REFRESHMENTS",
+    "Ticker": "DRC",
+    "Price": "18.90 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Strong Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "Emirates Driving Company",
+    "Ticker": "DRIVE",
+    "Price": "25.74 AED",
+    "Percent": "−0.16%",
+    "Price_Chg": "−0.04 AED",
+    "Rating": "Strong Sell",
+    "Volume": "217"
+  },
+  {
+    "Name": "EMIRATE INTEGRATED",
+    "Ticker": "DU",
+    "Price": "5.32 AED",
+    "Percent": "−1.30%",
+    "Price_Chg": "−0.07 AED",
+    "Rating": "Sell",
+    "Volume": "135.468K"
+  },
+  {
+    "Name": "Emirates Telecom. Group Company (Etisalat Group) PJSC",
+    "Ticker": "EAND",
+    "Price": "21.84 AED",
+    "Percent": "−1.18%",
+    "Price_Chg": "−0.26 AED",
+    "Rating": "Strong Sell",
+    "Volume": "1.016M"
+  },
+  {
+    "Name": "Easy Lease Motorcycle Rental PJSC",
+    "Ticker": "EASYLEASE",
+    "Price": "33.50 AED",
+    "Percent": "−1.47%",
+    "Price_Chg": "−0.50 AED",
+    "Rating": "Neutral",
+    "Volume": "262.625K"
+  },
+  {
+    "Name": "EMIRATES ISLAM BK",
+    "Ticker": "EIB",
+    "Price": "7.50 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "EMIRATES INV BANK",
+    "Ticker": "EIBANK",
+    "Price": "107.00 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "EMAAR PROPERTIES",
+    "Ticker": "EMAAR",
+    "Price": "6.90 AED",
+    "Percent": "0.73%",
+    "Price_Chg": "0.05 AED",
+    "Rating": "Buy",
+    "Volume": "7.292M"
+  },
+  {
+    "Name": "EMAAR DEVELOPMENT",
+    "Ticker": "EMAARDEV",
+    "Price": "6.35 AED",
+    "Percent": "0.47%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Neutral",
+    "Volume": "1.129M"
+  },
+  {
+    "Name": "EMIRATES CENTRAL C",
+    "Ticker": "EMPOWER",
+    "Price": "1.83 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "999.383K"
+  },
+  {
+    "Name": "EMSTEEL BUILDING MATERIALS PJSC",
+    "Ticker": "EMSTEEL",
+    "Price": "1.70 AED",
+    "Percent": "1.19%",
+    "Price_Chg": "0.02 AED",
+    "Rating": "Strong Buy",
+    "Volume": "5.299M"
+  },
+  {
+    "Name": "EMIRATES REFRESHME",
+    "Ticker": "ERC",
+    "Price": "3.95 AED",
+    "Percent": "0.77%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Buy",
+    "Volume": "165.057K"
+  },
+  {
+    "Name": "ESG EMIRATES STALLIONS GROUP P.J.S.C",
+    "Ticker": "ESG",
+    "Price": "6.16 AED",
+    "Percent": "−1.44%",
+    "Price_Chg": "−0.09 AED",
+    "Rating": "Buy",
+    "Volume": "1.884M"
+  },
+  {
+    "Name": "ESHRAQ INVESTMENTS P.J.S.C",
+    "Ticker": "ESHRAQ",
+    "Price": "0.5730 AED",
+    "Percent": "0.53%",
+    "Price_Chg": "0.0030 AED",
+    "Rating": "Buy",
+    "Volume": "40.605M"
+  },
+  {
+    "Name": "Fujairah Cement Industries",
+    "Ticker": "FCI",
+    "Price": "0.4040 AED",
+    "Percent": "3.59%",
+    "Price_Chg": "0.0140 AED",
+    "Rating": "Buy",
+    "Volume": "10"
+  },
+  {
+    "Name": "Fertiglobe plc",
+    "Ticker": "FERTIGLB",
+    "Price": "3.68 AED",
+    "Percent": "−0.27%",
+    "Price_Chg": "−0.01 AED",
+    "Rating": "Buy",
+    "Volume": "10.058M"
+  },
+  {
+    "Name": "FOODCO NATIONAL FOODSTUFF PrJSC",
+    "Ticker": "FNF",
+    "Price": "1.66 AED",
+    "Percent": "−8.29%",
+    "Price_Chg": "−0.15 AED",
+    "Rating": "Sell",
+    "Volume": "15.258K"
+  },
+  {
+    "Name": "Gulf Cement Co.",
+    "Ticker": "GCEM",
+    "Price": "0.4660 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.0000 AED",
+    "Rating": "Buy",
+    "Volume": "5.401K"
+  },
+  {
+    "Name": "GHITHA HOLDING P.J.S.C.",
+    "Ticker": "GHITHA",
+    "Price": "42.26 AED",
+    "Percent": "−1.68%",
+    "Price_Chg": "−0.72 AED",
+    "Rating": "Sell",
+    "Volume": "112.696K"
+  },
+  {
+    "Name": "Gulf Medical Projects Company",
+    "Ticker": "GMPC",
+    "Price": "2.00 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "200"
+  },
+  {
+    "Name": "GULF NAVIGATION HO",
+    "Ticker": "GULFNAV",
+    "Price": "7.27 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "3.211M"
+  },
+  {
+    "Name": "Hayah Insurance Company P.J.S.C",
+    "Ticker": "HAYAH",
+    "Price": "1.62 AED",
+    "Percent": "−1.82%",
+    "Price_Chg": "−0.03 AED",
+    "Rating": "Buy",
+    "Volume": "737.6K"
+  },
+  {
+    "Name": "HILY HOLDING PJSC",
+    "Ticker": "HH",
+    "Price": "2.95 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "150"
+  },
+  {
+    "Name": "International Holding Company PJSC",
+    "Ticker": "IHC",
+    "Price": "402.4 AED",
+    "Percent": "0.10%",
+    "Price_Chg": "0.4 AED",
+    "Rating": "Buy",
+    "Volume": "509.894K"
+  },
+  {
+    "Name": "Invictus Investment Company PLC",
+    "Ticker": "INVICTUS",
+    "Price": "3.07 AED",
+    "Percent": "0.99%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Buy",
+    "Volume": "3.191M"
+  },
+  {
+    "Name": "Gulf Pharmaceutical Industries",
+    "Ticker": "JULPHAR",
+    "Price": "0.8700 AED",
+    "Percent": "−0.11%",
+    "Price_Chg": "−0.0010 AED",
+    "Rating": "Neutral",
+    "Volume": "108.52K"
+  },
+  {
+    "Name": "Manazel PJSC",
+    "Ticker": "MANAZEL",
+    "Price": "0.5390 AED",
+    "Percent": "0.75%",
+    "Price_Chg": "0.0040 AED",
+    "Rating": "Buy",
+    "Volume": "19.395M"
+  },
+  {
+    "Name": "MASHREQBANK PSC",
+    "Ticker": "MASQ",
+    "Price": "154.00 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Strong Buy",
+    "Volume": "8"
+  },
+  {
+    "Name": "Multiply Group PJSC",
+    "Ticker": "MULTIPLY",
+    "Price": "3.66 AED",
+    "Percent": "2.23%",
+    "Price_Chg": "0.08 AED",
+    "Rating": "Strong Buy",
+    "Volume": "36.441M"
+  },
+  {
+    "Name": "National Bank of Umm Al Qaiwain",
+    "Ticker": "NBQ",
+    "Price": "2.00 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "1"
+  },
+  {
+    "Name": "NATIONAL CEMENT",
+    "Ticker": "NCC",
+    "Price": "2.34 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "National Corporation for Tourism & Hotels",
+    "Ticker": "NCTH",
+    "Price": "3.01 AED",
+    "Percent": "−0.33%",
+    "Price_Chg": "−0.01 AED",
+    "Rating": "Sell",
+    "Volume": "18.25K"
+  },
+  {
+    "Name": "NASDAQ INC",
+    "Ticker": "NDAQ",
+    "Price": "49.450 USD",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 USD",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "National Marine Dredging Co.",
+    "Ticker": "NMDC",
+    "Price": "21.66 AED",
+    "Percent": "−0.09%",
+    "Price_Chg": "−0.02 AED",
+    "Rating": "Buy",
+    "Volume": "1.02M"
+  },
+  {
+    "Name": "ORASCOM CONSTRUCTION PLC",
+    "Ticker": "OC",
+    "Price": "3.000 USD",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 USD",
+    "Rating": "Strong Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "OMAN INSURANCE CO",
+    "Ticker": "OIC",
+    "Price": "3.85 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "OMOILU24",
+    "Ticker": "OMOILU24",
+    "Price": "82.080 USD",
+    "Percent": "−0.47%",
+    "Price_Chg": "−0.390 USD",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "PALMS SPORTS PrJSC",
+    "Ticker": "PALMS",
+    "Price": "9.93 AED",
+    "Percent": "0.51%",
+    "Price_Chg": "0.05 AED",
+    "Rating": "Sell",
+    "Volume": "529.45K"
+  },
+  {
+    "Name": "Presight AI Holding PLC",
+    "Ticker": "PRESIGHT",
+    "Price": "3.39 AED",
+    "Percent": "0.30%",
+    "Price_Chg": "0.01 AED",
+    "Rating": "Strong Buy",
+    "Volume": "4.054M"
+  },
+  {
+    "Name": "Q Holding PSC",
+    "Ticker": "QHOLDING",
+    "Price": "3.68 AED",
+    "Percent": "11.18%",
+    "Price_Chg": "0.37 AED",
+    "Rating": "Strong Buy",
+    "Volume": "119.554M"
+  },
+  {
+    "Name": "The National Bank of Ras Al Khaimah",
+    "Ticker": "RAKBANK",
+    "Price": "5.70 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "74K"
+  },
+  {
+    "Name": "RAK Ceramics PJSC",
+    "Ticker": "RAKCEC",
+    "Price": "2.56 AED",
+    "Percent": "−3.76%",
+    "Price_Chg": "−0.10 AED",
+    "Rating": "Strong Sell",
+    "Volume": "2.149M"
+  },
+  {
+    "Name": "RAK Properties",
+    "Ticker": "RAKPROP",
+    "Price": "1.15 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "9.817M"
+  },
+  {
+    "Name": "RAK Co. for White Cement & Construction Materials",
+    "Ticker": "RAKWCT",
+    "Price": "1.40 AED",
+    "Percent": "−2.78%",
+    "Price_Chg": "−0.04 AED",
+    "Rating": "Neutral",
+    "Volume": "35.19K"
+  },
+  {
+    "Name": "RAPCO Investment PJSC",
+    "Ticker": "RAPCO",
+    "Price": "1.71 AED",
+    "Percent": "−7.07%",
+    "Price_Chg": "−0.13 AED",
+    "Rating": "Strong Sell",
+    "Volume": "303"
+  },
+  {
+    "Name": "Response Plus Holding PrJSC",
+    "Ticker": "RPM",
+    "Price": "4.72 AED",
+    "Percent": "−2.07%",
+    "Price_Chg": "−0.10 AED",
+    "Rating": "Sell",
+    "Volume": "1.679M"
+  },
+  {
+    "Name": "ISLAMIC ARAB INSUR",
+    "Ticker": "SALAMA",
+    "Price": "0.750 AED",
+    "Percent": "−0.13%",
+    "Price_Chg": "−0.001 AED",
+    "Rating": "Buy",
+    "Volume": "757.135K"
+  },
+  {
+    "Name": "SALIK COMPANY P.J.",
+    "Ticker": "SALIK",
+    "Price": "3.20 AED",
+    "Percent": "1.91%",
+    "Price_Chg": "0.06 AED",
+    "Rating": "Strong Buy",
+    "Volume": "3.748M"
+  },
+  {
+    "Name": "SHUAA CAPITAL",
+    "Ticker": "SHUAA",
+    "Price": "0.411 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.000 AED",
+    "Rating": "Neutral",
+    "Volume": "10.148M"
+  },
+  {
+    "Name": "Sharjah Islamic Bank",
+    "Ticker": "SIB",
+    "Price": "2.45 AED",
+    "Percent": "−1.61%",
+    "Price_Chg": "−0.04 AED",
+    "Rating": "Buy",
+    "Volume": "959.09K"
+  },
+  {
+    "Name": "TAALEEM HOLDINGS P",
+    "Ticker": "TAALEEM",
+    "Price": "4.18 AED",
+    "Percent": "0.72%",
+    "Price_Chg": "0.03 AED",
+    "Rating": "Buy",
+    "Volume": "386.721K"
+  },
+  {
+    "Name": "TAKAFUL EMARAT",
+    "Ticker": "TAKAFUL_EM",
+    "Price": "0.716 AED",
+    "Percent": "−0.42%",
+    "Price_Chg": "−0.003 AED",
+    "Rating": "Sell",
+    "Volume": "2.145M"
+  },
+  {
+    "Name": "TECOM GROUP PJSC",
+    "Ticker": "TECOM",
+    "Price": "2.59 AED",
+    "Percent": "−0.38%",
+    "Price_Chg": "−0.01 AED",
+    "Rating": "Buy",
+    "Volume": "210.081K"
+  },
+  {
+    "Name": "Abu Dhabi National Takaful Co.",
+    "Ticker": "TKFL",
+    "Price": "8.50 AED",
+    "Percent": "−9.86%",
+    "Price_Chg": "−0.93 AED",
+    "Rating": "Buy",
+    "Volume": "31.964K"
+  },
+  {
+    "Name": "United Arab Bank",
+    "Ticker": "UAB",
+    "Price": "1.35 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "320K"
+  },
+  {
+    "Name": "UNITED FOODS COMPA",
+    "Ticker": "UFC",
+    "Price": "11.85 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "0"
+  },
+  {
+    "Name": "UNIKAI FOODS",
+    "Ticker": "UNIKAI",
+    "Price": "8.60 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Sell",
+    "Volume": "0"
+  },
+  {
+    "Name": "Union Insurance Company",
+    "Ticker": "UNION",
+    "Price": "0.5450 AED",
+    "Percent": "−7.63%",
+    "Price_Chg": "−0.0450 AED",
+    "Rating": "Sell",
+    "Volume": "8.13K"
+  },
+  {
+    "Name": "UNION COOP",
+    "Ticker": "UNIONCOOP",
+    "Price": "2.84 AED",
+    "Percent": "0.35%",
+    "Price_Chg": "0.01 AED",
+    "Rating": "Sell",
+    "Volume": "16.22K"
+  },
+  {
+    "Name": "UNION PROPERTIES",
+    "Ticker": "UPP",
+    "Price": "0.398 AED",
+    "Percent": "−0.50%",
+    "Price_Chg": "−0.002 AED",
+    "Rating": "Sell",
+    "Volume": "16.864M"
+  },
+  {
+    "Name": "Waha Capital Company",
+    "Ticker": "WAHA",
+    "Price": "1.42 AED",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 AED",
+    "Rating": "Buy",
+    "Volume": "1.355M"
+  },
+  {
+    "Name": "Al Yah Satellite Communications Company PJSC",
+    "Ticker": "YAHSAT",
+    "Price": "2.58 AED",
+    "Percent": "0.78%",
+    "Price_Chg": "0.02 AED",
+    "Rating": "Sell",
+    "Volume": "672.605K"
+  }
+]
