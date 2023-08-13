@@ -1,27 +1,27 @@
 [
   {
-    "Name": "Consumer Services",
-    "Percent": "3.38%",
+    "Name": "Transportation",
+    "Percent": "4.03%",
     "Rank": 1
   },
   {
-    "Name": "Health Services",
-    "Percent": "2.87%",
+    "Name": "Consumer Durables",
+    "Percent": "2.17%",
     "Rank": 2
   },
   {
-    "Name": "Commercial Services",
-    "Percent": "1.55%",
+    "Name": "Process Industries",
+    "Percent": "2.07%",
     "Rank": 3
   },
   {
-    "Name": "Utilities",
-    "Percent": "0.56%",
+    "Name": "Health Technology",
+    "Percent": "2.03%",
     "Rank": 4
   },
   {
-    "Name": "Producer Manufacturing",
-    "Percent": "0.37%",
+    "Name": "Non-Energy Minerals",
+    "Percent": "1.94%",
     "Rank": 5
   }
 ]

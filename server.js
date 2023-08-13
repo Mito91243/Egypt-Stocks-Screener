@@ -389,15 +389,67 @@ async function Get_News_ArabNews() {
   }
 }
 
+async function Get_Top_Gainers() {
+  // Launch the browser and open a new blank page
+  const browser = await puppeteer.launch({
+    headless: "true",
+  });
+  const page = await browser.newPage();
+
+  // Navigate the page to a URL
+  await page.goto(
+    "https://www.tradingview.com/markets/stocks-egypt/market-movers-gainers/"
+  );
+
+
+  const extractedData = await page.evaluate(() => {
+    //Create Empty Array to push Data into
+    const data = [];
+
+    //Get All Table ROWS
+    const tableRows = document.querySelectorAll("tbody > tr");
+    let counter = 0;
+    // Loop through each row and extract data from elements within <td> cells
+    tableRows.forEach((row) => {
+      if (counter > 4) return false;
+      //Get all TD cells inside each row
+      const cells = row.querySelectorAll("td");
+      //Query each td as you like in celldata object
+      const celldata = {
+        Name: cells[0].querySelector("span > sup").textContent,
+        Percent: cells[1].querySelector("span").textContent,
+        Rank: counter + 1,
+        // Add more properties as needed
+      };
+      counter++;
+      //Push the object into the data again
+      data.push(celldata);
+    });
+    //return the data
+    return data;
+  });
+
+  //console.log(extractedData);
+  await browser.close();
+  try {
+    const jsonData = JSON.stringify(extractedData, null, 2);
+
+    fs.writeFileSync("./data/Top_Gainers.json", jsonData, "utf8");
+    console.log("Data written to Top_Gainers.json");
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
 //async function run() {
 
 //await Get_News_TradingView();
-//await Get_News_ArabNews();
-//await Get_Stocks_KSA();
-//await Get_Stocks_UAE();
-//await Get_Stocks_EG();
+await Get_News_ArabNews();
+await Get_Stocks_KSA();
+await Get_Stocks_UAE();
+await Get_Stocks_EG();
 await Get_Sectors();
 await Get_Industries();
+await Get_Top_Gainers();
 //}
 
 //setInterval(run, 20000);

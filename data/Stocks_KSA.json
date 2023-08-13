@@ -2,1883 +2,1883 @@
   {
     "Name": "RIYAD BANK",
     "Ticker": "1010",
-    "Price": "30.40 SAR",
-    "Percent": "1.00%",
-    "Price_Chg": "0.30 SAR",
+    "Price": "30.85 SAR",
+    "Percent": "1.48%",
+    "Price_Chg": "0.45 SAR",
     "Rating": "Sell",
-    "Volume": "1.109M"
+    "Volume": "834.098K"
   },
   {
     "Name": "BANK ALJAZIRA",
     "Ticker": "1020",
-    "Price": "18.18 SAR",
+    "Price": "18.24 SAR",
     "Percent": "0.33%",
     "Price_Chg": "0.06 SAR",
     "Rating": "Sell",
-    "Volume": "5.481M"
+    "Volume": "2.918M"
   },
   {
     "Name": "SAUDI INVESTMENT BANK",
     "Ticker": "1030",
-    "Price": "16.76 SAR",
-    "Percent": "−0.24%",
-    "Price_Chg": "−0.04 SAR",
+    "Price": "16.80 SAR",
+    "Percent": "0.24%",
+    "Price_Chg": "0.04 SAR",
     "Rating": "Sell",
-    "Volume": "396.405K"
+    "Volume": "214.008K"
   },
   {
     "Name": "BANQUE SAUDI FRANSI",
     "Ticker": "1050",
-    "Price": "38.90 SAR",
-    "Percent": "1.57%",
+    "Price": "39.50 SAR",
+    "Percent": "1.54%",
     "Price_Chg": "0.60 SAR",
     "Rating": "Sell",
-    "Volume": "463.764K"
+    "Volume": "106.361K"
   },
   {
     "Name": "SAUDI BRITISH BANK",
     "Ticker": "1060",
-    "Price": "36.60 SAR",
-    "Percent": "1.67%",
-    "Price_Chg": "0.60 SAR",
+    "Price": "37.25 SAR",
+    "Percent": "1.78%",
+    "Price_Chg": "0.65 SAR",
     "Rating": "Sell",
-    "Volume": "2.062M"
+    "Volume": "419.579K"
   },
   {
     "Name": "ARAB NATIONAL BANK",
     "Ticker": "1080",
-    "Price": "25.40 SAR",
-    "Percent": "1.40%",
-    "Price_Chg": "0.35 SAR",
+    "Price": "25.70 SAR",
+    "Percent": "1.18%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Sell",
-    "Volume": "1.076M"
+    "Volume": "488.93K"
   },
   {
     "Name": "SAUDI TADAWUL GROUP HOLDING CO.",
     "Ticker": "1111",
-    "Price": "178.20 SAR",
-    "Percent": "−1.00%",
-    "Price_Chg": "−1.80 SAR",
-    "Rating": "Sell",
-    "Volume": "766.834K"
+    "Price": "182.60 SAR",
+    "Percent": "2.47%",
+    "Price_Chg": "4.40 SAR",
+    "Rating": "Neutral",
+    "Volume": "493.372K"
   },
   {
     "Name": "AL RAJHI BANK",
     "Ticker": "1120",
-    "Price": "72.00 SAR",
-    "Percent": "−0.14%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Sell",
-    "Volume": "4.056M"
+    "Price": "72.70 SAR",
+    "Percent": "0.97%",
+    "Price_Chg": "0.70 SAR",
+    "Rating": "Neutral",
+    "Volume": "2.696M"
   },
   {
     "Name": "BANK ALBILAD",
     "Ticker": "1140",
-    "Price": "43.00 SAR",
-    "Percent": "3.61%",
-    "Price_Chg": "1.50 SAR",
+    "Price": "43.10 SAR",
+    "Percent": "0.23%",
+    "Price_Chg": "0.10 SAR",
     "Rating": "Buy",
-    "Volume": "876.079K"
+    "Volume": "187.563K"
   },
   {
     "Name": "ALINMA BANK",
     "Ticker": "1150",
-    "Price": "36.45 SAR",
-    "Percent": "1.53%",
-    "Price_Chg": "0.55 SAR",
+    "Price": "36.40 SAR",
+    "Percent": "−0.14%",
+    "Price_Chg": "−0.05 SAR",
     "Rating": "Buy",
-    "Volume": "4.868M"
+    "Volume": "2.846M"
   },
   {
     "Name": "THE SAUDI NATIONAL BANK",
     "Ticker": "1180",
-    "Price": "36.00 SAR",
-    "Percent": "0.98%",
-    "Price_Chg": "0.35 SAR",
+    "Price": "36.40 SAR",
+    "Percent": "1.11%",
+    "Price_Chg": "0.40 SAR",
     "Rating": "Sell",
-    "Volume": "7.5M"
+    "Volume": "3.269M"
   },
   {
     "Name": "AMLAK INTERNATIONAL FINANCE CO.",
     "Ticker": "1182",
-    "Price": "14.38 SAR",
-    "Percent": "−0.28%",
-    "Price_Chg": "−0.04 SAR",
+    "Price": "14.54 SAR",
+    "Percent": "1.11%",
+    "Price_Chg": "0.16 SAR",
     "Rating": "Sell",
-    "Volume": "115.711K"
+    "Volume": "72.438K"
   },
   {
     "Name": "SHL FINANCE CO.",
     "Ticker": "1183",
-    "Price": "19.62 SAR",
-    "Percent": "−0.20%",
-    "Price_Chg": "−0.04 SAR",
-    "Rating": "Buy",
-    "Volume": "76.883K"
+    "Price": "19.28 SAR",
+    "Percent": "−1.73%",
+    "Price_Chg": "−0.34 SAR",
+    "Rating": "Sell",
+    "Volume": "80.908K"
   },
   {
     "Name": "TAKWEEN ADVANCED INDUSTRIES CO.",
     "Ticker": "1201",
-    "Price": "16.20 SAR",
-    "Percent": "1.76%",
-    "Price_Chg": "0.28 SAR",
+    "Price": "16.50 SAR",
+    "Percent": "1.85%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Sell",
-    "Volume": "219.785K"
+    "Volume": "232.656K"
   },
   {
     "Name": "MIDDLE EAST PAPER CO.",
     "Ticker": "1202",
-    "Price": "33.00 SAR",
-    "Percent": "0.76%",
-    "Price_Chg": "0.25 SAR",
+    "Price": "32.90 SAR",
+    "Percent": "−0.30%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Sell",
-    "Volume": "418.144K"
+    "Volume": "404.11K"
   },
   {
     "Name": "BASIC CHEMICAL INDUSTRIES CO.",
     "Ticker": "1210",
-    "Price": "35.65 SAR",
-    "Percent": "0.71%",
-    "Price_Chg": "0.25 SAR",
-    "Rating": "Sell",
-    "Volume": "63.599K"
+    "Price": "35.85 SAR",
+    "Percent": "0.56%",
+    "Price_Chg": "0.20 SAR",
+    "Rating": "Neutral",
+    "Volume": "55.563K"
   },
   {
     "Name": "SAUDI ARABIAN MINING CO.",
     "Ticker": "1211",
-    "Price": "41.05 SAR",
-    "Percent": "−0.24%",
-    "Price_Chg": "−0.10 SAR",
+    "Price": "41.40 SAR",
+    "Percent": "0.85%",
+    "Price_Chg": "0.35 SAR",
     "Rating": "Sell",
-    "Volume": "1.568M"
+    "Volume": "2.231M"
   },
   {
     "Name": "ASTRA INDUSTRIAL GROUP",
     "Ticker": "1212",
-    "Price": "87.00 SAR",
-    "Percent": "−0.91%",
-    "Price_Chg": "−0.80 SAR",
-    "Rating": "Sell",
-    "Volume": "101.306K"
+    "Price": "88.40 SAR",
+    "Percent": "1.61%",
+    "Price_Chg": "1.40 SAR",
+    "Rating": "Buy",
+    "Volume": "46.799K"
   },
   {
     "Name": "NASEEJ INTERNATIONAL TRADING CO.",
     "Ticker": "1213",
-    "Price": "41.95 SAR",
-    "Percent": "0.84%",
-    "Price_Chg": "0.35 SAR",
+    "Price": "41.90 SAR",
+    "Percent": "−0.12%",
+    "Price_Chg": "−0.05 SAR",
     "Rating": "Sell",
-    "Volume": "57.951K"
+    "Volume": "63.435K"
   },
   {
     "Name": "AL HASSAN GHAZI IBRAHIM SHAKER CO.",
     "Ticker": "1214",
     "Price": "24.60 SAR",
-    "Percent": "−1.28%",
-    "Price_Chg": "−0.32 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "296.261K"
+    "Volume": "148.858K"
   },
   {
     "Name": "UNITED WIRE FACTORIES CO.",
     "Ticker": "1301",
-    "Price": "29.00 SAR",
-    "Percent": "2.47%",
-    "Price_Chg": "0.70 SAR",
-    "Rating": "Sell",
-    "Volume": "197.673K"
+    "Price": "28.75 SAR",
+    "Percent": "−0.86%",
+    "Price_Chg": "−0.25 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "139.578K"
   },
   {
     "Name": "BAWAN CO.",
     "Ticker": "1302",
-    "Price": "35.15 SAR",
-    "Percent": "0.14%",
-    "Price_Chg": "0.05 SAR",
+    "Price": "35.45 SAR",
+    "Percent": "0.85%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Buy",
-    "Volume": "280.132K"
+    "Volume": "172.815K"
   },
   {
     "Name": "ELECTRICAL INDUSTRIES CO.",
     "Ticker": "1303",
-    "Price": "38.00 SAR",
-    "Percent": "4.54%",
-    "Price_Chg": "1.65 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "1.13M"
+    "Price": "37.60 SAR",
+    "Percent": "−1.05%",
+    "Price_Chg": "−0.40 SAR",
+    "Rating": "Buy",
+    "Volume": "408.477K"
   },
   {
     "Name": "AL YAMAMAH STEEL INDUSTRIES CO.",
     "Ticker": "1304",
-    "Price": "24.60 SAR",
-    "Percent": "0.99%",
-    "Price_Chg": "0.24 SAR",
+    "Price": "24.90 SAR",
+    "Percent": "1.22%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Sell",
-    "Volume": "279.792K"
+    "Volume": "146.402K"
   },
   {
     "Name": "SAUDI STEEL PIPE CO.",
     "Ticker": "1320",
-    "Price": "31.30 SAR",
-    "Percent": "0.48%",
-    "Price_Chg": "0.15 SAR",
+    "Price": "30.95 SAR",
+    "Percent": "−1.12%",
+    "Price_Chg": "−0.35 SAR",
     "Rating": "Buy",
-    "Volume": "1.729M"
+    "Volume": "872.459K"
   },
   {
     "Name": "EAST PIPES INTEGRATED COMPANY FOR INDUSTRY",
     "Ticker": "1321",
-    "Price": "63.20 SAR",
-    "Percent": "−0.94%",
-    "Price_Chg": "−0.60 SAR",
+    "Price": "63.70 SAR",
+    "Percent": "0.79%",
+    "Price_Chg": "0.50 SAR",
     "Rating": "Buy",
-    "Volume": "190.925K"
+    "Volume": "112.38K"
   },
   {
     "Name": "ALMASANE ALKOBRA MINING CO",
     "Ticker": "1322",
-    "Price": "54.80 SAR",
-    "Percent": "2.24%",
-    "Price_Chg": "1.20 SAR",
+    "Price": "55.30 SAR",
+    "Percent": "0.91%",
+    "Price_Chg": "0.50 SAR",
     "Rating": "Sell",
-    "Volume": "330.444K"
+    "Volume": "269.784K"
   },
   {
     "Name": "SEERA GROUP HOLDING",
     "Ticker": "1810",
-    "Price": "28.10 SAR",
-    "Percent": "0.18%",
-    "Price_Chg": "0.05 SAR",
-    "Rating": "Buy",
-    "Volume": "934.843K"
+    "Price": "27.75 SAR",
+    "Percent": "−1.25%",
+    "Price_Chg": "−0.35 SAR",
+    "Rating": "Sell",
+    "Volume": "582.663K"
   },
   {
     "Name": "ABDULMOHSEN ALHOKAIR GROUP FOR TOURISM AND DEVELOPMENT",
     "Ticker": "1820",
-    "Price": "2.27 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "1.183M"
+    "Price": "2.36 SAR",
+    "Percent": "3.96%",
+    "Price_Chg": "0.09 SAR",
+    "Rating": "Buy",
+    "Volume": "3.952M"
   },
   {
     "Name": "LEEJAM SPORTS CO.",
     "Ticker": "1830",
-    "Price": "153.00 SAR",
-    "Percent": "−0.39%",
-    "Price_Chg": "−0.60 SAR",
+    "Price": "150.60 SAR",
+    "Percent": "−1.57%",
+    "Price_Chg": "−2.40 SAR",
     "Rating": "Buy",
-    "Volume": "91.631K"
+    "Volume": "55.145K"
   },
   {
     "Name": "MAHARAH HUMAN RESOURCES CO.",
     "Ticker": "1831",
-    "Price": "62.80 SAR",
-    "Percent": "0.80%",
-    "Price_Chg": "0.50 SAR",
+    "Price": "62.40 SAR",
+    "Percent": "−0.64%",
+    "Price_Chg": "−0.40 SAR",
     "Rating": "Buy",
-    "Volume": "135.198K"
+    "Volume": "132.523K"
   },
   {
     "Name": "SADR LOGISTICS CO",
     "Ticker": "1832",
-    "Price": "3.48 SAR",
-    "Percent": "0.58%",
-    "Price_Chg": "0.02 SAR",
+    "Price": "3.45 SAR",
+    "Percent": "−0.86%",
+    "Price_Chg": "−0.03 SAR",
     "Rating": "Sell",
-    "Volume": "1.164M"
+    "Volume": "1.561M"
   },
   {
     "Name": "AL MAWARID MANPOWER CO.",
     "Ticker": "1833",
-    "Price": "136.40 SAR",
-    "Percent": "0.29%",
-    "Price_Chg": "0.40 SAR",
+    "Price": "136.00 SAR",
+    "Percent": "−0.29%",
+    "Price_Chg": "−0.40 SAR",
     "Rating": "Sell",
-    "Volume": "398.141K"
+    "Volume": "207.282K"
   },
   {
     "Name": "METHANOL CHEMICALS CO.",
     "Ticker": "2001",
-    "Price": "23.48 SAR",
-    "Percent": "2.18%",
-    "Price_Chg": "0.50 SAR",
+    "Price": "23.52 SAR",
+    "Percent": "0.17%",
+    "Price_Chg": "0.04 SAR",
     "Rating": "Sell",
-    "Volume": "998.535K"
+    "Volume": "717.923K"
   },
   {
     "Name": "SAUDI BASIC INDUSTRIES CORP.",
     "Ticker": "2010",
-    "Price": "87.30 SAR",
-    "Percent": "1.39%",
-    "Price_Chg": "1.20 SAR",
+    "Price": "88.00 SAR",
+    "Percent": "0.80%",
+    "Price_Chg": "0.70 SAR",
     "Rating": "Buy",
-    "Volume": "1.908M"
+    "Volume": "1.177M"
   },
   {
     "Name": "SABIC AGRI-NUTRIENTS CO.",
     "Ticker": "2020",
-    "Price": "138.80 SAR",
-    "Percent": "1.61%",
-    "Price_Chg": "2.20 SAR",
+    "Price": "141.20 SAR",
+    "Percent": "1.73%",
+    "Price_Chg": "2.40 SAR",
     "Rating": "Buy",
-    "Volume": "663.756K"
+    "Volume": "809.579K"
   },
   {
     "Name": "SAUDI ARABIA REFINERIES CO.",
     "Ticker": "2030",
-    "Price": "88.00 SAR",
-    "Percent": "0.46%",
-    "Price_Chg": "0.40 SAR",
+    "Price": "88.50 SAR",
+    "Percent": "0.57%",
+    "Price_Chg": "0.50 SAR",
     "Rating": "Buy",
-    "Volume": "91.766K"
+    "Volume": "117.814K"
   },
   {
     "Name": "SAUDI CERAMIC CO.",
     "Ticker": "2040",
-    "Price": "29.40 SAR",
+    "Price": "29.50 SAR",
     "Percent": "0.34%",
     "Price_Chg": "0.10 SAR",
     "Rating": "Sell",
-    "Volume": "649.521K"
+    "Volume": "529.551K"
   },
   {
     "Name": "SAVOLA GROUP",
     "Ticker": "2050",
-    "Price": "36.35 SAR",
-    "Percent": "−0.82%",
-    "Price_Chg": "−0.30 SAR",
+    "Price": "36.50 SAR",
+    "Percent": "0.41%",
+    "Price_Chg": "0.15 SAR",
     "Rating": "Sell",
-    "Volume": "1.732M"
+    "Volume": "742.794K"
   },
   {
     "Name": "NATIONAL INDUSTRIALIZATION CO.",
     "Ticker": "2060",
     "Price": "13.70 SAR",
-    "Percent": "1.78%",
-    "Price_Chg": "0.24 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "2.824M"
+    "Volume": "3.145M"
   },
   {
     "Name": "SAUDI PHARMACEUTICAL INDUSTRIES AND MEDICAL APPLIANCES CORP.",
     "Ticker": "2070",
-    "Price": "38.00 SAR",
-    "Percent": "0.13%",
-    "Price_Chg": "0.05 SAR",
+    "Price": "38.10 SAR",
+    "Percent": "0.26%",
+    "Price_Chg": "0.10 SAR",
     "Rating": "Neutral",
-    "Volume": "233.647K"
+    "Volume": "116.414K"
   },
   {
     "Name": "NATIONAL GAS AND INDUSTRIALIZATION CO.",
     "Ticker": "2080",
-    "Price": "63.60 SAR",
-    "Percent": "−0.16%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Sell",
-    "Volume": "58.848K"
+    "Price": "64.60 SAR",
+    "Percent": "1.57%",
+    "Price_Chg": "1.00 SAR",
+    "Rating": "Neutral",
+    "Volume": "153.046K"
   },
   {
     "Name": "ALKHORAYEF WATER AND POWER TECHNOLOGIES CO",
     "Ticker": "2081",
-    "Price": "151.20 SAR",
-    "Percent": "−1.82%",
-    "Price_Chg": "−2.80 SAR",
-    "Rating": "Sell",
-    "Volume": "123.205K"
+    "Price": "154.00 SAR",
+    "Percent": "1.85%",
+    "Price_Chg": "2.80 SAR",
+    "Rating": "Neutral",
+    "Volume": "38.149K"
   },
   {
     "Name": "ACWA POWER CO.",
     "Ticker": "2082",
-    "Price": "184.00 SAR",
-    "Percent": "3.49%",
-    "Price_Chg": "6.20 SAR",
-    "Rating": "Buy",
-    "Volume": "403.066K"
+    "Price": "187.40 SAR",
+    "Percent": "1.85%",
+    "Price_Chg": "3.40 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "237.569K"
   },
   {
     "Name": "THE POWER AND WATER UTILITY COMPANY FOR JUBAIL AND YANBU",
     "Ticker": "2083",
-    "Price": "76.60 SAR",
-    "Percent": "1.06%",
-    "Price_Chg": "0.80 SAR",
+    "Price": "76.90 SAR",
+    "Percent": "0.39%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Buy",
-    "Volume": "1.021M"
+    "Volume": "933.35K"
   },
   {
     "Name": "NATIONAL GYPSUM CO.",
     "Ticker": "2090",
-    "Price": "25.10 SAR",
-    "Percent": "0.97%",
-    "Price_Chg": "0.24 SAR",
-    "Rating": "Sell",
-    "Volume": "109.116K"
+    "Price": "25.35 SAR",
+    "Percent": "1.00%",
+    "Price_Chg": "0.25 SAR",
+    "Rating": "Neutral",
+    "Volume": "121.546K"
   },
   {
     "Name": "WAFRAH FOR INDUSTRY AND DEVELOPMENT CO.",
     "Ticker": "2100",
-    "Price": "32.95 SAR",
-    "Percent": "−0.15%",
-    "Price_Chg": "−0.05 SAR",
-    "Rating": "Sell",
-    "Volume": "67.622K"
+    "Price": "32.50 SAR",
+    "Percent": "−1.37%",
+    "Price_Chg": "−0.45 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "261.867K"
   },
   {
     "Name": "SAUDI ADVANCED INDUSTRIES CO.",
     "Ticker": "2120",
-    "Price": "29.95 SAR",
-    "Percent": "1.53%",
-    "Price_Chg": "0.45 SAR",
-    "Rating": "Neutral",
-    "Volume": "538.969K"
+    "Price": "29.90 SAR",
+    "Percent": "−0.17%",
+    "Price_Chg": "−0.05 SAR",
+    "Rating": "Sell",
+    "Volume": "312.973K"
   },
   {
     "Name": "SAUDI INDUSTRIAL DEVELOPMENT CO.",
     "Ticker": "2130",
-    "Price": "12.24 SAR",
-    "Percent": "1.16%",
-    "Price_Chg": "0.14 SAR",
+    "Price": "12.26 SAR",
+    "Percent": "0.16%",
+    "Price_Chg": "0.02 SAR",
     "Rating": "Sell",
-    "Volume": "222.786K"
+    "Volume": "155.923K"
   },
   {
     "Name": "AYYAN INVESTMENT CO.",
     "Ticker": "2140",
-    "Price": "18.08 SAR",
-    "Percent": "0.11%",
-    "Price_Chg": "0.02 SAR",
-    "Rating": "Sell",
-    "Volume": "242.795K"
+    "Price": "19.00 SAR",
+    "Percent": "5.09%",
+    "Price_Chg": "0.92 SAR",
+    "Rating": "Buy",
+    "Volume": "367.13K"
   },
   {
     "Name": "THE NATIONAL COMPANY FOR GLASS INDUSTRIES",
     "Ticker": "2150",
-    "Price": "37.10 SAR",
-    "Percent": "−0.27%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Sell",
-    "Volume": "103.453K"
+    "Price": "37.35 SAR",
+    "Percent": "0.67%",
+    "Price_Chg": "0.25 SAR",
+    "Rating": "Buy",
+    "Volume": "106.476K"
   },
   {
     "Name": "SAUDI ARABIAN AMIANTIT CO.",
     "Ticker": "2160",
-    "Price": "42.35 SAR",
-    "Percent": "2.05%",
-    "Price_Chg": "0.85 SAR",
-    "Rating": "Sell",
-    "Volume": "120.767K"
+    "Price": "43.65 SAR",
+    "Percent": "3.07%",
+    "Price_Chg": "1.30 SAR",
+    "Rating": "Neutral",
+    "Volume": "322.891K"
   },
   {
     "Name": "ALUJAIN CORP.",
     "Ticker": "2170",
-    "Price": "49.15 SAR",
-    "Percent": "1.55%",
-    "Price_Chg": "0.75 SAR",
+    "Price": "50.00 SAR",
+    "Percent": "1.73%",
+    "Price_Chg": "0.85 SAR",
     "Rating": "Strong Buy",
-    "Volume": "178.431K"
+    "Volume": "308.389K"
   },
   {
     "Name": "FILING AND PACKING MATERIALS MANUFACTURING CO.",
     "Ticker": "2180",
-    "Price": "41.55 SAR",
-    "Percent": "0.85%",
+    "Price": "41.90 SAR",
+    "Percent": "0.84%",
     "Price_Chg": "0.35 SAR",
-    "Rating": "Sell",
-    "Volume": "34.386K"
+    "Rating": "Neutral",
+    "Volume": "31.227K"
   },
   {
     "Name": "SAUDI INDUSTRIAL SERVICES CO.",
     "Ticker": "2190",
-    "Price": "29.05 SAR",
-    "Percent": "0.69%",
-    "Price_Chg": "0.20 SAR",
-    "Rating": "Buy",
-    "Volume": "1.414M"
+    "Price": "28.70 SAR",
+    "Percent": "−1.20%",
+    "Price_Chg": "−0.35 SAR",
+    "Rating": "Sell",
+    "Volume": "587.07K"
   },
   {
     "Name": "ARABIAN PIPES CO.",
     "Ticker": "2200",
-    "Price": "68.00 SAR",
-    "Percent": "3.19%",
-    "Price_Chg": "2.10 SAR",
+    "Price": "70.00 SAR",
+    "Percent": "2.94%",
+    "Price_Chg": "2.00 SAR",
     "Rating": "Strong Buy",
-    "Volume": "871.781K"
+    "Volume": "906.667K"
   },
   {
     "Name": "NAMA CHEMICALS CO.",
     "Ticker": "2210",
-    "Price": "32.05 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "32.10 SAR",
+    "Percent": "0.16%",
+    "Price_Chg": "0.05 SAR",
     "Rating": "Sell",
-    "Volume": "150.783K"
+    "Volume": "234.591K"
   },
   {
     "Name": "NATIONAL METAL MANUFACTURING AND CASTING CO.",
     "Ticker": "2220",
-    "Price": "19.42 SAR",
-    "Percent": "−0.21%",
-    "Price_Chg": "−0.04 SAR",
+    "Price": "19.66 SAR",
+    "Percent": "1.24%",
+    "Price_Chg": "0.24 SAR",
     "Rating": "Sell",
-    "Volume": "140.678K"
+    "Volume": "126.248K"
   },
   {
     "Name": "SAUDI ARABIAN OIL CO.",
     "Ticker": "2222",
-    "Price": "34.00 SAR",
-    "Percent": "2.56%",
-    "Price_Chg": "0.85 SAR",
+    "Price": "34.55 SAR",
+    "Percent": "1.62%",
+    "Price_Chg": "0.55 SAR",
     "Rating": "Strong Buy",
-    "Volume": "29.09M"
+    "Volume": "15.764M"
   },
   {
     "Name": "SAUDI ARAMCO BASE OIL CO.",
     "Ticker": "2223",
-    "Price": "142.80 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "880.455K"
+    "Price": "144.00 SAR",
+    "Percent": "0.84%",
+    "Price_Chg": "1.20 SAR",
+    "Rating": "Neutral",
+    "Volume": "401.309K"
   },
   {
     "Name": "SAUDI CHEMICAL CO.",
     "Ticker": "2230",
-    "Price": "4.52 SAR",
-    "Percent": "0.22%",
-    "Price_Chg": "0.01 SAR",
-    "Rating": "Buy",
-    "Volume": "3.47M"
+    "Price": "4.50 SAR",
+    "Percent": "−0.44%",
+    "Price_Chg": "−0.02 SAR",
+    "Rating": "Neutral",
+    "Volume": "4.107M"
   },
   {
     "Name": "ZAMIL INDUSTRIAL INVESTMENT CO.",
     "Ticker": "2240",
-    "Price": "24.78 SAR",
-    "Percent": "0.32%",
-    "Price_Chg": "0.08 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "1.502M"
+    "Price": "25.45 SAR",
+    "Percent": "2.70%",
+    "Price_Chg": "0.67 SAR",
+    "Rating": "Buy",
+    "Volume": "809.095K"
   },
   {
     "Name": "SAUDI INDUSTRIAL INVESTMENT GROUP",
     "Ticker": "2250",
-    "Price": "25.15 SAR",
-    "Percent": "1.66%",
-    "Price_Chg": "0.41 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "662.104K"
+    "Price": "25.05 SAR",
+    "Percent": "−0.40%",
+    "Price_Chg": "−0.10 SAR",
+    "Rating": "Buy",
+    "Volume": "472.275K"
   },
   {
     "Name": "SAUDIA DAIRY AND FOODSTUFF CO.",
     "Ticker": "2270",
-    "Price": "340.00 SAR",
-    "Percent": "0.29%",
-    "Price_Chg": "1.00 SAR",
-    "Rating": "Sell",
-    "Volume": "25.263K"
+    "Price": "339.00 SAR",
+    "Percent": "−0.29%",
+    "Price_Chg": "−1.00 SAR",
+    "Rating": "Neutral",
+    "Volume": "4.399K"
   },
   {
     "Name": "ALMARAI CO.",
     "Ticker": "2280",
-    "Price": "65.00 SAR",
-    "Percent": "6.21%",
-    "Price_Chg": "3.80 SAR",
+    "Price": "66.00 SAR",
+    "Percent": "1.54%",
+    "Price_Chg": "1.00 SAR",
     "Rating": "Buy",
-    "Volume": "926.446K"
+    "Volume": "646.29K"
   },
   {
     "Name": "TANMIAH FOOD CO",
     "Ticker": "2281",
-    "Price": "115.80 SAR",
-    "Percent": "2.12%",
-    "Price_Chg": "2.40 SAR",
-    "Rating": "Sell",
-    "Volume": "143.762K"
+    "Price": "119.00 SAR",
+    "Percent": "2.76%",
+    "Price_Chg": "3.20 SAR",
+    "Rating": "Buy",
+    "Volume": "134.904K"
   },
   {
     "Name": "NAQI WATER CO.",
     "Ticker": "2282",
-    "Price": "74.70 SAR",
-    "Percent": "1.08%",
-    "Price_Chg": "0.80 SAR",
-    "Rating": "Sell",
-    "Volume": "80.043K"
+    "Price": "74.80 SAR",
+    "Percent": "0.13%",
+    "Price_Chg": "0.10 SAR",
+    "Rating": "Neutral",
+    "Volume": "145.9K"
   },
   {
     "Name": "FIRST MILLING CO.",
     "Ticker": "2283",
-    "Price": "90.00 SAR",
-    "Percent": "3.93%",
-    "Price_Chg": "3.40 SAR",
+    "Price": "91.80 SAR",
+    "Percent": "2.00%",
+    "Price_Chg": "1.80 SAR",
     "Rating": "Buy",
-    "Volume": "679.37K"
+    "Volume": "1.103M"
   },
   {
     "Name": "YANBU NATIONAL PETROCHEMICAL CO.",
     "Ticker": "2290",
-    "Price": "44.10 SAR",
-    "Percent": "0.68%",
-    "Price_Chg": "0.30 SAR",
+    "Price": "44.45 SAR",
+    "Percent": "0.79%",
+    "Price_Chg": "0.35 SAR",
     "Rating": "Sell",
-    "Volume": "501.64K"
+    "Volume": "499.602K"
   },
   {
     "Name": "SAUDI PAPER MANUFACTURING CO.",
     "Ticker": "2300",
-    "Price": "31.25 SAR",
-    "Percent": "0.81%",
-    "Price_Chg": "0.25 SAR",
+    "Price": "31.30 SAR",
+    "Percent": "0.16%",
+    "Price_Chg": "0.05 SAR",
     "Rating": "Sell",
-    "Volume": "189.455K"
+    "Volume": "87.072K"
   },
   {
     "Name": "SAHARA INTERNATIONAL PETROCHEMICAL CO.",
     "Ticker": "2310",
-    "Price": "37.10 SAR",
-    "Percent": "−0.13%",
-    "Price_Chg": "−0.05 SAR",
+    "Price": "37.25 SAR",
+    "Percent": "0.40%",
+    "Price_Chg": "0.15 SAR",
     "Rating": "Sell",
-    "Volume": "1.794M"
+    "Volume": "797.076K"
   },
   {
     "Name": "AL-BABTAIN POWER AND TELECOMMUNICATION CO.",
     "Ticker": "2320",
-    "Price": "30.70 SAR",
-    "Percent": "1.82%",
-    "Price_Chg": "0.55 SAR",
+    "Price": "30.80 SAR",
+    "Percent": "0.33%",
+    "Price_Chg": "0.10 SAR",
     "Rating": "Buy",
-    "Volume": "260.948K"
+    "Volume": "273.501K"
   },
   {
     "Name": "ADVANCED PETROCHEMICAL CO.",
     "Ticker": "2330",
-    "Price": "43.70 SAR",
-    "Percent": "−0.23%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Sell",
-    "Volume": "791.536K"
+    "Price": "43.65 SAR",
+    "Percent": "−0.11%",
+    "Price_Chg": "−0.05 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "921.135K"
   },
   {
     "Name": "AL ABDULLATIF INDUSTRIAL INVESTMENT CO.",
     "Ticker": "2340",
-    "Price": "16.98 SAR",
-    "Percent": "−1.39%",
-    "Price_Chg": "−0.24 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "601.579K"
+    "Price": "17.14 SAR",
+    "Percent": "0.94%",
+    "Price_Chg": "0.16 SAR",
+    "Rating": "Sell",
+    "Volume": "218.183K"
   },
   {
     "Name": "SAUDI KAYAN PETROCHEMICAL CO.",
     "Ticker": "2350",
-    "Price": "12.10 SAR",
-    "Percent": "3.07%",
-    "Price_Chg": "0.36 SAR",
-    "Rating": "Sell",
-    "Volume": "5.712M"
+    "Price": "12.38 SAR",
+    "Percent": "2.31%",
+    "Price_Chg": "0.28 SAR",
+    "Rating": "Buy",
+    "Volume": "3.848M"
   },
   {
     "Name": "SAUDI VITRIFIED CLAY PIPES CO.",
     "Ticker": "2360",
-    "Price": "45.70 SAR",
-    "Percent": "2.47%",
-    "Price_Chg": "1.10 SAR",
+    "Price": "45.20 SAR",
+    "Percent": "−1.09%",
+    "Price_Chg": "−0.50 SAR",
     "Rating": "Sell",
-    "Volume": "125.792K"
+    "Volume": "102.59K"
   },
   {
     "Name": "MIDDLE EAST SPECIALIZED CABLES CO.",
     "Ticker": "2370",
-    "Price": "16.60 SAR",
-    "Percent": "2.72%",
-    "Price_Chg": "0.44 SAR",
+    "Price": "16.96 SAR",
+    "Percent": "2.17%",
+    "Price_Chg": "0.36 SAR",
     "Rating": "Strong Buy",
-    "Volume": "607.554K"
+    "Volume": "738.839K"
   },
   {
     "Name": "RABIGH REFINING AND PETROCHEMICAL CO.",
     "Ticker": "2380",
-    "Price": "10.38 SAR",
-    "Percent": "1.17%",
-    "Price_Chg": "0.12 SAR",
-    "Rating": "Sell",
-    "Volume": "2.124M"
+    "Price": "10.42 SAR",
+    "Percent": "0.39%",
+    "Price_Chg": "0.04 SAR",
+    "Rating": "Neutral",
+    "Volume": "1.107M"
   },
   {
     "Name": "ARABIAN DRILLING CO.",
     "Ticker": "2381",
-    "Price": "177.00 SAR",
-    "Percent": "0.11%",
-    "Price_Chg": "0.20 SAR",
-    "Rating": "Buy",
-    "Volume": "157.301K"
+    "Price": "183.20 SAR",
+    "Percent": "3.50%",
+    "Price_Chg": "6.20 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "322.08K"
   },
   {
     "Name": "HAIL CEMENT CO.",
     "Ticker": "3001",
     "Price": "12.24 SAR",
-    "Percent": "0.16%",
-    "Price_Chg": "0.02 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "103.178K"
+    "Volume": "141.206K"
   },
   {
     "Name": "NAJRAN CEMENT CO.",
     "Ticker": "3002",
-    "Price": "13.16 SAR",
-    "Percent": "1.70%",
-    "Price_Chg": "0.22 SAR",
+    "Price": "13.22 SAR",
+    "Percent": "0.46%",
+    "Price_Chg": "0.06 SAR",
     "Rating": "Neutral",
-    "Volume": "803.985K"
+    "Volume": "337.938K"
   },
   {
     "Name": "CITY CEMENT CO.",
     "Ticker": "3003",
-    "Price": "21.72 SAR",
-    "Percent": "−1.18%",
-    "Price_Chg": "−0.26 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "386.592K"
+    "Price": "21.76 SAR",
+    "Percent": "0.18%",
+    "Price_Chg": "0.04 SAR",
+    "Rating": "Sell",
+    "Volume": "188.884K"
   },
   {
     "Name": "NORTHERN REGION CEMENT CO.",
     "Ticker": "3004",
-    "Price": "11.48 SAR",
-    "Percent": "0.70%",
-    "Price_Chg": "0.08 SAR",
-    "Rating": "Sell",
-    "Volume": "364.179K"
+    "Price": "11.50 SAR",
+    "Percent": "0.17%",
+    "Price_Chg": "0.02 SAR",
+    "Rating": "Neutral",
+    "Volume": "247.091K"
   },
   {
     "Name": "UMM AL-QURA CEMENT CO.",
     "Ticker": "3005",
-    "Price": "17.80 SAR",
-    "Percent": "−0.56%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Sell",
-    "Volume": "61.813K"
+    "Price": "18.30 SAR",
+    "Percent": "2.81%",
+    "Price_Chg": "0.50 SAR",
+    "Rating": "Buy",
+    "Volume": "157.907K"
   },
   {
     "Name": "ZAHRAT AL WAHA FOR TRADING CO.",
     "Ticker": "3007",
-    "Price": "36.60 SAR",
+    "Price": "36.70 SAR",
     "Percent": "0.27%",
     "Price_Chg": "0.10 SAR",
     "Rating": "Sell",
-    "Volume": "31.569K"
+    "Volume": "35.849K"
   },
   {
     "Name": "AL KATHIRI HOLDING CO.",
     "Ticker": "3008",
-    "Price": "2.99 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "1.139M"
+    "Price": "3.06 SAR",
+    "Percent": "2.34%",
+    "Price_Chg": "0.07 SAR",
+    "Rating": "Buy",
+    "Volume": "2.319M"
   },
   {
     "Name": "ARABIAN CEMENT CO.",
     "Ticker": "3010",
-    "Price": "37.20 SAR",
-    "Percent": "0.54%",
-    "Price_Chg": "0.20 SAR",
-    "Rating": "Sell",
-    "Volume": "355.037K"
+    "Price": "36.45 SAR",
+    "Percent": "−2.02%",
+    "Price_Chg": "−0.75 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "169.79K"
   },
   {
     "Name": "YAMAMA CEMENT CO.",
     "Ticker": "3020",
-    "Price": "34.60 SAR",
-    "Percent": "0.87%",
-    "Price_Chg": "0.30 SAR",
-    "Rating": "Neutral",
-    "Volume": "128.128K"
+    "Price": "35.25 SAR",
+    "Percent": "1.88%",
+    "Price_Chg": "0.65 SAR",
+    "Rating": "Buy",
+    "Volume": "53.259K"
   },
   {
     "Name": "SAUDI CEMENT CO.",
     "Ticker": "3030",
-    "Price": "55.70 SAR",
-    "Percent": "−1.24%",
-    "Price_Chg": "−0.70 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "197.001K"
+    "Price": "55.90 SAR",
+    "Percent": "0.36%",
+    "Price_Chg": "0.20 SAR",
+    "Rating": "Sell",
+    "Volume": "82.79K"
   },
   {
     "Name": "QASSIM CEMENT CO.",
     "Ticker": "3040",
-    "Price": "69.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "14.049K"
+    "Price": "69.40 SAR",
+    "Percent": "0.58%",
+    "Price_Chg": "0.40 SAR",
+    "Rating": "Neutral",
+    "Volume": "13.137K"
   },
   {
     "Name": "SOUTHERN PROVINCE CEMENT CO.",
     "Ticker": "3050",
-    "Price": "48.25 SAR",
-    "Percent": "−1.83%",
-    "Price_Chg": "−0.90 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "110.095K"
+    "Price": "48.70 SAR",
+    "Percent": "0.93%",
+    "Price_Chg": "0.45 SAR",
+    "Rating": "Sell",
+    "Volume": "30.411K"
   },
   {
     "Name": "YANBU CEMENT CO.",
     "Ticker": "3060",
-    "Price": "37.40 SAR",
-    "Percent": "0.40%",
-    "Price_Chg": "0.15 SAR",
+    "Price": "37.30 SAR",
+    "Percent": "−0.27%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Sell",
-    "Volume": "66.717K"
+    "Volume": "23.376K"
   },
   {
     "Name": "EASTERN PROVINCE CEMENT CO.",
     "Ticker": "3080",
-    "Price": "44.10 SAR",
-    "Percent": "−0.90%",
-    "Price_Chg": "−0.40 SAR",
+    "Price": "44.15 SAR",
+    "Percent": "0.11%",
+    "Price_Chg": "0.05 SAR",
     "Rating": "Sell",
-    "Volume": "45.344K"
+    "Volume": "17.983K"
   },
   {
     "Name": "TABUK CEMENT CO.",
     "Ticker": "3090",
-    "Price": "15.54 SAR",
-    "Percent": "1.57%",
-    "Price_Chg": "0.24 SAR",
+    "Price": "15.40 SAR",
+    "Percent": "−0.90%",
+    "Price_Chg": "−0.14 SAR",
     "Rating": "Sell",
-    "Volume": "103.898K"
+    "Volume": "65.182K"
   },
   {
     "Name": "AL JOUF CEMENT CO.",
     "Ticker": "3091",
-    "Price": "12.12 SAR",
-    "Percent": "1.00%",
-    "Price_Chg": "0.12 SAR",
-    "Rating": "Sell",
-    "Volume": "118.407K"
+    "Price": "12.40 SAR",
+    "Percent": "2.31%",
+    "Price_Chg": "0.28 SAR",
+    "Rating": "Buy",
+    "Volume": "337.11K"
   },
   {
     "Name": "ABDULLAH AL OTHAIM MARKETS CO.",
     "Ticker": "4001",
-    "Price": "14.48 SAR",
-    "Percent": "0.28%",
-    "Price_Chg": "0.04 SAR",
-    "Rating": "Neutral",
-    "Volume": "2.796M"
+    "Price": "14.64 SAR",
+    "Percent": "1.10%",
+    "Price_Chg": "0.16 SAR",
+    "Rating": "Buy",
+    "Volume": "1.52M"
   },
   {
     "Name": "MOUWASAT MEDICAL SERVICES CO.",
     "Ticker": "4002",
-    "Price": "105.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "110.20 SAR",
+    "Percent": "4.95%",
+    "Price_Chg": "5.20 SAR",
     "Rating": "Sell",
-    "Volume": "681.332K"
+    "Volume": "488.543K"
   },
   {
     "Name": "UNITED ELECTRONICS CO.",
     "Ticker": "4003",
-    "Price": "77.10 SAR",
-    "Percent": "1.31%",
-    "Price_Chg": "1.00 SAR",
+    "Price": "77.60 SAR",
+    "Percent": "0.65%",
+    "Price_Chg": "0.50 SAR",
     "Rating": "Sell",
-    "Volume": "422.531K"
+    "Volume": "319.623K"
   },
   {
     "Name": "DALLAH HEALTHCARE CO.",
     "Ticker": "4004",
-    "Price": "149.00 SAR",
-    "Percent": "−2.49%",
-    "Price_Chg": "−3.80 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "158.135K"
+    "Price": "154.80 SAR",
+    "Percent": "3.89%",
+    "Price_Chg": "5.80 SAR",
+    "Rating": "Sell",
+    "Volume": "79.765K"
   },
   {
     "Name": "NATIONAL MEDICAL CARE CO.",
     "Ticker": "4005",
-    "Price": "115.80 SAR",
-    "Percent": "−2.69%",
-    "Price_Chg": "−3.20 SAR",
+    "Price": "116.00 SAR",
+    "Percent": "0.17%",
+    "Price_Chg": "0.20 SAR",
     "Rating": "Sell",
-    "Volume": "133.304K"
+    "Volume": "98.371K"
   },
   {
     "Name": "SAUDI MARKETING CO.",
     "Ticker": "4006",
     "Price": "25.60 SAR",
-    "Percent": "2.56%",
-    "Price_Chg": "0.64 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "122.7K"
+    "Volume": "71.639K"
   },
   {
     "Name": "AL HAMMADI HOLDING",
     "Ticker": "4007",
-    "Price": "55.10 SAR",
-    "Percent": "0.55%",
-    "Price_Chg": "0.30 SAR",
+    "Price": "55.00 SAR",
+    "Percent": "−0.18%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Sell",
-    "Volume": "608.727K"
+    "Volume": "755.489K"
   },
   {
     "Name": "SAUDI COMPANY FOR HARDWARE",
     "Ticker": "4008",
-    "Price": "31.65 SAR",
-    "Percent": "0.32%",
-    "Price_Chg": "0.10 SAR",
+    "Price": "32.75 SAR",
+    "Percent": "3.48%",
+    "Price_Chg": "1.10 SAR",
     "Rating": "Sell",
-    "Volume": "131.206K"
+    "Volume": "179.878K"
   },
   {
     "Name": "MIDDLE EAST HEALTHCARE CO.",
     "Ticker": "4009",
-    "Price": "60.30 SAR",
-    "Percent": "3.97%",
-    "Price_Chg": "2.30 SAR",
+    "Price": "61.10 SAR",
+    "Percent": "1.33%",
+    "Price_Chg": "0.80 SAR",
     "Rating": "Neutral",
-    "Volume": "780.233K"
+    "Volume": "363.351K"
   },
   {
     "Name": "DUR HOSPITALITY CO.",
     "Ticker": "4010",
-    "Price": "28.05 SAR",
-    "Percent": "0.18%",
-    "Price_Chg": "0.05 SAR",
-    "Rating": "Neutral",
-    "Volume": "49.086K"
+    "Price": "28.00 SAR",
+    "Percent": "−0.18%",
+    "Price_Chg": "−0.05 SAR",
+    "Rating": "Sell",
+    "Volume": "90.874K"
   },
   {
     "Name": "LAZURDE COMPANY FOR JEWELRY",
     "Ticker": "4011",
-    "Price": "14.26 SAR",
-    "Percent": "−0.28%",
-    "Price_Chg": "−0.04 SAR",
+    "Price": "14.18 SAR",
+    "Percent": "−0.56%",
+    "Price_Chg": "−0.08 SAR",
     "Rating": "Sell",
-    "Volume": "241.295K"
+    "Volume": "289.202K"
   },
   {
     "Name": "THOB AL ASEEL CO.",
     "Ticker": "4012",
-    "Price": "5.40 SAR",
-    "Percent": "1.50%",
+    "Price": "5.48 SAR",
+    "Percent": "1.48%",
     "Price_Chg": "0.08 SAR",
     "Rating": "Buy",
-    "Volume": "654.321K"
+    "Volume": "2.613M"
   },
   {
     "Name": "DR. SULAIMAN AL HABIB MEDICAL SERVICES GROUP",
     "Ticker": "4013",
-    "Price": "266.60 SAR",
-    "Percent": "−1.41%",
-    "Price_Chg": "−3.80 SAR",
-    "Rating": "Sell",
-    "Volume": "262.38K"
+    "Price": "271.00 SAR",
+    "Percent": "1.65%",
+    "Price_Chg": "4.40 SAR",
+    "Rating": "Neutral",
+    "Volume": "164.533K"
   },
   {
     "Name": "SCIENTIFIC AND MEDICAL EQUIPMENT HOUSE CO.",
     "Ticker": "4014",
-    "Price": "78.80 SAR",
-    "Percent": "1.42%",
-    "Price_Chg": "1.10 SAR",
-    "Rating": "Neutral",
-    "Volume": "111.627K"
+    "Price": "83.70 SAR",
+    "Percent": "6.22%",
+    "Price_Chg": "4.90 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "219.076K"
   },
   {
     "Name": "JAMJOOM PHARMACEUTICALS FACTORY CO.",
     "Ticker": "4015",
-    "Price": "116.80 SAR",
-    "Percent": "0.86%",
-    "Price_Chg": "1.00 SAR",
+    "Price": "116.40 SAR",
+    "Percent": "−0.34%",
+    "Price_Chg": "−0.40 SAR",
     "Rating": "Sell",
-    "Volume": "921.471K"
+    "Volume": "482.733K"
   },
   {
     "Name": "SAUDI REAL ESTATE CO.",
     "Ticker": "4020",
     "Price": "12.96 SAR",
-    "Percent": "−0.31%",
-    "Price_Chg": "−0.04 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "298.716K"
+    "Volume": "279.965K"
   },
   {
     "Name": "NATIONAL SHIPPING COMPANY OF SAUDI ARABIA",
     "Ticker": "4030",
-    "Price": "21.78 SAR",
-    "Percent": "0.09%",
-    "Price_Chg": "0.02 SAR",
-    "Rating": "Neutral",
-    "Volume": "760.552K"
+    "Price": "21.84 SAR",
+    "Percent": "0.28%",
+    "Price_Chg": "0.06 SAR",
+    "Rating": "Sell",
+    "Volume": "550.788K"
   },
   {
     "Name": "SAUDI GROUND SERVICES CO.",
     "Ticker": "4031",
-    "Price": "33.50 SAR",
-    "Percent": "3.55%",
-    "Price_Chg": "1.15 SAR",
+    "Price": "33.20 SAR",
+    "Percent": "−0.90%",
+    "Price_Chg": "−0.30 SAR",
     "Rating": "Buy",
-    "Volume": "1.209M"
+    "Volume": "1.548M"
   },
   {
     "Name": "SAUDI PUBLIC TRANSPORT CO.",
     "Ticker": "4040",
-    "Price": "17.84 SAR",
-    "Percent": "1.83%",
-    "Price_Chg": "0.32 SAR",
-    "Rating": "Neutral",
-    "Volume": "1.664M"
+    "Price": "17.92 SAR",
+    "Percent": "0.45%",
+    "Price_Chg": "0.08 SAR",
+    "Rating": "Sell",
+    "Volume": "360.159K"
   },
   {
     "Name": "SAUDI AUTOMOTIVE SERVICES CO.",
     "Ticker": "4050",
-    "Price": "62.60 SAR",
-    "Percent": "3.64%",
-    "Price_Chg": "2.20 SAR",
-    "Rating": "Buy",
-    "Volume": "418.518K"
+    "Price": "65.10 SAR",
+    "Percent": "3.99%",
+    "Price_Chg": "2.50 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "363.781K"
   },
   {
     "Name": "BAAZEEM TRADING CO.",
     "Ticker": "4051",
-    "Price": "66.30 SAR",
-    "Percent": "0.30%",
-    "Price_Chg": "0.20 SAR",
-    "Rating": "Sell",
-    "Volume": "78.074K"
+    "Price": "67.80 SAR",
+    "Percent": "2.26%",
+    "Price_Chg": "1.50 SAR",
+    "Rating": "Neutral",
+    "Volume": "114.427K"
   },
   {
     "Name": "ANAAM INTERNATIONAL HOLDING GROUP",
     "Ticker": "4061",
-    "Price": "1.11 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "1.12 SAR",
+    "Percent": "0.90%",
+    "Price_Chg": "0.01 SAR",
     "Rating": "Sell",
-    "Volume": "3.586M"
+    "Volume": "5.358M"
   },
   {
     "Name": "TIHAMA ADVERTISING AND PUBLIC RELATIONS CO.",
     "Ticker": "4070",
-    "Price": "17.94 SAR",
-    "Percent": "1.82%",
-    "Price_Chg": "0.32 SAR",
+    "Price": "18.12 SAR",
+    "Percent": "1.00%",
+    "Price_Chg": "0.18 SAR",
     "Rating": "Buy",
-    "Volume": "571.94K"
+    "Volume": "525.263K"
   },
   {
     "Name": "ARABIAN CONTRACTING SERVICES CO.",
     "Ticker": "4071",
-    "Price": "192.00 SAR",
-    "Percent": "5.49%",
+    "Price": "202.00 SAR",
+    "Percent": "5.21%",
     "Price_Chg": "10.00 SAR",
-    "Rating": "Buy",
-    "Volume": "139.781K"
+    "Rating": "Strong Buy",
+    "Volume": "88.352K"
   },
   {
     "Name": "ASEER TRADING, TOURISM AND MANUFACTURING CO.",
     "Ticker": "4080",
-    "Price": "12.04 SAR",
-    "Percent": "0.84%",
-    "Price_Chg": "0.10 SAR",
+    "Price": "12.12 SAR",
+    "Percent": "0.66%",
+    "Price_Chg": "0.08 SAR",
     "Rating": "Sell",
-    "Volume": "647.385K"
+    "Volume": "199.445K"
   },
   {
     "Name": "NAYIFAT FINANCE CO.",
     "Ticker": "4081",
     "Price": "15.70 SAR",
-    "Percent": "1.16%",
-    "Price_Chg": "0.18 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "193.411K"
+    "Volume": "132.212K"
   },
   {
     "Name": "MORABAHA MARINA FINANCING CO.",
     "Ticker": "4082",
     "Price": "14.16 SAR",
-    "Percent": "−0.28%",
-    "Price_Chg": "−0.04 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "485.845K"
+    "Volume": "360.063K"
   },
   {
     "Name": "TAIBA INVESTMENTS CO.",
     "Ticker": "4090",
-    "Price": "30.60 SAR",
-    "Percent": "1.32%",
-    "Price_Chg": "0.40 SAR",
-    "Rating": "Buy",
-    "Volume": "92.605K"
+    "Price": "29.80 SAR",
+    "Percent": "−2.61%",
+    "Price_Chg": "−0.80 SAR",
+    "Rating": "Sell",
+    "Volume": "409.896K"
   },
   {
     "Name": "MAKKAH CONSTRUCTION AND DEVELOPMENT CO.",
     "Ticker": "4100",
-    "Price": "73.80 SAR",
-    "Percent": "2.50%",
-    "Price_Chg": "1.80 SAR",
+    "Price": "74.40 SAR",
+    "Percent": "0.81%",
+    "Price_Chg": "0.60 SAR",
     "Rating": "Buy",
-    "Volume": "207.452K"
+    "Volume": "120.135K"
   },
   {
     "Name": "BATIC INVESTMENTS AND LOGISTICS CO.",
     "Ticker": "4110",
     "Price": "2.28 SAR",
-    "Percent": "0.44%",
-    "Price_Chg": "0.01 SAR",
-    "Rating": "Neutral",
-    "Volume": "2.019M"
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
+    "Rating": "Sell",
+    "Volume": "3.661M"
   },
   {
     "Name": "AL-BAHA INVESTMENT AND DEVELOPMENT CO.",
     "Ticker": "4130",
     "Price": "0.16 SAR",
-    "Percent": "−5.88%",
-    "Price_Chg": "−0.01 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "13.384M"
+    "Volume": "58.007M"
   },
   {
     "Name": "SAUDI INDUSTRIAL EXPORT CO.",
     "Ticker": "4140",
-    "Price": "30.90 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "30.80 SAR",
+    "Percent": "−0.32%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Sell",
-    "Volume": "152.301K"
+    "Volume": "145.93K"
   },
   {
     "Name": "AL-OMRAN INDUSTRIAL TRADING CO.",
     "Ticker": "4141",
     "Price": "74.50 SAR",
-    "Percent": "0.54%",
-    "Price_Chg": "0.40 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "15.803K"
+    "Volume": "26.449K"
   },
   {
     "Name": "RIYADH CABLES GROUP CO.",
     "Ticker": "4142",
-    "Price": "63.70 SAR",
-    "Percent": "1.27%",
-    "Price_Chg": "0.80 SAR",
-    "Rating": "Buy",
-    "Volume": "308.379K"
+    "Price": "63.00 SAR",
+    "Percent": "−1.10%",
+    "Price_Chg": "−0.70 SAR",
+    "Rating": "Neutral",
+    "Volume": "108.259K"
   },
   {
     "Name": "ARRIYADH DEVELOPMENT CO.",
     "Ticker": "4150",
-    "Price": "19.70 SAR",
-    "Percent": "0.10%",
-    "Price_Chg": "0.02 SAR",
+    "Price": "19.58 SAR",
+    "Percent": "−0.61%",
+    "Price_Chg": "−0.12 SAR",
     "Rating": "Sell",
-    "Volume": "155.201K"
+    "Volume": "95.938K"
   },
   {
     "Name": "NATIONAL AGRICULTURAL MARKETING CO.",
     "Ticker": "4160",
-    "Price": "28.75 SAR",
-    "Percent": "0.88%",
-    "Price_Chg": "0.25 SAR",
+    "Price": "28.80 SAR",
+    "Percent": "0.17%",
+    "Price_Chg": "0.05 SAR",
     "Rating": "Sell",
-    "Volume": "187.946K"
+    "Volume": "120.429K"
   },
   {
     "Name": "BINDAWOOD HOLDING CO.",
     "Ticker": "4161",
-    "Price": "6.51 SAR",
-    "Percent": "1.88%",
-    "Price_Chg": "0.12 SAR",
-    "Rating": "Sell",
-    "Volume": "689.573K"
+    "Price": "6.81 SAR",
+    "Percent": "4.61%",
+    "Price_Chg": "0.30 SAR",
+    "Rating": "Buy",
+    "Volume": "1.317M"
   },
   {
     "Name": "ALMUNAJEM FOODS CO.",
     "Ticker": "4162",
-    "Price": "69.00 SAR",
-    "Percent": "−1.29%",
-    "Price_Chg": "−0.90 SAR",
-    "Rating": "Neutral",
-    "Volume": "355.493K"
+    "Price": "71.30 SAR",
+    "Percent": "3.33%",
+    "Price_Chg": "2.30 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "586.421K"
   },
   {
     "Name": "ALDAWAA MEDICAL SERVICES CO.",
     "Ticker": "4163",
-    "Price": "98.30 SAR",
-    "Percent": "0.10%",
-    "Price_Chg": "0.10 SAR",
-    "Rating": "Neutral",
-    "Volume": "219.981K"
+    "Price": "97.40 SAR",
+    "Percent": "−0.92%",
+    "Price_Chg": "−0.90 SAR",
+    "Rating": "Sell",
+    "Volume": "50.318K"
   },
   {
     "Name": "NAHDI MEDICAL CO.",
     "Ticker": "4164",
-    "Price": "154.00 SAR",
-    "Percent": "1.18%",
-    "Price_Chg": "1.80 SAR",
-    "Rating": "Sell",
-    "Volume": "627.857K"
+    "Price": "151.80 SAR",
+    "Percent": "−1.43%",
+    "Price_Chg": "−2.20 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "438.547K"
   },
   {
     "Name": "TOURISM ENTERPRISE CO.",
     "Ticker": "4170",
-    "Price": "0.78 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "4.86M"
+    "Price": "0.79 SAR",
+    "Percent": "1.28%",
+    "Price_Chg": "0.01 SAR",
+    "Rating": "Neutral",
+    "Volume": "16.401M"
   },
   {
     "Name": "FITAIHI HOLDING GROUP",
     "Ticker": "4180",
-    "Price": "3.48 SAR",
-    "Percent": "−1.42%",
-    "Price_Chg": "−0.05 SAR",
+    "Price": "3.47 SAR",
+    "Percent": "−0.29%",
+    "Price_Chg": "−0.01 SAR",
     "Rating": "Sell",
-    "Volume": "2.146M"
+    "Volume": "3.641M"
   },
   {
     "Name": "JARIR MARKETING CO.",
     "Ticker": "4190",
-    "Price": "15.48 SAR",
+    "Price": "15.50 SAR",
     "Percent": "0.13%",
     "Price_Chg": "0.02 SAR",
     "Rating": "Sell",
-    "Volume": "1.339M"
+    "Volume": "1.334M"
   },
   {
     "Name": "ABDULLAH SAAD MOHAMMED ABO MOATI FOR BOOKSTORES CO.",
     "Ticker": "4191",
-    "Price": "32.00 SAR",
-    "Percent": "−0.62%",
-    "Price_Chg": "−0.20 SAR",
+    "Price": "31.95 SAR",
+    "Percent": "−0.16%",
+    "Price_Chg": "−0.05 SAR",
     "Rating": "Sell",
-    "Volume": "143.596K"
+    "Volume": "49.165K"
   },
   {
     "Name": "ALSAIF STORES FOR DEVELOPMENT AND INVESTMENT CO.",
     "Ticker": "4192",
-    "Price": "8.36 SAR",
-    "Percent": "0.72%",
-    "Price_Chg": "0.06 SAR",
+    "Price": "8.31 SAR",
+    "Percent": "−0.60%",
+    "Price_Chg": "−0.05 SAR",
     "Rating": "Sell",
-    "Volume": "1.776M"
+    "Volume": "1.165M"
   },
   {
     "Name": "ALDREES PETROLEUM AND TRANSPORT SERVICES CO.",
     "Ticker": "4200",
-    "Price": "121.80 SAR",
-    "Percent": "1.16%",
-    "Price_Chg": "1.40 SAR",
+    "Price": "122.60 SAR",
+    "Percent": "0.66%",
+    "Price_Chg": "0.80 SAR",
     "Rating": "Buy",
-    "Volume": "309.346K"
+    "Volume": "187.138K"
   },
   {
     "Name": "SAUDI RESEARCH AND MEDIA GROUP",
     "Ticker": "4210",
-    "Price": "173.20 SAR",
-    "Percent": "−1.03%",
-    "Price_Chg": "−1.80 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "75.031K"
+    "Price": "183.00 SAR",
+    "Percent": "5.66%",
+    "Price_Chg": "9.80 SAR",
+    "Rating": "Buy",
+    "Volume": "89.814K"
   },
   {
     "Name": "EMAAR THE ECONOMIC CITY",
     "Ticker": "4220",
-    "Price": "8.94 SAR",
-    "Percent": "−0.67%",
-    "Price_Chg": "−0.06 SAR",
-    "Rating": "Sell",
-    "Volume": "1.365M"
+    "Price": "8.97 SAR",
+    "Percent": "0.34%",
+    "Price_Chg": "0.03 SAR",
+    "Rating": "Neutral",
+    "Volume": "1.292M"
   },
   {
     "Name": "RED SEA INTERNATIONAL CO.",
     "Ticker": "4230",
-    "Price": "23.52 SAR",
-    "Percent": "−1.59%",
-    "Price_Chg": "−0.38 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "59.16K"
+    "Price": "23.46 SAR",
+    "Percent": "−0.26%",
+    "Price_Chg": "−0.06 SAR",
+    "Rating": "Sell",
+    "Volume": "47.116K"
   },
   {
     "Name": "FAWAZ ABDULAZIZ ALHOKAIR CO.",
     "Ticker": "4240",
-    "Price": "17.00 SAR",
-    "Percent": "−0.82%",
-    "Price_Chg": "−0.14 SAR",
-    "Rating": "Buy",
-    "Volume": "967.195K"
+    "Price": "18.70 SAR",
+    "Percent": "10.00%",
+    "Price_Chg": "1.70 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "3.19M"
   },
   {
     "Name": "JABAL OMAR DEVELOPMENT CO.",
     "Ticker": "4250",
-    "Price": "25.45 SAR",
-    "Percent": "1.88%",
-    "Price_Chg": "0.47 SAR",
-    "Rating": "Neutral",
-    "Volume": "2.486M"
+    "Price": "25.65 SAR",
+    "Percent": "0.79%",
+    "Price_Chg": "0.20 SAR",
+    "Rating": "Sell",
+    "Volume": "3.348M"
   },
   {
     "Name": "UNITED INTERNATIONAL TRANSPORTATION CO.",
     "Ticker": "4260",
-    "Price": "68.50 SAR",
-    "Percent": "1.63%",
-    "Price_Chg": "1.10 SAR",
-    "Rating": "Buy",
-    "Volume": "195.218K"
+    "Price": "68.20 SAR",
+    "Percent": "−0.44%",
+    "Price_Chg": "−0.30 SAR",
+    "Rating": "Neutral",
+    "Volume": "55.198K"
   },
   {
     "Name": "THEEB RENT A CAR CO.",
     "Ticker": "4261",
-    "Price": "78.20 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "118.689K"
+    "Price": "74.50 SAR",
+    "Percent": "−4.73%",
+    "Price_Chg": "−3.70 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "400.09K"
   },
   {
     "Name": "SAUDI PRINTING AND PACKAGING CO.",
     "Ticker": "4270",
-    "Price": "17.52 SAR",
-    "Percent": "1.27%",
-    "Price_Chg": "0.22 SAR",
+    "Price": "17.42 SAR",
+    "Percent": "−0.57%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Sell",
-    "Volume": "163.913K"
+    "Volume": "226.969K"
   },
   {
     "Name": "KINGDOM HOLDING CO.",
     "Ticker": "4280",
-    "Price": "7.66 SAR",
-    "Percent": "−0.13%",
-    "Price_Chg": "−0.01 SAR",
-    "Rating": "Sell",
-    "Volume": "99.835K"
+    "Price": "7.69 SAR",
+    "Percent": "0.39%",
+    "Price_Chg": "0.03 SAR",
+    "Rating": "Neutral",
+    "Volume": "100.359K"
   },
   {
     "Name": "ALKHALEEJ TRAINING AND EDUCATION CO.",
     "Ticker": "4290",
-    "Price": "21.32 SAR",
-    "Percent": "3.60%",
-    "Price_Chg": "0.74 SAR",
+    "Price": "21.80 SAR",
+    "Percent": "2.25%",
+    "Price_Chg": "0.48 SAR",
     "Rating": "Strong Buy",
-    "Volume": "1.2M"
+    "Volume": "800.553K"
   },
   {
     "Name": "NATIONAL COMPANY FOR LEARNING AND EDUCATION",
     "Ticker": "4291",
-    "Price": "102.20 SAR",
-    "Percent": "−0.58%",
-    "Price_Chg": "−0.60 SAR",
+    "Price": "103.00 SAR",
+    "Percent": "0.78%",
+    "Price_Chg": "0.80 SAR",
     "Rating": "Sell",
-    "Volume": "91.144K"
+    "Volume": "11.746K"
   },
   {
     "Name": "ATAA EDUCATIONAL CO.",
     "Ticker": "4292",
-    "Price": "75.50 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "75.40 SAR",
+    "Percent": "−0.13%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Buy",
-    "Volume": "24.314K"
+    "Volume": "24.682K"
   },
   {
     "Name": "DAR ALARKAN REAL ESTATE DEVELOPMENT CO.",
     "Ticker": "4300",
-    "Price": "18.00 SAR",
-    "Percent": "1.47%",
-    "Price_Chg": "0.26 SAR",
+    "Price": "18.30 SAR",
+    "Percent": "1.67%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Strong Buy",
-    "Volume": "4.546M"
+    "Volume": "4.395M"
   },
   {
     "Name": "KNOWLEDGE ECONOMIC CITY",
     "Ticker": "4310",
-    "Price": "14.60 SAR",
-    "Percent": "1.53%",
-    "Price_Chg": "0.22 SAR",
-    "Rating": "Neutral",
-    "Volume": "108.901K"
+    "Price": "15.18 SAR",
+    "Percent": "3.97%",
+    "Price_Chg": "0.58 SAR",
+    "Rating": "Buy",
+    "Volume": "726.617K"
   },
   {
     "Name": "ALANDALUS PROPERTY CO.",
     "Ticker": "4320",
-    "Price": "24.38 SAR",
-    "Percent": "1.92%",
-    "Price_Chg": "0.46 SAR",
+    "Price": "24.20 SAR",
+    "Percent": "−0.74%",
+    "Price_Chg": "−0.18 SAR",
     "Rating": "Buy",
-    "Volume": "192.144K"
+    "Volume": "381.951K"
   },
   {
     "Name": "ARABIAN CENTRES CO.",
     "Ticker": "4321",
-    "Price": "22.88 SAR",
-    "Percent": "1.24%",
-    "Price_Chg": "0.28 SAR",
+    "Price": "22.72 SAR",
+    "Percent": "−0.70%",
+    "Price_Chg": "−0.16 SAR",
     "Rating": "Buy",
-    "Volume": "1.598M"
+    "Volume": "982.332K"
   },
   {
     "Name": "RETAL URBAN DEVELOPMENT CO.",
     "Ticker": "4322",
-    "Price": "8.97 SAR",
-    "Percent": "0.22%",
-    "Price_Chg": "0.02 SAR",
+    "Price": "9.03 SAR",
+    "Percent": "0.67%",
+    "Price_Chg": "0.06 SAR",
     "Rating": "Sell",
-    "Volume": "839.818K"
+    "Volume": "807.539K"
   },
   {
     "Name": "SAUDI ELECTRICITY CO.",
     "Ticker": "5110",
-    "Price": "21.14 SAR",
-    "Percent": "−0.09%",
-    "Price_Chg": "−0.02 SAR",
+    "Price": "21.40 SAR",
+    "Percent": "1.23%",
+    "Price_Chg": "0.26 SAR",
     "Rating": "Sell",
-    "Volume": "1.204M"
+    "Volume": "555.294K"
   },
   {
     "Name": "HALWANI BROS. CO.",
     "Ticker": "6001",
-    "Price": "58.00 SAR",
-    "Percent": "1.75%",
-    "Price_Chg": "1.00 SAR",
+    "Price": "59.20 SAR",
+    "Percent": "2.07%",
+    "Price_Chg": "1.20 SAR",
     "Rating": "Sell",
-    "Volume": "61.676K"
+    "Volume": "153.774K"
   },
   {
     "Name": "HERFY FOOD SERVICES CO.",
     "Ticker": "6002",
-    "Price": "34.90 SAR",
-    "Percent": "1.01%",
-    "Price_Chg": "0.35 SAR",
+    "Price": "34.70 SAR",
+    "Percent": "−0.57%",
+    "Price_Chg": "−0.20 SAR",
     "Rating": "Sell",
-    "Volume": "70.351K"
+    "Volume": "39.271K"
   },
   {
     "Name": "SAUDI AIRLINES CATERING CO.",
     "Ticker": "6004",
-    "Price": "105.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "285.169K"
+    "Price": "106.00 SAR",
+    "Percent": "0.95%",
+    "Price_Chg": "1.00 SAR",
+    "Rating": "Neutral",
+    "Volume": "438.608K"
   },
   {
     "Name": "NATIONAL AGRICULTURAL DEVELOPMENT CO.",
     "Ticker": "6010",
-    "Price": "49.90 SAR",
-    "Percent": "2.67%",
-    "Price_Chg": "1.30 SAR",
+    "Price": "49.25 SAR",
+    "Percent": "−1.30%",
+    "Price_Chg": "−0.65 SAR",
     "Rating": "Buy",
-    "Volume": "751.899K"
+    "Volume": "157.062K"
   },
   {
     "Name": "RAYDAN FOOD CO.",
     "Ticker": "6012",
-    "Price": "26.40 SAR",
-    "Percent": "2.92%",
-    "Price_Chg": "0.75 SAR",
-    "Rating": "Buy",
-    "Volume": "368.706K"
+    "Price": "26.20 SAR",
+    "Percent": "−0.76%",
+    "Price_Chg": "−0.20 SAR",
+    "Rating": "Neutral",
+    "Volume": "192.713K"
   },
   {
     "Name": "DEVELOPMENT WORKS FOOD CO.",
     "Ticker": "6013",
-    "Price": "124.40 SAR",
-    "Percent": "−0.48%",
-    "Price_Chg": "−0.60 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "162.444K"
+    "Price": "124.20 SAR",
+    "Percent": "−0.16%",
+    "Price_Chg": "−0.20 SAR",
+    "Rating": "Sell",
+    "Volume": "115.638K"
   },
   {
     "Name": "ALAMAR FOODS CO.",
     "Ticker": "6014",
-    "Price": "120.00 SAR",
+    "Price": "120.60 SAR",
     "Percent": "0.50%",
     "Price_Chg": "0.60 SAR",
     "Rating": "Sell",
-    "Volume": "140.877K"
+    "Volume": "391.468K"
   },
   {
     "Name": "AL GASSIM INVESTMENT HOLDING CO.",
     "Ticker": "6020",
-    "Price": "21.12 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "21.20 SAR",
+    "Percent": "0.38%",
+    "Price_Chg": "0.08 SAR",
     "Rating": "Sell",
-    "Volume": "175.622K"
+    "Volume": "135.699K"
   },
   {
     "Name": "TABUK AGRICULTURAL DEVELOPMENT CO.",
     "Ticker": "6040",
-    "Price": "17.04 SAR",
-    "Percent": "−0.23%",
-    "Price_Chg": "−0.04 SAR",
+    "Price": "17.18 SAR",
+    "Percent": "0.82%",
+    "Price_Chg": "0.14 SAR",
     "Rating": "Sell",
-    "Volume": "141.139K"
+    "Volume": "137.286K"
   },
   {
     "Name": "SAUDI FISHERIES CO.",
     "Ticker": "6050",
-    "Price": "29.20 SAR",
-    "Percent": "−0.51%",
-    "Price_Chg": "−0.15 SAR",
+    "Price": "29.15 SAR",
+    "Percent": "−0.17%",
+    "Price_Chg": "−0.05 SAR",
     "Rating": "Sell",
-    "Volume": "90.219K"
+    "Volume": "123.459K"
   },
   {
     "Name": "ASH-SHARQIYAH DEVELOPMENT CO.",
     "Ticker": "6060",
-    "Price": "19.68 SAR",
-    "Percent": "0.92%",
+    "Price": "19.86 SAR",
+    "Percent": "0.91%",
     "Price_Chg": "0.18 SAR",
     "Rating": "Sell",
-    "Volume": "163.172K"
+    "Volume": "333.343K"
   },
   {
     "Name": "AL-JOUF AGRICULTURAL DEVELOPMENT CO.",
     "Ticker": "6070",
-    "Price": "49.05 SAR",
-    "Percent": "1.66%",
-    "Price_Chg": "0.80 SAR",
+    "Price": "49.40 SAR",
+    "Percent": "0.71%",
+    "Price_Chg": "0.35 SAR",
     "Rating": "Sell",
-    "Volume": "120.492K"
+    "Volume": "87.968K"
   },
   {
     "Name": "JAZAN ENERGY AND DEVELOPMENT CO.",
     "Ticker": "6090",
-    "Price": "13.92 SAR",
-    "Percent": "−1.28%",
-    "Price_Chg": "−0.18 SAR",
+    "Price": "14.30 SAR",
+    "Percent": "2.73%",
+    "Price_Chg": "0.38 SAR",
     "Rating": "Sell",
-    "Volume": "623.954K"
+    "Volume": "471.653K"
   },
   {
     "Name": "SAUDI TELECOM CO.",
     "Ticker": "7010",
-    "Price": "41.40 SAR",
-    "Percent": "2.10%",
-    "Price_Chg": "0.85 SAR",
+    "Price": "41.55 SAR",
+    "Percent": "0.36%",
+    "Price_Chg": "0.15 SAR",
     "Rating": "Sell",
-    "Volume": "3.505M"
+    "Volume": "1.575M"
   },
   {
     "Name": "ETIHAD ETISALAT CO.",
     "Ticker": "7020",
-    "Price": "44.50 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "858.302K"
+    "Price": "45.35 SAR",
+    "Percent": "1.91%",
+    "Price_Chg": "0.85 SAR",
+    "Rating": "Neutral",
+    "Volume": "1.144M"
   },
   {
     "Name": "MOBILE TELECOMMUNICATION COMPANY SAUDI ARABIA",
     "Ticker": "7030",
-    "Price": "12.96 SAR",
-    "Percent": "0.47%",
-    "Price_Chg": "0.06 SAR",
+    "Price": "12.98 SAR",
+    "Percent": "0.15%",
+    "Price_Chg": "0.02 SAR",
     "Rating": "Sell",
-    "Volume": "2.045M"
+    "Volume": "1.188M"
   },
   {
     "Name": "ETIHAD ATHEEB TELECOMMUNICATION CO.",
     "Ticker": "7040",
-    "Price": "76.70 SAR",
-    "Percent": "4.35%",
-    "Price_Chg": "3.20 SAR",
-    "Rating": "Neutral",
-    "Volume": "474.676K"
+    "Price": "84.30 SAR",
+    "Percent": "9.91%",
+    "Price_Chg": "7.60 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "514.524K"
   },
   {
     "Name": "AL MOAMMAR INFORMATION SYSTEMS CO.",
     "Ticker": "7200",
-    "Price": "160.20 SAR",
-    "Percent": "−1.60%",
-    "Price_Chg": "−2.60 SAR",
+    "Price": "160.80 SAR",
+    "Percent": "0.37%",
+    "Price_Chg": "0.60 SAR",
     "Rating": "Neutral",
-    "Volume": "93.163K"
+    "Volume": "70.621K"
   },
   {
     "Name": "ARAB SEA INFORMATION SYSTEM CO.",
     "Ticker": "7201",
-    "Price": "75.30 SAR",
-    "Percent": "0.53%",
-    "Price_Chg": "0.40 SAR",
+    "Price": "76.00 SAR",
+    "Percent": "0.93%",
+    "Price_Chg": "0.70 SAR",
     "Rating": "Sell",
-    "Volume": "102.097K"
+    "Volume": "234.612K"
   },
   {
     "Name": "ARABIAN INTERNET AND COMMUNICATIONS SERVICES CO.",
     "Ticker": "7202",
-    "Price": "327.20 SAR",
-    "Percent": "2.00%",
-    "Price_Chg": "6.40 SAR",
+    "Price": "332.00 SAR",
+    "Percent": "1.47%",
+    "Price_Chg": "4.80 SAR",
     "Rating": "Neutral",
-    "Volume": "93.513K"
+    "Volume": "64.534K"
   },
   {
     "Name": "ELM CO",
     "Ticker": "7203",
-    "Price": "680.00 SAR",
-    "Percent": "−0.96%",
-    "Price_Chg": "−6.60 SAR",
+    "Price": "684.80 SAR",
+    "Percent": "0.71%",
+    "Price_Chg": "4.80 SAR",
     "Rating": "Buy",
-    "Volume": "113.775K"
+    "Volume": "52.504K"
   },
   {
     "Name": "PERFECT PRESENTATION FOR COMMERCIAL SERVICES CO.",
     "Ticker": "7204",
-    "Price": "24.22 SAR",
-    "Percent": "4.40%",
-    "Price_Chg": "1.02 SAR",
+    "Price": "24.58 SAR",
+    "Percent": "1.49%",
+    "Price_Chg": "0.36 SAR",
     "Rating": "Strong Buy",
-    "Volume": "3.733M"
+    "Volume": "1.594M"
   },
   {
     "Name": "THE COMPANY FOR COOPERATIVE INSURANCE",
     "Ticker": "8010",
-    "Price": "138.60 SAR",
-    "Percent": "0.73%",
-    "Price_Chg": "1.00 SAR",
+    "Price": "137.80 SAR",
+    "Percent": "−0.58%",
+    "Price_Chg": "−0.80 SAR",
     "Rating": "Sell",
-    "Volume": "142.309K"
+    "Volume": "104.977K"
   },
   {
     "Name": "ALJAZIRA TAKAFUL TAAWUNI CO.",
     "Ticker": "8012",
-    "Price": "18.90 SAR",
-    "Percent": "−0.11%",
-    "Price_Chg": "−0.02 SAR",
+    "Price": "19.02 SAR",
+    "Percent": "0.63%",
+    "Price_Chg": "0.12 SAR",
     "Rating": "Buy",
-    "Volume": "142.594K"
+    "Volume": "124.682K"
   },
   {
     "Name": "MALATH COOPERATIVE INSURANCE CO.",
     "Ticker": "8020",
-    "Price": "25.05 SAR",
-    "Percent": "−1.18%",
-    "Price_Chg": "−0.30 SAR",
-    "Rating": "Buy",
-    "Volume": "1.061M"
+    "Price": "22.56 SAR",
+    "Percent": "−9.94%",
+    "Price_Chg": "−2.49 SAR",
+    "Rating": "Sell",
+    "Volume": "4.618M"
   },
   {
     "Name": "THE MEDITERRANEAN AND GULF INSURANCE AND REINSURANCE CO.",
     "Ticker": "8030",
-    "Price": "14.46 SAR",
-    "Percent": "−2.82%",
-    "Price_Chg": "−0.42 SAR",
+    "Price": "14.54 SAR",
+    "Percent": "0.55%",
+    "Price_Chg": "0.08 SAR",
     "Rating": "Buy",
-    "Volume": "1.219M"
+    "Volume": "1.349M"
   },
   {
     "Name": "ALLIANZ SAUDI FRANSI COOPERATIVE INSURANCE CO.",
     "Ticker": "8040",
-    "Price": "17.36 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Buy",
-    "Volume": "126.933K"
+    "Price": "17.04 SAR",
+    "Percent": "−1.84%",
+    "Price_Chg": "−0.32 SAR",
+    "Rating": "Sell",
+    "Volume": "108.431K"
   },
   {
     "Name": "SALAMA COOPERATIVE INSURANCE CO.",
     "Ticker": "8050",
-    "Price": "23.72 SAR",
-    "Percent": "−0.67%",
-    "Price_Chg": "−0.16 SAR",
+    "Price": "23.90 SAR",
+    "Percent": "0.76%",
+    "Price_Chg": "0.18 SAR",
     "Rating": "Buy",
-    "Volume": "136.587K"
+    "Volume": "122.523K"
   },
   {
     "Name": "WALAA COOPERATIVE INSURANCE CO.",
     "Ticker": "8060",
-    "Price": "19.20 SAR",
-    "Percent": "−1.44%",
-    "Price_Chg": "−0.28 SAR",
+    "Price": "19.02 SAR",
+    "Percent": "−0.94%",
+    "Price_Chg": "−0.18 SAR",
     "Rating": "Buy",
-    "Volume": "536.806K"
+    "Volume": "419.546K"
   },
   {
     "Name": "ARABIAN SHIELD COOPERATIVE INSURANCE CO.",
     "Ticker": "8070",
-    "Price": "20.14 SAR",
-    "Percent": "−0.30%",
-    "Price_Chg": "−0.06 SAR",
-    "Rating": "Buy",
-    "Volume": "334.414K"
+    "Price": "20.00 SAR",
+    "Percent": "−0.70%",
+    "Price_Chg": "−0.14 SAR",
+    "Rating": "Sell",
+    "Volume": "337.825K"
   },
   {
     "Name": "SAUDI ARABIAN COOPERATIVE INSURANCE CO.",
     "Ticker": "8100",
-    "Price": "13.34 SAR",
-    "Percent": "2.62%",
-    "Price_Chg": "0.34 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "1.012M"
+    "Price": "13.20 SAR",
+    "Percent": "−1.05%",
+    "Price_Chg": "−0.14 SAR",
+    "Rating": "Buy",
+    "Volume": "717.981K"
   },
   {
     "Name": "GULF UNION ALAHLIA COOPERATIVE INSURANCE CO.",
     "Ticker": "8120",
-    "Price": "13.64 SAR",
-    "Percent": "1.19%",
-    "Price_Chg": "0.16 SAR",
+    "Price": "13.50 SAR",
+    "Percent": "−1.03%",
+    "Price_Chg": "−0.14 SAR",
     "Rating": "Buy",
-    "Volume": "3.148M"
+    "Volume": "819.497K"
   },
   {
     "Name": "ALLIED COOPERATIVE INSURANCE GROUP",
     "Ticker": "8150",
-    "Price": "13.92 SAR",
-    "Percent": "−1.28%",
-    "Price_Chg": "−0.18 SAR",
-    "Rating": "Neutral",
-    "Volume": "233.501K"
+    "Price": "14.60 SAR",
+    "Percent": "4.89%",
+    "Price_Chg": "0.68 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "653.802K"
   },
   {
     "Name": "ARABIA INSURANCE COOPERATIVE CO.",
     "Ticker": "8160",
-    "Price": "13.76 SAR",
-    "Percent": "−1.43%",
-    "Price_Chg": "−0.20 SAR",
-    "Rating": "Neutral",
-    "Volume": "734.959K"
+    "Price": "13.80 SAR",
+    "Percent": "0.29%",
+    "Price_Chg": "0.04 SAR",
+    "Rating": "Buy",
+    "Volume": "493.681K"
   },
   {
     "Name": "AL-ETIHAD COOPERATIVE INSURANCE CO.",
     "Ticker": "8170",
-    "Price": "20.30 SAR",
-    "Percent": "1.70%",
-    "Price_Chg": "0.34 SAR",
+    "Price": "20.20 SAR",
+    "Percent": "−0.49%",
+    "Price_Chg": "−0.10 SAR",
     "Rating": "Buy",
-    "Volume": "515.617K"
+    "Volume": "157.252K"
   },
   {
     "Name": "AL SAGR COOPERATIVE INSURANCE CO.",
     "Ticker": "8180",
-    "Price": "16.04 SAR",
-    "Percent": "−2.20%",
-    "Price_Chg": "−0.36 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "162.306K"
+    "Price": "15.98 SAR",
+    "Percent": "−0.37%",
+    "Price_Chg": "−0.06 SAR",
+    "Rating": "Sell",
+    "Volume": "78.24K"
   },
   {
     "Name": "UNITED COOPERATIVE ASSURANCE CO.",
     "Ticker": "8190",
-    "Price": "9.96 SAR",
-    "Percent": "−5.50%",
-    "Price_Chg": "−0.58 SAR",
-    "Rating": "Neutral",
-    "Volume": "1.709M"
+    "Price": "9.73 SAR",
+    "Percent": "−2.31%",
+    "Price_Chg": "−0.23 SAR",
+    "Rating": "Sell",
+    "Volume": "819.389K"
   },
   {
     "Name": "SAUDI REINSURANCE CO.",
     "Ticker": "8200",
-    "Price": "18.54 SAR",
-    "Percent": "0.76%",
-    "Price_Chg": "0.14 SAR",
-    "Rating": "Buy",
-    "Volume": "313.727K"
+    "Price": "19.00 SAR",
+    "Percent": "2.48%",
+    "Price_Chg": "0.46 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "1.062M"
   },
   {
     "Name": "BUPA ARABIA FOR COOPERATIVE INSURANCE CO.",
     "Ticker": "8210",
-    "Price": "180.40 SAR",
-    "Percent": "3.68%",
-    "Price_Chg": "6.40 SAR",
-    "Rating": "Buy",
-    "Volume": "379.319K"
+    "Price": "186.00 SAR",
+    "Percent": "3.10%",
+    "Price_Chg": "5.60 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "310.6K"
   },
   {
     "Name": "AL-RAJHI COMPANY FOR COOPERATIVE INSURANCE",
     "Ticker": "8230",
-    "Price": "150.00 SAR",
-    "Percent": "−1.19%",
-    "Price_Chg": "−1.80 SAR",
+    "Price": "148.60 SAR",
+    "Percent": "−0.93%",
+    "Price_Chg": "−1.40 SAR",
     "Rating": "Buy",
-    "Volume": "58.014K"
+    "Volume": "19.388K"
   },
   {
     "Name": "CHUBB ARABIA COOPERATIVE INSURANCE CO.",
     "Ticker": "8240",
-    "Price": "21.62 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "21.60 SAR",
+    "Percent": "−0.09%",
+    "Price_Chg": "−0.02 SAR",
     "Rating": "Buy",
-    "Volume": "70.276K"
+    "Volume": "39.504K"
   },
   {
     "Name": "GULF INSURANCE GROUP",
     "Ticker": "8250",
-    "Price": "32.75 SAR",
+    "Price": "32.60 SAR",
     "Percent": "−0.46%",
     "Price_Chg": "−0.15 SAR",
-    "Rating": "Buy",
-    "Volume": "172.176K"
+    "Rating": "Neutral",
+    "Volume": "47.369K"
   },
   {
     "Name": "GULF GENERAL COOPERATIVE INSURANCE CO.",
     "Ticker": "8260",
-    "Price": "8.12 SAR",
-    "Percent": "−1.46%",
-    "Price_Chg": "−0.12 SAR",
+    "Price": "8.17 SAR",
+    "Percent": "0.62%",
+    "Price_Chg": "0.05 SAR",
     "Rating": "Sell",
-    "Volume": "693.003K"
+    "Volume": "438.879K"
   },
   {
     "Name": "BURUJ COOPERATIVE INSURANCE CO.",
     "Ticker": "8270",
     "Price": "19.60 SAR",
-    "Percent": "0.31%",
-    "Price_Chg": "0.06 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Buy",
-    "Volume": "36.852K"
+    "Volume": "43.412K"
   },
   {
     "Name": "AL ALAMIYA FOR COOPERATIVE INSURANCE CO.",
     "Ticker": "8280",
-    "Price": "17.08 SAR",
-    "Percent": "−0.58%",
-    "Price_Chg": "−0.10 SAR",
+    "Price": "16.66 SAR",
+    "Percent": "−2.46%",
+    "Price_Chg": "−0.42 SAR",
     "Rating": "Sell",
-    "Volume": "68.608K"
+    "Volume": "179.545K"
   },
   {
     "Name": "WATANIYA INSURANCE CO.",
     "Ticker": "8300",
-    "Price": "18.60 SAR",
-    "Percent": "−0.75%",
-    "Price_Chg": "−0.14 SAR",
+    "Price": "18.22 SAR",
+    "Percent": "−2.04%",
+    "Price_Chg": "−0.38 SAR",
     "Rating": "Sell",
-    "Volume": "156.97K"
+    "Volume": "233.585K"
   },
   {
     "Name": "AMANA COOPERATIVE INSURANCE CO.",
     "Ticker": "8310",
-    "Price": "12.00 SAR",
-    "Percent": "0.33%",
-    "Price_Chg": "0.04 SAR",
+    "Price": "11.98 SAR",
+    "Percent": "−0.17%",
+    "Price_Chg": "−0.02 SAR",
     "Rating": "Buy",
-    "Volume": "1.006M"
+    "Volume": "572.459K"
   },
   {
     "Name": "SAUDI ENAYA COOPERATIVE INSURANCE CO.",
     "Ticker": "8311",
     "Price": "11.22 SAR",
-    "Percent": "−1.06%",
-    "Price_Chg": "−0.12 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "704.327K"
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
+    "Rating": "Sell",
+    "Volume": "437.483K"
   },
   {
     "Name": "ALINMA TOKIO MARINE CO.",
     "Ticker": "8312",
-    "Price": "13.50 SAR",
-    "Percent": "−1.32%",
-    "Price_Chg": "−0.18 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "103.685K"
+    "Price": "13.34 SAR",
+    "Percent": "−1.19%",
+    "Price_Chg": "−0.16 SAR",
+    "Rating": "Sell",
+    "Volume": "137.491K"
   },
   {
     "Name": "NATIONAL BUILDING AND MARKETING CO.",
     "Ticker": "9510",
-    "Price": "260.20 SAR",
-    "Percent": "−0.31%",
-    "Price_Chg": "−0.80 SAR",
+    "Price": "260.00 SAR",
+    "Percent": "−0.08%",
+    "Price_Chg": "−0.20 SAR",
     "Rating": "Sell",
-    "Volume": "86"
+    "Volume": "116"
   },
   {
     "Name": "SUMOU REAL ESTATE CO",
@@ -1887,133 +1887,142 @@
     "Percent": "0.00%",
     "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "2.961K"
+    "Volume": "2.781K"
   },
   {
     "Name": "RIYADH CEMENT CO.",
     "Ticker": "9512",
-    "Price": "32.00 SAR",
-    "Percent": "−0.93%",
-    "Price_Chg": "−0.30 SAR",
+    "Price": "32.50 SAR",
+    "Percent": "1.56%",
+    "Price_Chg": "0.50 SAR",
     "Rating": "Sell",
-    "Volume": "45.341K"
+    "Volume": "26.415K"
   },
   {
     "Name": "WATANI IRON STEEL CO",
     "Ticker": "9513",
     "Price": "34.30 SAR",
-    "Percent": "−1.01%",
-    "Price_Chg": "−0.35 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "1.824K"
+    "Volume": "1.001K"
   },
   {
     "Name": "MOHAMMED HASAN ALNAQOOL SONS CO.",
     "Ticker": "9514",
-    "Price": "59.40 SAR",
-    "Percent": "−0.34%",
-    "Price_Chg": "−0.20 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "3.774K"
+    "Price": "59.50 SAR",
+    "Percent": "0.17%",
+    "Price_Chg": "0.10 SAR",
+    "Rating": "Sell",
+    "Volume": "7.103K"
   },
   {
     "Name": "FESH FASH SNACK FOOD PRODUCTION CO.",
     "Ticker": "9515",
-    "Price": "19.92 SAR",
-    "Percent": "−0.20%",
-    "Price_Chg": "−0.04 SAR",
-    "Rating": "Neutral",
-    "Volume": "92.596K"
+    "Price": "20.20 SAR",
+    "Percent": "1.41%",
+    "Price_Chg": "0.28 SAR",
+    "Rating": "Buy",
+    "Volume": "129.441K"
   },
   {
     "Name": "NATURAL GAS DISTRIBUTION CO.",
     "Ticker": "9516",
-    "Price": "65.00 SAR",
-    "Percent": "8.51%",
-    "Price_Chg": "5.10 SAR",
+    "Price": "65.40 SAR",
+    "Percent": "0.62%",
+    "Price_Chg": "0.40 SAR",
     "Rating": "Strong Buy",
-    "Volume": "28.132K"
+    "Volume": "16.761K"
   },
   {
     "Name": "MOBI INDUSTRY CO.",
     "Ticker": "9517",
-    "Price": "7.10 SAR",
-    "Percent": "0.57%",
-    "Price_Chg": "0.04 SAR",
-    "Rating": "Neutral",
-    "Volume": "2.853K"
+    "Price": "7.20 SAR",
+    "Percent": "1.41%",
+    "Price_Chg": "0.10 SAR",
+    "Rating": "Buy",
+    "Volume": "40.181K"
   },
   {
     "Name": "CANADIAN MEDICAL CENTER CO.",
     "Ticker": "9518",
-    "Price": "6.69 SAR",
-    "Percent": "−0.15%",
-    "Price_Chg": "−0.01 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "79.378K"
+    "Price": "6.66 SAR",
+    "Percent": "−0.45%",
+    "Price_Chg": "−0.03 SAR",
+    "Rating": "Neutral",
+    "Volume": "81.262K"
   },
   {
     "Name": "BANAN REAL ESTATE CO.",
     "Ticker": "9519",
-    "Price": "6.10 SAR",
-    "Percent": "0.83%",
-    "Price_Chg": "0.05 SAR",
+    "Price": "6.09 SAR",
+    "Percent": "−0.16%",
+    "Price_Chg": "−0.01 SAR",
     "Rating": "Sell",
-    "Volume": "3.63K"
+    "Volume": "52.917K"
   },
   {
     "Name": "SHATIRAH HOUSE RESTAURANT CO.",
     "Ticker": "9520",
-    "Price": "9.38 SAR",
-    "Percent": "3.19%",
-    "Price_Chg": "0.29 SAR",
-    "Rating": "Buy",
-    "Volume": "34.397K"
+    "Price": "9.37 SAR",
+    "Percent": "−0.11%",
+    "Price_Chg": "−0.01 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "14.493K"
+  },
+  {
+    "Name": "ENMA ALRAWABI CO.",
+    "Ticker": "9521",
+    "Price": "19.50 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "80"
   },
   {
     "Name": "ALHASOOB CO",
     "Ticker": "9522",
-    "Price": "98.60 SAR",
-    "Percent": "0.82%",
-    "Price_Chg": "0.80 SAR",
-    "Rating": "Sell",
-    "Volume": "468"
+    "Price": "99.30 SAR",
+    "Percent": "0.71%",
+    "Price_Chg": "0.70 SAR",
+    "Rating": "Buy",
+    "Volume": "1.117K"
   },
   {
     "Name": "GROUP FIVE PIPE SAUDI CO",
     "Ticker": "9523",
-    "Price": "20.70 SAR",
-    "Percent": "−0.38%",
-    "Price_Chg": "−0.08 SAR",
+    "Price": "20.24 SAR",
+    "Percent": "−2.22%",
+    "Price_Chg": "−0.46 SAR",
     "Rating": "Strong Sell",
-    "Volume": "6.47K"
+    "Volume": "15.058K"
   },
   {
     "Name": "ADVANCE INTERNATIONAL COMPANY FOR COMMUNICATION AND INFORMAT",
     "Ticker": "9524",
-    "Price": "71.30 SAR",
-    "Percent": "0.42%",
-    "Price_Chg": "0.30 SAR",
+    "Price": "70.00 SAR",
+    "Percent": "−1.82%",
+    "Price_Chg": "−1.30 SAR",
     "Rating": "Sell",
-    "Volume": "324"
+    "Volume": "441"
   },
   {
     "Name": "ALWASAIL INDUSTRIAL CO.",
     "Ticker": "9525",
-    "Price": "23.08 SAR",
-    "Percent": "1.67%",
-    "Price_Chg": "0.38 SAR",
-    "Rating": "Buy",
-    "Volume": "29.764K"
+    "Price": "22.94 SAR",
+    "Percent": "−0.61%",
+    "Price_Chg": "−0.14 SAR",
+    "Rating": "Neutral",
+    "Volume": "2.567K"
   },
   {
     "Name": "JAHEZ INTERNATIONAL COMPANY FOR INFORMATION SYSTEM TECHNOLOG",
     "Ticker": "9526",
-    "Price": "594.40 SAR",
-    "Percent": "−0.90%",
-    "Price_Chg": "−5.40 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "32.776K"
+    "Price": "599.80 SAR",
+    "Percent": "0.91%",
+    "Price_Chg": "5.40 SAR",
+    "Rating": "Sell",
+    "Volume": "5.354K"
   },
   {
     "Name": "AME COMPANY FOR MEDICAL SUPPLIES",
@@ -2022,187 +2031,178 @@
     "Percent": "0.00%",
     "Price_Chg": "0.00 SAR",
     "Rating": "Neutral",
-    "Volume": "11.294K"
+    "Volume": "5.041K"
   },
   {
     "Name": "GAS ARABIAN SERVICES CO.",
     "Ticker": "9528",
-    "Price": "7.80 SAR",
-    "Percent": "−4.76%",
-    "Price_Chg": "−0.39 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "5.258K"
+    "Price": "7.06 SAR",
+    "Percent": "−9.49%",
+    "Price_Chg": "−0.74 SAR",
+    "Rating": "Sell",
+    "Volume": "17.868K"
   },
   {
     "Name": "RAOOM TRADING CO",
     "Ticker": "9529",
-    "Price": "100.00 SAR",
-    "Percent": "−7.41%",
-    "Price_Chg": "−8.00 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "835"
+    "Price": "104.20 SAR",
+    "Percent": "4.20%",
+    "Price_Chg": "4.20 SAR",
+    "Rating": "Sell",
+    "Volume": "198"
   },
   {
     "Name": "ARABIAN INTERNATIONAL HEALTHCARE HOLDING CO",
     "Ticker": "9530",
-    "Price": "41.40 SAR",
-    "Percent": "0.98%",
-    "Price_Chg": "0.40 SAR",
-    "Rating": "Sell",
-    "Volume": "4.927K"
+    "Price": "41.25 SAR",
+    "Percent": "−0.36%",
+    "Price_Chg": "−0.15 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "20.617K"
   },
   {
     "Name": "OBEIKAN GLASS CO.",
     "Ticker": "9531",
-    "Price": "78.10 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "1"
+    "Price": "75.00 SAR",
+    "Percent": "−3.97%",
+    "Price_Chg": "−3.10 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "5.956K"
   },
   {
     "Name": "ALJOUF MINERAL WATER BOTTLING CO",
     "Ticker": "9532",
-    "Price": "29.00 SAR",
-    "Percent": "0.35%",
-    "Price_Chg": "0.10 SAR",
-    "Rating": "Buy",
-    "Volume": "15.769K"
+    "Price": "28.90 SAR",
+    "Percent": "−0.34%",
+    "Price_Chg": "−0.10 SAR",
+    "Rating": "Neutral",
+    "Volume": "11.084K"
+  },
+  {
+    "Name": "SAUDI PARTS CENTER CO.",
+    "Ticker": "9533",
+    "Price": "65.20 SAR",
+    "Percent": "−1.66%",
+    "Price_Chg": "−1.10 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "678"
   },
   {
     "Name": "SAUDI AZM FOR COMMUNICATION AND INFORMATION TECHNOLOGY CO.",
     "Ticker": "9534",
-    "Price": "11.70 SAR",
-    "Percent": "6.36%",
-    "Price_Chg": "0.70 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "626"
+    "Price": "11.68 SAR",
+    "Percent": "−0.17%",
+    "Price_Chg": "−0.02 SAR",
+    "Rating": "Buy",
+    "Volume": "444"
   },
   {
     "Name": "LADUN INVESTMENT CO.",
     "Ticker": "9535",
-    "Price": "2.59 SAR",
-    "Percent": "3.60%",
-    "Price_Chg": "0.09 SAR",
-    "Rating": "Buy",
-    "Volume": "83.597K"
+    "Price": "2.58 SAR",
+    "Percent": "−0.39%",
+    "Price_Chg": "−0.01 SAR",
+    "Rating": "Sell",
+    "Volume": "24.054K"
   },
   {
     "Name": "ARABIAN FOOD AND DAIRY FACTORIES CO.",
     "Ticker": "9536",
-    "Price": "100.60 SAR",
-    "Percent": "1.62%",
-    "Price_Chg": "1.60 SAR",
-    "Rating": "Neutral",
-    "Volume": "1.455K"
+    "Price": "99.90 SAR",
+    "Percent": "−0.70%",
+    "Price_Chg": "−0.70 SAR",
+    "Rating": "Sell",
+    "Volume": "2.461K"
   },
   {
     "Name": "AMWAJ INTERNATIONAL CO.",
     "Ticker": "9537",
-    "Price": "92.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "1.08K"
+    "Price": "91.70 SAR",
+    "Percent": "−0.33%",
+    "Price_Chg": "−0.30 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "3.843K"
   },
   {
     "Name": "NASEEJ FOR TECHNOLOGY CO.",
     "Ticker": "9538",
-    "Price": "70.00 SAR",
-    "Percent": "−4.24%",
-    "Price_Chg": "−3.10 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "714"
-  },
-  {
-    "Name": "AQASEEM FACTORY FOR CHEMICALS AND PLASTICS CO.",
-    "Ticker": "9539",
-    "Price": "63.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Buy",
-    "Volume": "18"
+    "Price": "72.00 SAR",
+    "Percent": "2.86%",
+    "Price_Chg": "2.00 SAR",
+    "Rating": "Sell",
+    "Volume": "2.242K"
   },
   {
     "Name": "NATIONAL ENVIRONMENTAL RECYCLING CO.",
     "Ticker": "9540",
     "Price": "9.44 SAR",
-    "Percent": "3.28%",
-    "Price_Chg": "0.30 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "248.255K"
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
+    "Rating": "Buy",
+    "Volume": "68.691K"
   },
   {
     "Name": "ACADEMY OF LEARNING CO.",
     "Ticker": "9541",
-    "Price": "9.22 SAR",
-    "Percent": "−4.55%",
-    "Price_Chg": "−0.44 SAR",
+    "Price": "9.10 SAR",
+    "Percent": "−1.30%",
+    "Price_Chg": "−0.12 SAR",
     "Rating": "Buy",
-    "Volume": "26.473K"
+    "Volume": "159.525K"
   },
   {
     "Name": "KEIR INTERNATIONAL CO.",
     "Ticker": "9542",
-    "Price": "4.81 SAR",
-    "Percent": "−0.82%",
-    "Price_Chg": "−0.04 SAR",
-    "Rating": "Sell",
-    "Volume": "26.709K"
+    "Price": "5.02 SAR",
+    "Percent": "4.37%",
+    "Price_Chg": "0.21 SAR",
+    "Rating": "Neutral",
+    "Volume": "127.988K"
   },
   {
     "Name": "SAUDI NETWORKERS SERVICES CO.",
     "Ticker": "9543",
     "Price": "60.00 SAR",
-    "Percent": "2.74%",
-    "Price_Chg": "1.60 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Strong Buy",
-    "Volume": "14.28K"
+    "Volume": "8.024K"
   },
   {
     "Name": "FUTURE CARE TRADING CO",
     "Ticker": "9544",
-    "Price": "20.62 SAR",
-    "Percent": "−1.81%",
-    "Price_Chg": "−0.38 SAR",
+    "Price": "20.78 SAR",
+    "Percent": "0.78%",
+    "Price_Chg": "0.16 SAR",
     "Rating": "Sell",
-    "Volume": "14.229K"
+    "Volume": "115.266K"
   },
   {
     "Name": "INTERNATIONAL HUMAN RESOURCES CO.",
     "Ticker": "9545",
-    "Price": "4.08 SAR",
-    "Percent": "2.00%",
-    "Price_Chg": "0.08 SAR",
-    "Rating": "Buy",
-    "Volume": "161.448K"
-  },
-  {
-    "Name": "NABA ALSAHA MEDICAL SERVICES CO.",
-    "Ticker": "9546",
-    "Price": "70.00 SAR",
-    "Percent": "7.53%",
-    "Price_Chg": "4.90 SAR",
+    "Price": "4.12 SAR",
+    "Percent": "0.98%",
+    "Price_Chg": "0.04 SAR",
     "Rating": "Strong Buy",
-    "Volume": "655"
+    "Volume": "81.022K"
   },
   {
     "Name": "RAWASI ALBINA INVESTMENT CO.",
     "Ticker": "9547",
-    "Price": "6.03 SAR",
-    "Percent": "0.67%",
-    "Price_Chg": "0.04 SAR",
+    "Price": "6.19 SAR",
+    "Percent": "2.65%",
+    "Price_Chg": "0.16 SAR",
     "Rating": "Buy",
-    "Volume": "44.171K"
+    "Volume": "2.159K"
   },
   {
     "Name": "ARABIAN PLASTIC INDUSTRIAL CO.",
     "Ticker": "9548",
-    "Price": "35.00 SAR",
-    "Percent": "1.45%",
-    "Price_Chg": "0.50 SAR",
-    "Rating": "Neutral",
-    "Volume": "210"
+    "Price": "37.00 SAR",
+    "Percent": "5.71%",
+    "Price_Chg": "2.00 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "1.2K"
   },
   {
     "Name": "ABDULAZIZ AND MANSOUR IBRAHIM ALBABTIN CO.",
@@ -2210,53 +2210,53 @@
     "Price": "55.90 SAR",
     "Percent": "0.00%",
     "Price_Chg": "0.00 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "19"
+    "Rating": "Buy",
+    "Volume": "14"
   },
   {
     "Name": "SURE GLOBAL TECH CO",
     "Ticker": "9550",
-    "Price": "70.80 SAR",
-    "Percent": "−0.14%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Sell",
-    "Volume": "2.224K"
+    "Price": "74.90 SAR",
+    "Percent": "5.79%",
+    "Price_Chg": "4.10 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "9.339K"
   },
   {
     "Name": "KNOWLEDGE TOWER TRADING CO.",
     "Ticker": "9551",
-    "Price": "7.51 SAR",
-    "Percent": "4.89%",
-    "Price_Chg": "0.35 SAR",
+    "Price": "7.80 SAR",
+    "Percent": "3.86%",
+    "Price_Chg": "0.29 SAR",
     "Rating": "Strong Buy",
-    "Volume": "350.091K"
+    "Volume": "135.689K"
   },
   {
     "Name": "SAUDI TOP FOR TRADING CO.",
     "Ticker": "9552",
-    "Price": "88.80 SAR",
-    "Percent": "−1.44%",
-    "Price_Chg": "−1.30 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "1.029K"
+    "Price": "90.00 SAR",
+    "Percent": "1.35%",
+    "Price_Chg": "1.20 SAR",
+    "Rating": "Buy",
+    "Volume": "1.789K"
   },
   {
     "Name": "MOLAN STEEL CO.",
     "Ticker": "9553",
-    "Price": "44.00 SAR",
-    "Percent": "−4.35%",
-    "Price_Chg": "−2.00 SAR",
-    "Rating": "Buy",
-    "Volume": "11.829K"
+    "Price": "46.00 SAR",
+    "Percent": "4.55%",
+    "Price_Chg": "2.00 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "30.27K"
   },
   {
     "Name": "LEEN ALKHAIR TRADING CO.",
     "Ticker": "9555",
     "Price": "63.00 SAR",
-    "Percent": "−1.41%",
-    "Price_Chg": "−0.90 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "1.964K"
+    "Volume": "75"
   },
   {
     "Name": "NOFOTH FOOD PRODUCTS CO.",
@@ -2265,159 +2265,150 @@
     "Percent": "0.00%",
     "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "11.894K"
+    "Volume": "8.205K"
   },
   {
     "Name": "EDARAT COMMUNICATION AND INFORMATION TECHNOLOGY CO.",
     "Ticker": "9557",
-    "Price": "434.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Buy",
-    "Volume": "247"
+    "Price": "420.00 SAR",
+    "Percent": "−3.23%",
+    "Price_Chg": "−14.00 SAR",
+    "Rating": "Sell",
+    "Volume": "209"
   },
   {
     "Name": "ALQEMAM FOR COMPUTER SYSTEMS CO.",
     "Ticker": "9558",
-    "Price": "71.50 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
+    "Price": "70.90 SAR",
+    "Percent": "−0.84%",
+    "Price_Chg": "−0.60 SAR",
     "Rating": "Sell",
-    "Volume": "37"
+    "Volume": "413"
   },
   {
     "Name": "BALADY POULTRY TRADING CO.",
     "Ticker": "9559",
-    "Price": "134.00 SAR",
-    "Percent": "−1.90%",
-    "Price_Chg": "−2.60 SAR",
+    "Price": "133.80 SAR",
+    "Percent": "−0.15%",
+    "Price_Chg": "−0.20 SAR",
     "Rating": "Sell",
-    "Volume": "772"
+    "Volume": "1.162K"
   },
   {
     "Name": "WAJA CO.",
     "Ticker": "9560",
-    "Price": "6.14 SAR",
-    "Percent": "0.66%",
-    "Price_Chg": "0.04 SAR",
-    "Rating": "Neutral",
-    "Volume": "25.039K"
+    "Price": "6.00 SAR",
+    "Percent": "−2.28%",
+    "Price_Chg": "−0.14 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "29.169K"
   },
   {
     "Name": "KNOWLEDGE NET CO.",
     "Ticker": "9561",
     "Price": "38.90 SAR",
-    "Percent": "0.78%",
-    "Price_Chg": "0.30 SAR",
-    "Rating": "Neutral",
-    "Volume": "3.459K"
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
+    "Rating": "Buy",
+    "Volume": "1.625K"
   },
   {
     "Name": "FOODS GATE TRADING CO.",
     "Ticker": "9562",
-    "Price": "68.50 SAR",
-    "Percent": "1.48%",
-    "Price_Chg": "1.00 SAR",
-    "Rating": "Buy",
-    "Volume": "3.453K"
+    "Price": "67.10 SAR",
+    "Percent": "−2.04%",
+    "Price_Chg": "−1.40 SAR",
+    "Rating": "Sell",
+    "Volume": "8.246K"
   },
   {
     "Name": "BENA STEEL INDUSTRIES CO.",
     "Ticker": "9563",
-    "Price": "42.00 SAR",
-    "Percent": "−2.33%",
-    "Price_Chg": "−1.00 SAR",
-    "Rating": "Strong Sell",
-    "Volume": "140"
-  },
-  {
-    "Name": "HORIZON FOOD CO.",
-    "Ticker": "9564",
-    "Price": "62.00 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Buy",
-    "Volume": "297"
+    "Price": "42.10 SAR",
+    "Percent": "0.24%",
+    "Price_Chg": "0.10 SAR",
+    "Rating": "Sell",
+    "Volume": "421"
   },
   {
     "Name": "MEYAR CO.",
     "Ticker": "9565",
-    "Price": "87.20 SAR",
-    "Percent": "0.00%",
-    "Price_Chg": "0.00 SAR",
-    "Rating": "Sell",
-    "Volume": "10"
+    "Price": "89.20 SAR",
+    "Percent": "2.29%",
+    "Price_Chg": "2.00 SAR",
+    "Rating": "Buy",
+    "Volume": "988"
   },
   {
     "Name": "SAUDI LIME INDUSTRIES CO.",
     "Ticker": "9566",
-    "Price": "14.50 SAR",
-    "Percent": "−0.68%",
-    "Price_Chg": "−0.10 SAR",
-    "Rating": "Buy",
-    "Volume": "16.248K"
+    "Price": "14.60 SAR",
+    "Percent": "0.69%",
+    "Price_Chg": "0.10 SAR",
+    "Rating": "Strong Buy",
+    "Volume": "37.332K"
   },
   {
     "Name": "GHIDA ALSULTAN FOR FAST FOOD CO.",
     "Ticker": "9567",
     "Price": "73.00 SAR",
-    "Percent": "−0.14%",
-    "Price_Chg": "−0.10 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Sell",
-    "Volume": "503"
+    "Volume": "1.986K"
   },
   {
     "Name": "MAYAR HOLDING CO.",
     "Ticker": "9568",
-    "Price": "96.50 SAR",
-    "Percent": "−5.39%",
-    "Price_Chg": "−5.50 SAR",
+    "Price": "95.00 SAR",
+    "Percent": "−1.55%",
+    "Price_Chg": "−1.50 SAR",
     "Rating": "Sell",
-    "Volume": "1.201K"
+    "Volume": "172"
   },
   {
     "Name": "ALMUNEEF COMPANY FOR TRADE\\, INDUSTRY\\,AGRICULTURE AND CONTR",
     "Ticker": "9569",
     "Price": "68.20 SAR",
-    "Percent": "−0.58%",
-    "Price_Chg": "−0.40 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "925"
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
+    "Rating": "Buy",
+    "Volume": "3"
   },
   {
     "Name": "TAM DEVELOPMENT CO.",
     "Ticker": "9570",
-    "Price": "124.40 SAR",
-    "Percent": "0.32%",
-    "Price_Chg": "0.40 SAR",
-    "Rating": "Sell",
-    "Volume": "822"
+    "Price": "126.80 SAR",
+    "Percent": "1.93%",
+    "Price_Chg": "2.40 SAR",
+    "Rating": "Buy",
+    "Volume": "50"
   },
   {
     "Name": "AL-RAZI MEDICAL CO.",
     "Ticker": "9572",
     "Price": "71.00 SAR",
-    "Percent": "−0.28%",
-    "Price_Chg": "−0.20 SAR",
+    "Percent": "0.00%",
+    "Price_Chg": "0.00 SAR",
     "Rating": "Buy",
-    "Volume": "4.178K"
+    "Volume": "24.363K"
   },
   {
     "Name": "PROFESSIONAL MEDICAL EXPERTISE CO.",
     "Ticker": "9574",
-    "Price": "70.20 SAR",
-    "Percent": "0.14%",
-    "Price_Chg": "0.10 SAR",
+    "Price": "70.50 SAR",
+    "Percent": "0.43%",
+    "Price_Chg": "0.30 SAR",
     "Rating": "Strong Sell",
-    "Volume": "13.333K"
+    "Volume": "6.027K"
   },
   {
     "Name": "MARBLE DESIGN CO.",
     "Ticker": "9575",
-    "Price": "74.60 SAR",
-    "Percent": "0.95%",
-    "Price_Chg": "0.70 SAR",
-    "Rating": "Strong Buy",
-    "Volume": "75.576K"
+    "Price": "72.60 SAR",
+    "Percent": "−2.68%",
+    "Price_Chg": "−2.00 SAR",
+    "Rating": "Strong Sell",
+    "Volume": "23.237K"
   }
 ]

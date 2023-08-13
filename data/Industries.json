@@ -1,27 +1,27 @@
 [
   {
-    "Name": "Hotels/Resorts/Cruise lines",
-    "Percent": "9.20%",
+    "Name": "Movies/Entertainment",
+    "Percent": "5.50%",
     "Rank": 1
   },
   {
-    "Name": "Household/Personal Care",
-    "Percent": "7.69%",
+    "Name": "Multi-Line Insurance",
+    "Percent": "4.61%",
     "Rank": 2
   },
   {
-    "Name": "Medical/Nursing Services",
-    "Percent": "3.63%",
+    "Name": "Other Transportation",
+    "Percent": "4.19%",
     "Rank": 3
   },
   {
-    "Name": "Hospital/Nursing Management",
-    "Percent": "2.84%",
+    "Name": "Steel",
+    "Percent": "3.06%",
     "Rank": 4
   },
   {
-    "Name": "Electric Utilities",
-    "Percent": "1.82%",
+    "Name": "Marine Shipping",
+    "Percent": "2.88%",
     "Rank": 5
   }
 ]

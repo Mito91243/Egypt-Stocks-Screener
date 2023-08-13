@@ -28,7 +28,7 @@ function Push_News() {
       });
     });
 
-  fetch("../data/News.json")
+  /*fetch("../data/News.json")
     .then((response) => response.json())
     .then((data) => {
       const feed = document.querySelector(".news");
@@ -53,5 +53,5 @@ function Push_News() {
         newsrow.appendChild(headline);
         link.appendChild(newsrow);
       });
-    });
+    });*/
 }

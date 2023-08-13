@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", Push_Data_EG);
 document.addEventListener("DOMContentLoaded", Push_Sectors);
 document.addEventListener("DOMContentLoaded", Push_Industries);
+document.addEventListener("DOMContentLoaded", Push_Gainers);
+
 
 const ksa = document.getElementById("ksa");
 ksa.addEventListener("click", Push_Data_KSA);
@@ -384,11 +386,9 @@ function Push_Sectors() {
     .then((response) => response.json())
     .then((data) => {
       const tablebody = document.getElementById("table-sectors");
-
       data.forEach((item) => {
         const tr = document.createElement("tr");
         tr.classList.add(
-          "border-b",
           "transition",
           "duration-300",
           "ease-in-out",
@@ -402,7 +402,7 @@ function Push_Sectors() {
           "whitespace-nowrap",
           "px-6",
           "py-4",
-          "font-medium",
+          "font-medium"
         );
         tdRank.textContent = item.Rank;
 
@@ -416,8 +416,7 @@ function Push_Sectors() {
           "px-6",
           "py-4",
           "font-medium",
-          'text-green-600'
-
+          "text-green-600"
         );
         tdPercent.textContent = item.Percent;
 
@@ -434,52 +433,102 @@ function Push_Sectors() {
 
 function Push_Industries() {
   fetch("./data/Industries.json") // Replace with the correct path to your JSON file
-  .then((response) => response.json())
-  .then((data) => {
-    const tablebody = document.getElementById("table-industries");
+    .then((response) => response.json())
+    .then((data) => {
+      const tablebody = document.getElementById("table-industries");
 
-    data.forEach((item) => {
-      const tr = document.createElement("tr");
-      tr.classList.add(
-        "border-b",
-        "transition",
-        "duration-300",
-        "ease-in-out",
-        "hover:bg-neutral-100",
-        "dark:border-neutral-500",
-        "dark:hover:bg-neutral-300"
-      );
+      data.forEach((item) => {
+        const tr = document.createElement("tr");
+        tr.classList.add(
+          "transition",
+          "duration-300",
+          "ease-in-out",
+          "hover:bg-neutral-100",
+          "dark:border-neutral-500",
+          "dark:hover:bg-neutral-300"
+        );
 
-      const tdRank = document.createElement("td");
-      tdRank.classList.add(
-        "whitespace-nowrap",
-        "px-6",
-        "py-4",
-        "font-medium",
-      );
-      tdRank.textContent = item.Rank;
+        const tdRank = document.createElement("td");
+        tdRank.classList.add(
+          "whitespace-nowrap",
+          "px-6",
+          "py-4",
+          "font-medium"
+        );
+        tdRank.textContent = item.Rank;
 
-      const tdName = document.createElement("td");
-      tdName.classList.add("whitespace-nowrap", "px-6", "py-4");
-      tdName.textContent = item.Name;
+        const tdName = document.createElement("td");
+        tdName.classList.add("whitespace-nowrap", "px-6", "py-4");
+        tdName.textContent = item.Name;
 
-      const tdPercent = document.createElement("td");
-      tdPercent.classList.add(
-        "whitespace-nowrap",
-        "px-6",
-        "py-4",
-        "font-medium",
-        'text-green-600'
-      );
-      tdPercent.textContent = item.Percent;
-      
-      tablebody.appendChild(tr);
-      tr.appendChild(tdRank);
-      tr.appendChild(tdName);
-      tr.appendChild(tdPercent);
+        const tdPercent = document.createElement("td");
+        tdPercent.classList.add(
+          "whitespace-nowrap",
+          "px-6",
+          "py-4",
+          "font-medium",
+          "text-green-600"
+        );
+        tdPercent.textContent = item.Percent;
+
+        tablebody.appendChild(tr);
+        tr.appendChild(tdRank);
+        tr.appendChild(tdName);
+        tr.appendChild(tdPercent);
+      });
+    })
+    .catch((error) => {
+      console.error("Error fetching JSON data:", error);
     });
-  })
-  .catch((error) => {
-    console.error("Error fetching JSON data:", error);
-  });
+}
+
+function Push_Gainers() {
+    fetch("./data/Top_Gainers.json") // Replace with the correct path to your JSON file
+    .then((response) => response.json())
+    .then((data) => {
+      const tablebody = document.getElementById("table-gainers");
+
+      data.forEach((item) => {
+        const tr = document.createElement("tr");
+        tr.classList.add(
+          "transition",
+          "duration-300",
+          "ease-in-out",
+          "hover:bg-neutral-100",
+          "dark:border-neutral-500",
+          "dark:hover:bg-neutral-300"
+        );
+
+        const tdRank = document.createElement("td");
+        tdRank.classList.add(
+          "whitespace-nowrap",
+          "px-6",
+          "py-4",
+          "font-medium"
+        );
+        tdRank.textContent = item.Rank;
+
+        let tdName = document.createElement("td");
+        tdName.classList.add("whitespace-nowrap", "px-6", "py-4");
+        tdName.textContent = item.Name.slice(0,25) + '...';
+
+        const tdPercent = document.createElement("td");
+        tdPercent.classList.add(
+          "whitespace-nowrap",
+          "px-6",
+          "py-4",
+          "font-medium",
+          "text-green-600"
+        );
+        tdPercent.textContent = item.Percent;
+
+        tablebody.appendChild(tr);
+        tr.appendChild(tdRank);
+        tr.appendChild(tdName);
+        tr.appendChild(tdPercent);
+      });
+    })
+    .catch((error) => {
+      console.error("Error fetching JSON data:", error);
+    });
 }
