@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Consumer Services",
+    "Percent": "3.38%",
+    "Rank": 1
+  },
+  {
+    "Name": "Health Services",
+    "Percent": "2.87%",
+    "Rank": 2
+  },
+  {
+    "Name": "Commercial Services",
+    "Percent": "1.55%",
+    "Rank": 3
+  },
+  {
+    "Name": "Utilities",
+    "Percent": "0.56%",
+    "Rank": 4
+  },
+  {
+    "Name": "Producer Manufacturing",
+    "Percent": "0.37%",
+    "Rank": 5
+  }
+]
