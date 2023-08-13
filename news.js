@@ -12,7 +12,7 @@ function Push_News() {
         feed.appendChild(link);
 
         const newsrow = document.createElement("div");
-        newsrow.classList.add("news-row");
+        newsrow.classList.add("news-row",'bg-black');
 
         const headline = document.createElement("span");
         headline.id = "headline";
@@ -28,7 +28,7 @@ function Push_News() {
       });
     });
 
-  fetch("../data/News.json")
+  /*fetch("../data/News.json")
     .then((response) => response.json())
     .then((data) => {
       const feed = document.querySelector(".news");
@@ -39,7 +39,7 @@ function Push_News() {
         feed.appendChild(link);
 
         const newsrow = document.createElement("div");
-        newsrow.classList.add("news-row");
+        newsrow.classList.add("news-row" ,'bg-black');
 
         const headline = document.createElement("span");
         headline.id = "headline";
@@ -53,5 +53,5 @@ function Push_News() {
         newsrow.appendChild(headline);
         link.appendChild(newsrow);
       });
-    });
+    });*/
 }
