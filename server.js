@@ -440,7 +440,7 @@ async function Get_Top_Gainers() {
     console.error("Error:", error);
   }
 }
-//async function run() {
+async function run() {
 
 //await Get_News_TradingView();
 await Get_News_ArabNews();
@@ -450,6 +450,6 @@ await Get_Stocks_EG();
 await Get_Sectors();
 await Get_Industries();
 await Get_Top_Gainers();
-//}
+}
 
-//setInterval(run, 20000);
+setInterval(run, 20000);
